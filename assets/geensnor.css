@@ -1,0 +1,42 @@
+img {
+    max-width: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 500;
+    margin-top: 40px;
+  }
+
+.site-header{
+    height: 240px;
+    background-image: url("cropped-Vintage-823x400.jpg");
+    background-repeat: repeat-y;
+    background-color: bisque;
+
+}
+
+.navbar{
+    background-color: #f15a24;
+    
+}
+
+.nav-item a{
+    color: white;
+}
+
+.nav-item a:hover{
+    color: lightgray;
+    text-decoration: underline;
+}
+
+a.dropdown-item{
+    color: black;
+}
+  
+.page-content{
+    font-family: 'Bitter', serif;
+    color: #333333;
+    line-height: 26px;
+    letter-spacing: .1px;
+}
