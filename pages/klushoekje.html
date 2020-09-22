@@ -1,11 +1,19 @@
 ---
-layout: frontpage
+layout: default
+title: Erik's klushoekje
 ---
 
 <!-- This loops through the Klushoekjes posts -->
 
+<h1>Welkom in Erik's klushoekje</h1>
+<p class="page-content">Geniet van alles wat ome Erik heeft gemaakt in zijn klushoekje. Of het nu over 3d printen,
+    kitten of Japanse zagen
+    gaat.
+    Erik weet van aanpakken!</p>
+<hr>
+Berichten in het klushoekje:
 
-{% for post in site.categories.Personal %}
+{% for post in site.categories.klushoekje %}
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
     <header class="post-header">
@@ -16,9 +24,8 @@ layout: frontpage
                     itemprop="name">{{ post.author }} op </span></span>
             {%- endif -%}
 
-            <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-                {%- assign date_format = site.minima.date_format | default: "%F %R" -%}
-                {{ post.date | date: date_format }}
+            <time class="dt-published" datetime="{{ post.date | date: "%d-%m-%Y"}}" itemprop="datePublished">
+                {{ post.date | date: "%d-%m-%Y"}}
             </time>
         </p>
     </header>

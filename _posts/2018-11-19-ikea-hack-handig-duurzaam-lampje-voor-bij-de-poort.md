@@ -8,7 +8,8 @@ guid: https://www.geensnor.nl/wp/?p=999
 permalink: /ikea-hack-handig-duurzaam-lampje-voor-bij-de-poort/
 image: /wp-content/uploads/2018/11/2018-11-19-17.21.18-e1542646102118.jpg
 categories:
-  - "Erik's klushoekje"
+  - Klushoekje
+  - Spullen
 ---
 <div class="wp-block-image">
   <figure class="alignleft"><img src="https://www.geensnor.nl/wp/wp-content/uploads/2018/11/2018-11-19-17.21.45-e1542646448423-150x150.jpg" alt="" class="wp-image-1003" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2018/11/2018-11-19-17.21.45-e1542646448423-150x150.jpg 150w, https://www.geensnor.nl/wp/wp-content/uploads/2018/11/2018-11-19-17.21.45-e1542646448423-450x450.jpg 450w" sizes="(max-width: 150px) 100vw, 150px" /></figure>
