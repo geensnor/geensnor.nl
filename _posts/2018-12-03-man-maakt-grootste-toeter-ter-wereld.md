@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=1059
 permalink: /man-maakt-grootste-toeter-ter-wereld/
 categories:
-  - Uncategorized
+  - Vertier
 ---
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"> 
 

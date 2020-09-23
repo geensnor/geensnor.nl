@@ -1,0 +1,73 @@
+img {
+    max-width: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 500;
+
+  }
+
+.site-header{
+    height: 240px;
+    background-image: url("cropped-Vintage-823x400.jpg");
+    background-color: white;
+    background-repeat: repeat-y;
+    background-position: 50% 50%;
+
+}
+
+.navbar{
+    background-color: #f15a24;   
+}
+
+.nav-item{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.nav-item a:hover{
+    color: lightgray;
+    text-decoration: underline;
+}
+
+a.dropdown-item{
+    color: black;
+}
+
+.post-meta{
+    color: grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+  
+.page-content, .post-content{
+    font-family: 'Bitter', serif;
+    font-size: 1.2em;
+    color: #333333;
+    line-height: 32px;
+    letter-spacing: .1px;
+}
+
+.content-container{
+    margin-top: 40px;
+}
+
+article{
+    margin-bottom: 40px;
+}
+
+footer{
+    margin-bottom: 50px;
+}
+
+blockquote {
+    padding: 0 1em;
+    border-left: .25em solid #dfe2e5;
+    color: gray;
+    font-style: italic;
+}

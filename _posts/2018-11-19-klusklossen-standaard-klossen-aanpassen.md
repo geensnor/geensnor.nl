@@ -8,7 +8,7 @@ guid: https://www.geensnor.nl/wp/?p=1024
 permalink: /klusklossen-standaard-klossen-aanpassen/
 image: /wp-content/uploads/2018/11/2018-11-19-12.37.38-e1542652479157.jpg
 categories:
-  - "Erik's klushoekje"
+  - Klushoekje
 ---
  Wij hebben een beetje een design bed. Dus ipv standaard pootjes, loopt er een soort chrome balk onderdoor. Hartstikke leuk natuurlijk. Aangezien ons bed op klossen moest (vanwege de komst van een kindje) was ik dus al bang dat dit niet ging passen. Dat klopte. Klossen hebben een soort verlaagd plateau en dat ging niet goed met die chrome balk. Aanpassen dus!  
   
