@@ -14,13 +14,13 @@ title: Erik's klushoekje
 Berichten in het klushoekje:
 
 {% for post in site.categories.klushoekje %}
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting">
 
     <header class="post-header">
         <h1 class="post-title p-name" itemprop="name headline">{{ post.title | escape }}</h1>
         <p class="post-meta">
             {%- if post.author -%}
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+            <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span class="p-author h-card"
                     itemprop="name">{{ post.author }} op </span></span>
             {%- endif -%}
 

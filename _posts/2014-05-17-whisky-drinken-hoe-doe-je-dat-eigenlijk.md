@@ -4,7 +4,7 @@ title: Whisky drinken, hoe doe je dat eigenlijk?
 date: 2014-05-17T12:57:16+02:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=388
+guid: https://www.geensnor.nl/wp/?p=388
 permalink: /whisky-drinken-hoe-doe-je-dat-eigenlijk/
 categories:
   - Uncategorized
@@ -20,4 +20,4 @@ In het onderstaande filmpje legt een (erg overtuigende) kerel met een snor uit h
 
 <span class="embed-youtube" style="text-align:center; display: block;"></span>
 
-Alles via [nrcq](http://www.nrcq.nl/2014/05/17/hoezo-zijn-dit-11-populairste-whiskys-ter-wereld)
+Alles via [nrcq](https://www.nrcq.nl/2014/05/17/hoezo-zijn-dit-11-populairste-whiskys-ter-wereld)

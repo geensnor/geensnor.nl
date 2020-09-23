@@ -4,7 +4,7 @@ title: Nieuwe geinige video van Ok go
 date: 2014-06-18T12:50:12+02:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=458
+guid: https://www.geensnor.nl/wp/?p=458
 permalink: /nieuwe-geinige-video-van-ok-go/
 categories:
   - Uncategorized

@@ -4,7 +4,7 @@ title: Nieuwe Metronomy, geremixed door Soulwax
 date: 2014-03-14T12:43:49+01:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=222
+guid: https://www.geensnor.nl/wp/?p=222
 permalink: /nieuwe-metronomy-geremixed-door-soulwax/
 categories:
   - Uncategorized

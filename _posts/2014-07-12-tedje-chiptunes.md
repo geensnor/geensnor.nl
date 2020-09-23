@@ -7,5 +7,5 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=525
 permalink: /tedje-chiptunes/
 categories:
-  - muziek
+  - Muziek
 ---

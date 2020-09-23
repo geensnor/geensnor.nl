@@ -9,4 +9,4 @@ permalink: /website-omloop-de-snor/
 categories:
   - Wielrennerij
 ---
- Om &#8220;De Omloop&#8221; nog meer aandacht te geven heeft Omloop De Snor inmiddels (al een tijdje) haar eigen site. Op [www.omloopdensnor.nl](http://www.omloopdesnor.nl)&nbsp;staan alle routes, plannen, foto&#8217;s en wetenswaardigheden over de belangrijkste tourtocht van Nederland.
+ Om &#8220;De Omloop&#8221; nog meer aandacht te geven heeft Omloop De Snor inmiddels (al een tijdje) haar eigen site. Op [www.omloopdensnor.nl](https://www.omloopdesnor.nl)&nbsp;staan alle routes, plannen, foto&#8217;s en wetenswaardigheden over de belangrijkste tourtocht van Nederland.

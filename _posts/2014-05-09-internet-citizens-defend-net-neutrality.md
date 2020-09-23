@@ -4,7 +4,7 @@ title: 'Internet Citizens: Defend Net Neutrality'
 date: 2014-05-09T22:31:18+02:00
 author: Erik
 layout: post
-guid: http://www.geensnor.nl/wp/?p=338
+guid: https://www.geensnor.nl/wp/?p=338
 permalink: /internet-citizens-defend-net-neutrality/
 categories:
   - Uncategorized

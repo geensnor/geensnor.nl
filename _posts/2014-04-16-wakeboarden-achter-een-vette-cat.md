@@ -4,7 +4,7 @@ title: Wakeboarden achter een vette cat
 date: 2014-04-16T09:51:16+02:00
 author: Erik
 layout: post
-guid: http://www.geensnor.nl/wp/?p=291
+guid: https://www.geensnor.nl/wp/?p=291
 permalink: /wakeboarden-achter-een-vette-cat/
 categories:
   - Uncategorized

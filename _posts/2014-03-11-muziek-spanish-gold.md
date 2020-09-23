@@ -4,7 +4,7 @@ title: 'Muziek: Spanish Gold'
 date: 2014-03-11T18:38:33+01:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=182
+guid: https://www.geensnor.nl/wp/?p=182
 permalink: /muziek-spanish-gold/
 categories:
   - Uncategorized
