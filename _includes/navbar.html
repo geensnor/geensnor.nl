@@ -10,9 +10,11 @@
                     <a class="nav-link" href="/index.html">home</a>
                 </li>
                 {% for page in site.pages %}
+                {% if page.url contains 'pages' %}
                 <li class="nav-item active">
                     <a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
                 </li>
+                {% endif %}
                 {% endfor %}
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
