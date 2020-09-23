@@ -4,7 +4,7 @@ title: Partij voor de vrijheid
 date: 2006-06-21T19:25:58+02:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=130
+guid: https://www.geensnor.nl/wp/?p=130
 permalink: /partij-voor-de-vrijheid/
 vortex_system_user_84.87.233.149:
   - 'a:2:{s:5:"liked";s:7:"noliked";s:8:"disliked";s:8:"disliked";}'
@@ -22,4 +22,4 @@ Om een leuk overzicht te maken van de ellende die de PVV gaat bewerkstelligen (i
 
 Alle reacties van dit topic zijn op de oude site te vinden:
 
-<http://www.geensnor.nl/geensnor/index.php?page=bericht&iid=12009>
+<https://www.geensnor.nl/geensnor/index.php?page=bericht&iid=12009>
