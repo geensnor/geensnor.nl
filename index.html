@@ -4,7 +4,6 @@ layout: default
 
 <!-- This loops through the paginated posts -->
 
-
 {% for post in paginator.posts %}
 <article></article>
 <div class="row justify-content-md-center">
@@ -23,6 +22,7 @@ layout: default
 {%- endfor -%}
 
 <!-- Pagination links -->
+
 <nav aria-label="Page navigation">
     <ul class="pagination">
         {% if paginator.previous_page %}
@@ -39,3 +39,4 @@ layout: default
         {% endif %}
     </ul>
 </nav>
+
