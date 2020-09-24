@@ -14,8 +14,8 @@ categories:
 
 Echter als dat ook niet is wat je wilt, dan biedt SKS nog een mooi alternatief. Een bidonhouder en opbergvakje in 1. Kei handig.
 
-<img src="http://www.sks-germany.com/inhalte/uploads/2016/08/11411_SPACECAGE_detail_03.png" alt="" data-mce-src="http://www.sks-germany.com/inhalte/uploads/2016/08/11411_SPACECAGE_detail_03.png" /> 
+<img src="https://www.sks-germany.com/inhalte/uploads/2016/08/11411_SPACECAGE_detail_03.png" alt="" data-mce-src="https://www.sks-germany.com/inhalte/uploads/2016/08/11411_SPACECAGE_detail_03.png" /> 
 
-<http://www.sks-germany.com/en/products/spacecage/>
+<https://www.sks-germany.com/en/products/spacecage/>
 
 <br data-mce-bogus="1" />

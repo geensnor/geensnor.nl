@@ -20,7 +20,7 @@ Als je een partij &#8220;slimme&#8221; lampen en stopcontacten hebt van verschil
 
 Domoticz snapt alles. Al het slimme spul (hier tenminte) heeft wel een of ander haakje waar Domoticz mee overweg kan. Doordat Domoticz zelf ook weer API&#8217;s heeft kun je via Domoticz dus best veel regelen. Alle lampen in huis kan ik bijvoorbeeld uitzetten door deze regel aan te roepen:
 
-> http://192.168.1.15:8084/json.htm?type=command&param=switchlight&idx=62&switchcmd=Off 
+> https://192.168.1.15:8084/json.htm?type=command&param=switchlight&idx=62&switchcmd=Off 
 
 Je hebt dan alleen nog iets nodig wat die API van Domoticz gaat gebruiken. En daarvoor heeft Apple sinds iOS 12 [Siri Opdrachten](https://itunes.apple.com/nl/app/opdrachten/id915249334?mt=8) voor. Met deze App wil Apple Siri wat meer open gooien voor gebruikers zodat ze niet nog verder achterop komen tov Google Home en Amazone Echo. Met Siri Opdrachten kun je een opdracht maken die de bovenstaande API aanroept. De opdracht wordt uitgevoerd als je een zelfgekozen uitspraak doet. &#8220;Alle lampen uit&#8221; bijvoorbeeld.
 

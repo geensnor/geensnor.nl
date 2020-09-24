@@ -4,15 +4,12 @@ title: 'Review: Garmin Vivosmart &#8211; UPDATE 2016'
 date: 2016-01-09T16:43:55+01:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=605
+guid: https://www.geensnor.nl/wp/?p=605
 permalink: /review-garmin-vivosmart/
 categories:
   - Spullen
-tags:
-  - review
-  - spullekes
 ---
-<img class="alignright" src="http://sites.garmin.com/vivo/m/g/vivosmart-choose-blue-1x.png" alt="" width="514" height="283" />**Update januari 2016**
+<img class="alignright" src="https://sites.garmin.com/vivo/m/g/vivosmart-choose-blue-1x.png" alt="" width="514" height="283" />**Update januari 2016**
 
 In de 1,5 jaar dat ik hem gehad heb, is hij twee keer kapot gegaan. Het schermpje blijkt niet zo lang mee te gaan. Het was een mooi licht dingetje, maar niet erg duurzaam dus.
 
@@ -83,6 +80,6 @@ Alle gegevens van de Vivosmart kun je terugvinden op Garmin connect. Dit is zowe
 
 &nbsp;
 
-Meer info: <a href="http://sites.garmin.com/vivo/vivosmart/" target="_blank">http://sites.garmin.com/vivo/vivosmart/</a>
+Meer info: <a href="https://sites.garmin.com/vivo/vivosmart/" target="_blank">https://sites.garmin.com/vivo/vivosmart/</a>
 
-Andere review: <a href="http://techcrunch.com/2014/09/29/garmin-vivosmart-review-part-activity-tracker-part-smartwatch-all-awesome/" target="_blank">http://techcrunch.com/2014/09/29/garmin-vivosmart-review-part-activity-tracker-part-smartwatch-all-awesome/</a>
+Andere review: <a href="https://techcrunch.com/2014/09/29/garmin-vivosmart-review-part-activity-tracker-part-smartwatch-all-awesome/" target="_blank">https://techcrunch.com/2014/09/29/garmin-vivosmart-review-part-activity-tracker-part-smartwatch-all-awesome/</a>

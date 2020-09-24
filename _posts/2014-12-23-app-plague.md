@@ -4,7 +4,7 @@ title: 'App: Plague'
 date: 2014-12-23T18:12:55+01:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=649
+guid: https://www.geensnor.nl/wp/?p=649
 permalink: /app-plague/
 categories:
   - Uncategorized
@@ -15,4 +15,4 @@ tags:
 
 Af en toe komt er een app voorbij waarvan je denkt: Goh, dat zou best eens aardig kunnen zijn. Dit keer had ik dat bij Plague. Plague is een sociaal netwerk waarbij iedereen meteen aan elkaar gekoppeld is. De content die je erop zet wordt door personen in je omgeving (fysieke omgeving, mensen die in de buurt zijn) gezien en gedeeld of niet gedeeld. Dit delen gaat net als met Tinder door te swipen. Als je content veel wordt gedeeld gaat het dus de hele wereld over. Als je rommel erop zet, komen je spullen niet ver.
 
-<http://plague.io/>
+<https://plague.io/>

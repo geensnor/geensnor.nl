@@ -4,7 +4,7 @@ title: 'Woensdagse weetjes&#8230;nu mogelijk op alle dagen!'
 date: 2014-12-15T23:21:38+01:00
 author: Erik
 layout: post
-guid: http://www.geensnor.nl/wp/?p=645
+guid: https://www.geensnor.nl/wp/?p=645
 permalink: /woensdagse-weetjes-nu-mogelijk-op-alle-dagen/
 categories:
   - Uncategorized
@@ -46,7 +46,7 @@ Joris schreef ergens 10 jaar geleden (!!) de volgende openingspost:
         <span style="color: #808080;"><em>Een fossiel mosselkreeftje is het oudste mannelijke dier dat ooit is gevonden. Het beestje is 425 miljoen jaar oud en heeft de naam Colymbosathon ecplecticos, dat zoveel als &#8220;zwemmer met een grote penis&#8221; betekent.</em></span></td> </tr> </tbody> </table> 
         
         <p>
-          Dit resulteerde in in een prachtig topic, een van de beste mag ik wel zeggen, met maar liefst <a href="http://www.geensnor.nl/geensnor/index.php?page=bericht&iid=11718">92 mooie toevoegingen</a>.
+          Dit resulteerde in in een prachtig topic, een van de beste mag ik wel zeggen, met maar liefst <a href="https://www.geensnor.nl/geensnor/index.php?page=bericht&iid=11718">92 mooie toevoegingen</a>.
         </p>
         
         <p>

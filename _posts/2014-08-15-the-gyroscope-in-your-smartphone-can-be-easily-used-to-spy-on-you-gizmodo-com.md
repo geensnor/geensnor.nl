@@ -4,7 +4,7 @@ title: 'The Gyroscope In Your Smartphone Can Be Easily Used To Spy On You [gizmo
 date: 2014-08-15T14:17:06+02:00
 author: Erik
 layout: post
-guid: http://www.geensnor.nl/wp/?p=563
+guid: https://www.geensnor.nl/wp/?p=563
 permalink: /the-gyroscope-in-your-smartphone-can-be-easily-used-to-spy-on-you-gizmodo-com/
 categories:
   - Internet
@@ -17,4 +17,4 @@ Wetenschappers zijn er in geslaagd (zo begint elk stuk) om de gyroscope, waar ge
 
 &nbsp;
 
-[The Gyroscope In Your Smartphone Can Be Easily Used To Spy On You [gizmodo.com]](http://gizmodo.com/the-gyroscope-in-your-smartphone-can-be-easily-used-to-1622053612).
+[The Gyroscope In Your Smartphone Can Be Easily Used To Spy On You [gizmodo.com]](https://gizmodo.com/the-gyroscope-in-your-smartphone-can-be-easily-used-to-1622053612).

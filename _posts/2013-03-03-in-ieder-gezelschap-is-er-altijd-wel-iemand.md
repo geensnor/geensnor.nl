@@ -4,14 +4,14 @@ title: 'In ieder gezelschap is er altijd wel iemand&#8230;'
 date: 2013-03-03T20:42:24+01:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=134
+guid: https://www.geensnor.nl/wp/?p=134
 permalink: /in-ieder-gezelschap-is-er-altijd-wel-iemand/
 categories:
   - Vertier
 tags:
   - klassieker
 ---
-[<img class="size-medium wp-image-135 alignright" alt="Somali_Goats_and_sheeps" src="http://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps-300x225.jpg" width="300" height="225" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps-300x225.jpg 300w, https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps.jpg)In ieder gezelschap is er altijd wel iemand die op een gegeven moment het nodig vind om met een kleine correctie iemand er fijntjes op te wijzen dat Nasi Goreng indonesisch is in plaats van Chinees, ondanks dat je het bij de chinees haalt.
+[<img class="size-medium wp-image-135 alignright" alt="Somali_Goats_and_sheeps" src="https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps-300x225.jpg" width="300" height="225" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps-300x225.jpg 300w, https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps.jpg)In ieder gezelschap is er altijd wel iemand die op een gegeven moment het nodig vind om met een kleine correctie iemand er fijntjes op te wijzen dat Nasi Goreng indonesisch is in plaats van Chinees, ondanks dat je het bij de chinees haalt.
 
 Het zijn van die dingen die mij blijkbaar opvallen. Groepsgedrag, dingen die je elke keer weer opnieuw ziet of hoort, herhaalpatronen, dat soort werk. Ik kan daar slecht tegen. Iedereen weet het ten eerste al. Daarbij zeggen die personen het vaak uit een soort onuitstaanbare arrogantie. Zo van&#8230;hee zie mij even slim en ontwikkeld zijn want ik weet waar de nasi vandaan komt.
 
@@ -107,7 +107,7 @@ Tijd voor een opsomtopic
 > 
 > (Wat overigens niet waar is. De eskimo&#8217;s hebben twee woorden voor sneeuw, die zoveel betekenen als &#8220;vallende sneeuw in de lucht&#8221; en &#8220;sneeuw op de grond&#8221;.) 
 
-> Nou, daar is het laatste woord ook nog niet over gezegd: http://nl.wikipedia.org/wiki/Sneeuwwoordenverhaal 
+> Nou, daar is het laatste woord ook nog niet over gezegd: https://nl.wikipedia.org/wiki/Sneeuwwoordenverhaal 
 
 > Met stip binnen gekomen in de top 5 van afgelopen jaar. Iedereen, maar dan ook werkelijk iedereen die na het doen van een flauw grapje&#8230;.een drum stel na doet. 
 

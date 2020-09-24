@@ -11,6 +11,6 @@ categories:
 ---
 Als je niet uitkijkt word je fiets snel een rollende kerstboom. Je wilt immers alles mee hebben: Pompjes, tasjes, garminhouders, fietsbel, etc.
 
-De slimme mensen van <a data-mce-href="http://hidemybell.cc/" href="http://hidemybell.cc/">hidemybell</a> combineren in ieder geval 2 van die zaken. Garminhouder en fietsbel in 1!
+De slimme mensen van <a data-mce-href="https://hidemybell.cc/" href="https://hidemybell.cc/">hidemybell</a> combineren in ieder geval 2 van die zaken. Garminhouder en fietsbel in 1!
 
 <img src="https://www.fiets.nl/app/uploads/2016/03/HideMyBell_weatherproof.jpg" alt="" data-mce-src="https://www.fiets.nl/app/uploads/2016/03/HideMyBell_weatherproof.jpg" />

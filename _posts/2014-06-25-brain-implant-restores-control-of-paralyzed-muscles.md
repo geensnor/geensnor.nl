@@ -4,7 +4,7 @@ title: Brain implant restores control of paralyzed muscles
 date: 2014-06-25T13:20:26+02:00
 author: Erik
 layout: post
-guid: http://www.geensnor.nl/wp/?p=501
+guid: https://www.geensnor.nl/wp/?p=501
 permalink: /brain-implant-restores-control-of-paralyzed-muscles/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ categories:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://www.engadget.com/2014/06/25/brain-implant-neurobridge-quadriplegia/"><img src='http://www.geensnor.nl/wp/wp-content/uploads/2014/06/paraplegia.jpg' alt='' /></a>
+  <a href="https://www.engadget.com/2014/06/25/brain-implant-neurobridge-quadriplegia/"><img src='https://www.geensnor.nl/wp/wp-content/uploads/2014/06/paraplegia.jpg' alt='' /></a>
 </p>
 
-[Brain implant restores control of paralyzed muscles](http://www.engadget.com/2014/06/25/brain-implant-neurobridge-quadriplegia/).
+[Brain implant restores control of paralyzed muscles](https://www.engadget.com/2014/06/25/brain-implant-neurobridge-quadriplegia/).

@@ -4,7 +4,7 @@ title: 'NCSC&#8230;daar maak je vrienden mee!'
 date: 2014-10-15T20:49:32+02:00
 author: Erik
 layout: post
-guid: http://www.geensnor.nl/wp/?p=618
+guid: https://www.geensnor.nl/wp/?p=618
 permalink: /ncsc-daar-maak-je-vrienden-mee/
 categories:
   - Internet
@@ -30,7 +30,7 @@ En toen hadden we de NCSC (Nationaal cyber security centrum) in de mail van de r
 > </p>
 > 
 > <p style="padding-left: 30px;">
->   <em>02.06.2014 &#8211; &#8220;http://www.geensnor.nl/geensnor/index.php?page=bericht&iid=11718&quote=-1%27&#8221;</em>
+>   <em>02.06.2014 &#8211; &#8220;https://www.geensnor.nl/geensnor/index.php?page=bericht&iid=11718&quote=-1%27&#8221;</em>
 > </p>
 
 Wij hebben direct onze beste mensen op de situatie gezet. Dit soort zaken moet je inderdaad niet onderschatten! De hemel geprezen en we hebben echt geluk gehad&#8230;want de situatie is weer onder controle! Pfffff oog van de naald..wat ik je brom.

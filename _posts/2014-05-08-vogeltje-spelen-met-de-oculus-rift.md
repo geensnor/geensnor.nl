@@ -4,7 +4,7 @@ title: Vogeltje spelen met de Oculus Rift
 date: 2014-05-08T18:21:16+02:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=321
+guid: https://www.geensnor.nl/wp/?p=321
 permalink: /vogeltje-spelen-met-de-oculus-rift/
 categories:
   - Uncategorized
@@ -15,4 +15,4 @@ Je kan natuurlijk allemaal oorlogsspelletjes gaan spelen met je VR bril. Maar mi
 
 
 
-[Birdly &#8211; Teaser](http://vimeo.com/91069214) from [maxR](http://vimeo.com/user25136306) on [Vimeo](https://vimeo.com).
+[Birdly &#8211; Teaser](https://vimeo.com/91069214) from [maxR](https://vimeo.com/user25136306) on [Vimeo](https://vimeo.com).

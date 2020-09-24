@@ -4,7 +4,7 @@ title: The New Pornographers
 date: 2014-07-20T15:16:37+02:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=528
+guid: https://www.geensnor.nl/wp/?p=528
 permalink: /the-new-pornographers/
 categories:
   - Muziek

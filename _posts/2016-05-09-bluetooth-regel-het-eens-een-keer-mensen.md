@@ -17,7 +17,7 @@ vortex_system_user_1:
 categories:
   - Spullen
 ---
-<img class="alignleft" src="http://www.inktechnologies.com/blog/wp-content/uploads/2012/05/Bluetooth-Logo2.png" alt="" width="217" height="217" />Bluetooth werkt niet goed. Hieronder volgt een lijstje van dingen die ik via Bluetooth op mijn iPhone heb aangesloten in volgorde van hoe goed het werkt. Beste bovenaan.
+<img class="alignleft" src="https://www.inktechnologies.com/blog/wp-content/uploads/2012/05/Bluetooth-Logo2.png" alt="" width="217" height="217" />Bluetooth werkt niet goed. Hieronder volgt een lijstje van dingen die ik via Bluetooth op mijn iPhone heb aangesloten in volgorde van hoe goed het werkt. Beste bovenaan.
 
   1. Pebble Time. Werkt kei goed. Nooit problemen mee. Pebble heeft ook 2 verbindingen met m&#8217;n telefoon: Een Bluetooth LE en een gewone Bluetooth verbinding. Dat zou iedereen moeten doen!
   2. Garmin Edge 520. Werkt ook prima. Maakt (meestal) vanzelf verbinding en eigenlijk nooit grote problemen mee.

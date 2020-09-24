@@ -4,7 +4,7 @@ title: Stukje Zweedse følk
 date: 2014-05-12T22:17:07+02:00
 author: Joris
 layout: post
-guid: http://www.geensnor.nl/wp/?p=350
+guid: https://www.geensnor.nl/wp/?p=350
 permalink: /stukje-zweedse-folk/
 categories:
   - Uncategorized
