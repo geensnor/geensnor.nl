@@ -27,13 +27,10 @@ layout: default
     <ul class="pagination">
         {% if paginator.previous_page %}
         <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">vorige</a></li>
-
         {% endif %}
-
         <li class="page-item"><a class="page-link">pagina {{ paginator.page }} van
                 {{ paginator.total_pages }}</a>
         </li>
-
         {% if paginator.next_page %}
         <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">volgende</a></li>
         {% endif %}
