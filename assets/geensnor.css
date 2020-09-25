@@ -71,3 +71,15 @@ blockquote {
     color: gray;
     font-style: italic;
 }
+
+table, th, td {
+    border: 1px solid #b2b2b2;
+  }
+  
+  th{
+      text-align: center;
+  }
+  
+  td, th{
+      padding: 5px;
+  }
