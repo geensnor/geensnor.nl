@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=924
 permalink: /tocht-bij-de-voordeur/
 categories:
-  - klushoekje
+  - Klushoekje
 ---
  De oplettende lezer heeft al veel eerder ontdekt. Ik heb een woning waar eigenlijk non stop wel aan te klussen valt. Het huis is uit 1925. Karakter te over&#8230;.maar daardoor ook altijd wat doen. Hee maar&#8230;..karakter Erik! De voordeur in onze woning is volgens de buurman erin gehangen door bouwvakkers&#8230;maar wel lekker zwart. Dat was volgens hem de reden dat hij er eigenlijk niet lekker inhangt. Nou goed dat zal best en hij hangt er ook niet fijn in. Onder de deur was een kier van 1 cm en aan de zijkanten was er eigenlijk te weinig ruimte voor een normale tochtstrip/profiel of tochtband. Wacht&#8230;dat leg ik ff uit  
 
