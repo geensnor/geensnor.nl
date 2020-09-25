@@ -55,7 +55,7 @@ Marijn sluit aan in een lange rij van fameuze tourvoorspellers die geensnor.nl d
     </td>
     
     <td>
-      geen idee
+      Marijn
     </td>
   </tr>
   
