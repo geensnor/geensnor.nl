@@ -4,18 +4,18 @@ layout: default
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-<article></article>
-<div class="row justify-content-md-center">
-    <div class="col-12">
-        <h1>{{ post.title | escape }}</h1>
+<article>
+    <div class="row justify-content-md-center">
+        <div class="col-12">
+            <h1>{{ post.title | escape }}</h1>
+        </div>
+        <div class="col-12 post-meta">
+            {{ post.author }} op {{ post.date | date: "%d-%m-%Y"}}
+        </div>
     </div>
-    <div class="col-12 post-meta">
-        {{ post.author }} op {{ post.date | date: "%d-%m-%Y"}}
+    <div class="row justify-content-md-center">
+        <div class="col-12 page-content">{{ post.content }}</div>
     </div>
-</div>
-<div class="row justify-content-md-center">
-    <div class="col-12 page-content">{{ post.content }}</div>
-</div>
 </article>
 <hr>
 {%- endfor -%}
@@ -35,4 +35,3 @@ layout: default
         {% endif %}
     </ul>
 </nav>
-
