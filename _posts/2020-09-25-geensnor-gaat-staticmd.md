@@ -2,7 +2,6 @@
 title: 'Geensnor gaat static'
 author: Joris
 layout: post
-guid: https://www.geensnor.nl/wp/?p=169
 permalink: /geensnor-gaat-static/
 categories:
   - Internet
