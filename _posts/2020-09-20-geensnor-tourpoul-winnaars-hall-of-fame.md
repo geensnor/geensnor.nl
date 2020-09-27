@@ -1,10 +1,8 @@
 ---
-id: 1248
 title: Geensnor Tourpoul winnaars Hall of Fame
 date: 2020-09-20T20:11:29+02:00
 author: Joris
 layout: post
-guid: https://www.geensnor.nl/wp/?p=1248
 permalink: /geensnor-tourpoul-winnaars-hall-of-fame/
 categories:
   - Vertier
