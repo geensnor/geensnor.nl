@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=645
 permalink: /woensdagse-weetjes-nu-mogelijk-op-alle-dagen/
 categories:
-  - Uncategorized
+  - Geensnor
 ---
 Joris schreef ergens 10 jaar geleden (!!) de volgende openingspost:
 

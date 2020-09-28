@@ -6,6 +6,9 @@ author: Erik
 layout: post
 guid: https://www.geensnor.nl/wp/?p=314
 permalink: /volg-live-het-uitzicht-van-het-internationale-ruimtestation-op-de-aarde/
+categories:
+  - Internet
+  - Tips
 ---
 He gezellig. Je kan tegenwoordig live meekijken vanuit het ISS met 4 cams die op de aarde zijn gericht.
 

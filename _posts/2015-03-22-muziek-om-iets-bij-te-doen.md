@@ -7,8 +7,6 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=701
 permalink: /muziek-om-iets-bij-te-doen/
 categories:
-  - Uncategorized
-tags:
-  - muziek
+  - Muziek
 ---
 DJ mix van Bottin die soepel in het gehoor ligt.

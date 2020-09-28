@@ -7,7 +7,8 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=574
 permalink: /tapiriik-syncen-tussen-strava-endomondo-en-garmin/
 categories:
-  - Uncategorized
+  - Wielrennerij
+  - Handig
 ---
 <img class="alignnone" src="https://www.maartensport.nl/wp-content/uploads/2013/07/Screen-Shot-2013-07-14-at-1.31.20-PM.png" alt="" width="591" height="251" />
 

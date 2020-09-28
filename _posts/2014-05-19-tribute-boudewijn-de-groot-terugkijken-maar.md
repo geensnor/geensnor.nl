@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=396
 permalink: /tribute-boudewijn-de-groot-terugkijken-maar/
 categories:
-  - Uncategorized
+  - Muziek
 ---
 <img class="alignnone" src="https://www.recordsale.de/cdpix/b/boudewijn_de_groot-vijf_jaar_hits.jpg" alt="" width="382" height="400" />
 

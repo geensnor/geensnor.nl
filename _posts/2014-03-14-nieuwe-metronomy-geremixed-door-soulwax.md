@@ -7,8 +7,6 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=222
 permalink: /nieuwe-metronomy-geremixed-door-soulwax/
 categories:
-  - Uncategorized
-tags:
-  - muziek
+  - Muziek
 ---
 Het nieuwe album van Metronomy is weer prima. Soulwax vond het nodig om een remix te maken van het nummer Love Letters

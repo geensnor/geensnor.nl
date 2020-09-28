@@ -9,6 +9,7 @@ permalink: /spam-spam-spam/
 image: /wp-content/uploads/2017/01/spam-fries-672x372.jpg
 categories:
   - Internet
+  - Geensnor
 ---
 Door de bekende populariteit van ons Geensnor platform hebben wij uiteraard ook last van de welbekende chinese en nigeriaanse spammers. Hoge bomen vangen nou eenmaal veel wind.
 

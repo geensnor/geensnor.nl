@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=358
 permalink: /gevonden-andy-warhol-op-zijn-amiga/
 categories:
-  - Uncategorized
+  - Kunst
 ---
 ![Hillman Photography Initiative](https://www.geensnor.nl/wp/wp-content/uploads/2014/05/warhol-image-2-970x646-c.jpg)
 

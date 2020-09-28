@@ -7,9 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=388
 permalink: /whisky-drinken-hoe-doe-je-dat-eigenlijk/
 categories:
-  - Uncategorized
-tags:
-  - whisky
+  - Whisky
 ---
 In het onderstaande filmpje legt een (erg overtuigende) kerel met een snor uit hoe je whisky moet drinken. Het blijkt dat je &#8220;hallo&#8221; moet zeggen tegen de whisky en dat je de eerste slok weg moet gooien. Omdat we op geensnor.nl prat gaan op de verdieping, duiding context, hier nog twee weetjes over whisky en landen:
 

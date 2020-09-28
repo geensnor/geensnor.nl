@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=115
 permalink: /wielrennen-geensnor-trofee/
 categories:
-  - Wielrennen
+  - Wielrennerij
 ---
 **Update februari 2016**
 

@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=338
 permalink: /internet-citizens-defend-net-neutrality/
 categories:
-  - Uncategorized
+  - Internet
 ---
 Net Neutrality&#8230;wat is dat eigenlijk.
 

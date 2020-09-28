@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=486
 permalink: /internet-story-on-vimeo/
 categories:
-  - Uncategorized
+  - Internet
 ---
 Gewoon kijken. Leuk filmpje  
 
