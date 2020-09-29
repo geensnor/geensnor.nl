@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Draadloze oordopjes voor de kleine beurs
+author: Joris
 categories:
  - Spullen
  - Tips
