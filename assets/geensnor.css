@@ -5,8 +5,11 @@ img {
 h1, h2, h3, h4, h5 {
     font-family: 'Zilla Slab', serif;
     font-weight: 500;
+}
 
-  }
+h2{
+    margin-top: 40px;
+}
 
 .site-header{
     height: 240px;
@@ -75,11 +78,11 @@ blockquote {
 table, th, td {
     border: 1px solid #b2b2b2;
   }
-  
-  th{
+
+th{
       text-align: center;
-  }
+}
   
-  td, th{
+td, th{
       padding: 5px;
-  }
+}
