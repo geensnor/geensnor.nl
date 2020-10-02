@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Thuiswerkplaylist van 3voor12 #juistnu
-published: false
 author: Joris
 categories:
  - Muziek
