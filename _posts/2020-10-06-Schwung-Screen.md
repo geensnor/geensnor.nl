@@ -12,4 +12,4 @@ Schwung Screen is een manier om tijdens een evenement, bijvoorbeeld een bruiloft
 
 Bezoekers kunnen de QR code scannen op het scherm, maar de organisatie van het evenement kan deze natuurlijk ook printen en op iedere tafel leggen.
 
-Schwung Screen is beschikbaar via [https://github.com/Zuijdam/Schwung-Screen] (https://github.com/Zuijdam/Schwung-Screen)[] 
+Schwung Screen is beschikbaar via [https://github.com/Zuijdam/Schwung-Screen](https://github.com/Zuijdam/Schwung-Screen)
