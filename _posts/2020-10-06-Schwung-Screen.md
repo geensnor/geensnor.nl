@@ -10,6 +10,6 @@ Vandaag presenteert het team van Geensnor: Schwung Screen 1.0. Sommige van onze 
 Schwung Screen is een manier om tijdens een evenement, bijvoorbeeld een bruiloft, contact met elkaar te kunnen hebben via een groot scherm. Via een simpele webpagina, die gebruikers kunnen openen door een QR code te scannen, kan een bezoeker een kort bericht versturen die vervolgens binnen een oogwenk wordt getoond op het grote scherm. 
 ![Image of Schwung Screen](assets/IMG_5932.JPG)
 
-Bezoeker kunnen de QR code scannen op het scherm maar de organisatie kan deze natuurlijk ook printen en op iedere tafel leggen.
+Bezoekers kunnen de QR code scannen op het scherm, maar de organisatie van het evenement kan deze natuurlijk ook printen en op iedere tafel leggen.
 
-Schwung Screen is beschikbaar via https://github.com/Zuijdam/Schwung-Screen . Downloaden, ergens hosten en gaan met de banaan!
+Schwung Screen is beschikbaar via [https://github.com/Zuijdam/Schwung-Screen] (https://github.com/Zuijdam/Schwung-Screen)[] 
