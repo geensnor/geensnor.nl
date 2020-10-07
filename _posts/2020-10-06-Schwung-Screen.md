@@ -11,7 +11,7 @@ Vandaag presenteert het team van Geensnor: Schwung Screen 1.0. Sommige van onze 
 
 ## Schwung Screen, whut whut?
 Schwung Screen is een manier om tijdens een evenement, bijvoorbeeld een bruiloft, contact met elkaar te kunnen hebben via een groot scherm. Via een simpele webpagina, die gebruikers kunnen openen door een QR code te scannen, kan een bezoeker een kort bericht versturen die vervolgens binnen een oogwenk wordt getoond op het grote scherm. 
-![Image of Schwung Screen](assets/posts/IMG_5932.JPG)
+![Image of Schwung Screen](/assets/posts/IMG_5932.JPG)
 
 Bezoekers kunnen de QR code scannen op het scherm, maar de organisatie van het evenement kan deze natuurlijk ook printen en op iedere tafel leggen.
 
