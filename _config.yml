@@ -22,7 +22,7 @@ title: geensnor.nl - Dat zit wel snor!
 email: geensnorleestgeenemail@geensnor.nl
 description: Multi channel creative. Interactive disruptor. Platform optimizer. Connector.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://geensnor.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://geensnor.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 paginate: 10
