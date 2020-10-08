@@ -2,6 +2,7 @@
 layout: post
 title: Verslavend fabriekspel in je browser
 author: Joris
+permalink: /fabriek-spel/
 categories:
  - Vertier
  - Internet
