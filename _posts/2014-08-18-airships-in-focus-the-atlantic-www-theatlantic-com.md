@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=566
 permalink: /airships-in-focus-the-atlantic-www-theatlantic-com/
 categories:
-  - Uncategorized
+  - Internet
 ---
 Zeppelins. Zeppelins zijn tof. Je kan bijna niet geloven dat ze hebben bestaan maar deze fotoserie bewijst het tegendeel. Een hele toffe collectie plaatjes kijken dus.
 

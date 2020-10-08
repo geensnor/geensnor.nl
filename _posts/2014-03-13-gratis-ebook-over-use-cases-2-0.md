@@ -7,7 +7,8 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=214
 permalink: /gratis-ebook-over-use-cases-2-0/
 categories:
-  - Uncategorized
+  - Internet
+  - Tips
 ---
 Gratis ebook over use cases 2.0. Wat er precies 2.0 aan is weet ik niet, maar het is een goed helder boek, vol met open deuren, maar toch leuk om weer eens helder te hebben.
 

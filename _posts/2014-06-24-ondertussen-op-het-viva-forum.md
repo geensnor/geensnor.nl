@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=499
 permalink: /ondertussen-op-het-viva-forum/
 categories:
-  - Uncategorized
+  - Internet
 ---
 Rare opmerking leidster KDV
 

@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=284
 permalink: /hoe-scoor-jij-op-de-schaal-van-gordon/
 categories:
-  - Uncategorized
+  - Internet
 ---
 Chinees met een nummer op een bedje van rijst. We kwamen niet meer bij na de hilarische grap van de valse relnicht. Het meertens instituut, in combinatie met Quest, namen er van gebruik om een gezellige quiz te maken. Hoe Gordon ben jij eigenlijk?
 

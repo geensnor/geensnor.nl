@@ -7,9 +7,8 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=649
 permalink: /app-plague/
 categories:
-  - Uncategorized
-tags:
-  - app
+  - Internet
+  - Vertier
 ---
 <img class="alignright" src="https://lh6.ggpht.com/NOGy31oSA1qADXoeAoFN_U3XpA0phzlV7hWfDqZc1CFKmC2zLRlHywwUOcrafXYd1YE=h500" alt="" width="300" height="500" />
 

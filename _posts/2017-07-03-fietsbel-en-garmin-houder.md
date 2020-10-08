@@ -8,6 +8,7 @@ guid: https://www.geensnor.nl/wp/?p=887
 permalink: /fietsbel-en-garmin-houder/
 categories:
   - Wielrennerij
+  - Spullen
 ---
 Als je niet uitkijkt word je fiets snel een rollende kerstboom. Je wilt immers alles mee hebben: Pompjes, tasjes, garminhouders, fietsbel, etc.
 

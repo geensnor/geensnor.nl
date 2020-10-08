@@ -7,9 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=321
 permalink: /vogeltje-spelen-met-de-oculus-rift/
 categories:
-  - Uncategorized
-tags:
-  - filmpje
+  - Spullen
 ---
 Je kan natuurlijk allemaal oorlogsspelletjes gaan spelen met je VR bril. Maar misschien is het wel eens een keer aardig om te doen alsof je een vogel bent. Mensen op een duitse kunstacademie hebben daarvoor het volgende ding gemaakt
 

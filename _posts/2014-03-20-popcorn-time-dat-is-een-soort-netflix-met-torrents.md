@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=232
 permalink: /popcorn-time-dat-is-een-soort-netflix-met-torrents/
 categories:
-  - Uncategorized
+  - Internet
 ---
 <p style="text-align: center;">
   <img class="aligncenter" alt="" src="https://www.bloovi.be/frontend/files/userfiles/images/Schermafbeelding%202014-03-18%20om%2012_48_16(1).png" width="753" height="500" />

@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=501
 permalink: /brain-implant-restores-control-of-paralyzed-muscles/
 categories:
-  - Uncategorized
+  - Internet
 ---
 &nbsp;
 

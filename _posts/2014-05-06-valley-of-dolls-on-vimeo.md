@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=311
 permalink: /valley-of-dolls-on-vimeo/
 categories:
-  - Uncategorized
+  - Internet
 ---
 _<span style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px;">Eleven years ago, Ayano Tsukimi returned to her home in Nagoro. Confronted with constant departures, she has populated the village with dolls, each representing a former villager. Around 350 of the giant dolls now reside in and around Nagoro, replacing those that died or abandoned the village years ago.</span>_
 

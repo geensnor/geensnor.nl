@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=188
 permalink: /efterklang-the-ghost-of-piramida/
 categories:
-  - Uncategorized
+  - Muziek
 ---
 _[  
 <img class="aligncenter size-full wp-image-192" alt="BANNERvimeoONdemand" src="https://www.geensnor.nl/wp/wp-content/uploads/2014/03/BANNERvimeoONdemand2.jpg" width="700" height="372" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2014/03/BANNERvimeoONdemand2.jpg 700w, https://www.geensnor.nl/wp/wp-content/uploads/2014/03/BANNERvimeoONdemand2-300x159.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />](https://www.geensnor.nl/wp/wp-content/uploads/2014/03/BANNERvimeoONdemand2.jpg)_ 

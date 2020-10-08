@@ -7,9 +7,9 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=1139
 permalink: /kitten-2-2-de-praktijk-met-praktische-tips/
 categories:
-  - klushoekje
+  - Klushoekje
 ---
- Je hebt inmiddels alle spullen gekocht uit mijn [vorige post](https://www.geensnor.nl/wp/kitten/) uit mijn klushoekje. Volledig beslagen ten ijs betreed je het slagveld, klaar om die gleuf eens vol te purren! 
+ Je hebt inmiddels alle spullen gekocht uit mijn [vorige post](https://www.geensnor.nl/wp/kitten/) uit mijn Klushoekje. Volledig beslagen ten ijs betreed je het slagveld, klaar om die gleuf eens vol te purren! 
 
 ## Voorbereiding  
 Voordat je begint, moet de oude kit weg. Dat is een irritante klus maar het is niet anders. Pak je mesjes en ga aan de slag. Snij aan de bovenkant en onderkant in je kit en probeer het eruit te trekken. Als je de oude kit oprolt gaat dat soms beter. Haal de kit echt goed weg, en houd de stofzuiger erbij, dat helpt ook. Vergeet ook niet om met de krabber de muur en blad goed te krabben want soms zie je niet dat daar ook kitresten zitten. Eventueel kun je het laatste doen met oplosmiddel, maar dat werkt vrij matig. Daarna schoonmaken, het te kitten oppervlakte moet schoon en vetvrij zijn, en droog. Ik doe dat meestal met ammoniak verdunt in lauw water. Schilders, en de rest van het internet zeggen dat dit niet goed werkt en je echt ontvetter moet hebben. Zorg ook dat er geen vuil meer is (stofzuigen) en het oppervlakte droog is. Is de gleuf erg groot, duw er dan eerst rugvulling in. Diep genoeg, het mag niet uitsteken en zorgt er vooral voor dat je kit niet achter je tegelwerk gaat vullen en je niet oneindig veel kit nodig hebt. Vervolgens gebruik ik bijna altijd primer, voor een optimale hechting. Ook daar zijn de meningen over verdeeld maar ik heb er hele goede ervaringen mee, en het is een kleine moeite. Gewoon even voorstrijken met een kwastje op het oppervlakte, zorgt voor een betere hechting. Kunstof moet je trouwens altijd primeren. (bijv. kunstof douchebak). Primer 15 minuten laten drogen en je bent er klaar voor. Leg gereedschap klaar, kies een afstrijkplasticje en kies de juiste maat. Leg ook een doekje klaar (om de kitspuit op te leggen) en keukenpapier om overtollige kit van je schrapertje af te halen. Pak ook een plantenspuit met water en afwasmiddel erin. 

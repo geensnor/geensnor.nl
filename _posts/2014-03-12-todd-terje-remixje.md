@@ -7,9 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=195
 permalink: /todd-terje-remixje/
 categories:
-  - Uncategorized
-tags:
-  - muziek
+  - Muziek
 ---
 Tuurlijk&#8230;Noorse Electroooo
 

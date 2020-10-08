@@ -7,8 +7,5 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=237
 permalink: /tedje-weekendmuziek/
 categories:
-  - Uncategorized
-tags:
-  - muziek
-  - tedje
+  - Muziek
 ---

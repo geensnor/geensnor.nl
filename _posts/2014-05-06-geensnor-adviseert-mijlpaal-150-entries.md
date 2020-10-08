@@ -7,7 +7,8 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=307
 permalink: /geensnor-adviseert-mijlpaal-150-entries/
 categories:
-  - Uncategorized
+  - Geensnor
+  - Tips
 ---
 Iedereen kent het natuurlijk al, de grote geensnor adviseert lijst. Op basis van je locatie geven wij de tips en de gevaren in je directe omgeving. Zin in goede koffie maar je weet niet waar? Twijfel je over een tentje met een duistere kaart? Je hebt een boot maar je krijgt hem niet in het water? Wij vertellen het je!
 

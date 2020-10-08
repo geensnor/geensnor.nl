@@ -7,10 +7,8 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=401
 permalink: /amai-amai-ik-heb-een-raspberry-pi/
 categories:
-  - Uncategorized
-tags:
-  - klooien
-  - raspberry pi
+  - Spullen
+  - Internet
 ---
 <img class="alignnone" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Raspberry_Pi_-_Model_A.jpg" alt="" width="600" height="600" />
 

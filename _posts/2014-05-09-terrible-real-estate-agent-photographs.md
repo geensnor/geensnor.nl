@@ -7,7 +7,7 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=331
 permalink: /terrible-real-estate-agent-photographs/
 categories:
-  - Uncategorized
+  - Internet
 ---
 &nbsp;
 

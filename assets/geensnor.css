@@ -5,8 +5,11 @@ img {
 h1, h2, h3, h4, h5 {
     font-family: 'Zilla Slab', serif;
     font-weight: 500;
+}
 
-  }
+h2{
+    margin-top: 40px;
+}
 
 .site-header{
     height: 240px;
@@ -58,7 +61,7 @@ a.dropdown-item{
 }
 
 article{
-    margin-bottom: 40px;
+    margin-bottom: 160px;
 }
 
 footer{
@@ -70,4 +73,16 @@ blockquote {
     border-left: .25em solid #dfe2e5;
     color: gray;
     font-style: italic;
+}
+
+table, th, td {
+    border: 1px solid #b2b2b2;
+  }
+
+th{
+      text-align: center;
+}
+  
+td, th{
+      padding: 5px;
 }

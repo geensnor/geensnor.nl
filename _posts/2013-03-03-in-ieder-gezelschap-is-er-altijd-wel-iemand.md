@@ -8,8 +8,6 @@ guid: https://www.geensnor.nl/wp/?p=134
 permalink: /in-ieder-gezelschap-is-er-altijd-wel-iemand/
 categories:
   - Vertier
-tags:
-  - klassieker
 ---
 [<img class="size-medium wp-image-135 alignright" alt="Somali_Goats_and_sheeps" src="https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps-300x225.jpg" width="300" height="225" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps-300x225.jpg 300w, https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.geensnor.nl/wp/wp-content/uploads/2014/03/Somali_Goats_and_sheeps.jpg)In ieder gezelschap is er altijd wel iemand die op een gegeven moment het nodig vind om met een kleine correctie iemand er fijntjes op te wijzen dat Nasi Goreng indonesisch is in plaats van Chinees, ondanks dat je het bij de chinees haalt.
 

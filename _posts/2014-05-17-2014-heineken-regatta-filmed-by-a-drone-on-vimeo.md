@@ -7,7 +7,8 @@ layout: post
 guid: https://www.geensnor.nl/wp/?p=391
 permalink: /2014-heineken-regatta-filmed-by-a-drone-on-vimeo/
 categories:
-  - Uncategorized
+  - Zeilen
+  - Internet
 ---
 Oeh oeh. Meer bootjes met een drone. Die hele drone&#8217;s, die worden nog eens groot. Let op onze woorden.
 
