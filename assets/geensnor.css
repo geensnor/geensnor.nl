@@ -11,6 +11,13 @@ h2{
     margin-top: 40px;
 }
 
+h1>span{
+    background-color: black;
+padding: .5rem;
+color: #fff;
+line-height: 1.3em;
+}
+
 .site-header{
     height: 240px;
     background-image: url("cropped-Vintage-823x400.jpg");
