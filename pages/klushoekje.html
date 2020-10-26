@@ -17,7 +17,7 @@ Berichten in het klushoekje:
 <article class="post h-entry" itemscope itemtype="https://schema.org/BlogPosting">
 
     <header class="post-header">
-        <h1 class="post-title p-name" itemprop="name headline">{{ post.title | escape }}</h1>
+        <h1 class="post-title p-name" itemprop="name headline"><span>{{ post.title | escape }}</span></h1>
         <p class="post-meta">
             {%- if post.author -%}
             <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span class="p-author h-card"
