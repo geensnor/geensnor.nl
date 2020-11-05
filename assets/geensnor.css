@@ -1,5 +1,7 @@
 img {
     max-width: 100%;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 h1, h2, h3, h4, h5 {
@@ -13,9 +15,9 @@ h1, h2{
 
 h1>span{
     background-color: black;
-padding: .5rem;
-color: #fff;
-line-height: 1.3em;
+    padding: .5rem;
+    color: #fff;
+    line-height: 1.3em;
 }
 
 .site-header{
@@ -84,7 +86,7 @@ blockquote {
 
 table, th, td {
     border: 1px solid #b2b2b2;
-  }
+}
 
 th{
       text-align: center;
