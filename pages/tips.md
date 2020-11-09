@@ -1,6 +1,7 @@
 ---
 title: Tips
 layout: page
+permalink: pages/tips
 ---
 
 Wij van geensnor.nl proberen nogal eens wat uit. Als iets echt goed is, delen we dat natuurlijk maar al te graag!
