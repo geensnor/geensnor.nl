@@ -35,3 +35,8 @@ Alles staat op [Geensnor Adviseert](https://advies.geensnor.nl)
 ## Muziek
 [Geensnor Liederen op Spotify](https://open.spotify.com/playlist/2hNmcKMRceaxyCfF9jhBYy?si=YdmdWT1dRPmHauugxTxkYQ)
 
+## Software
+| Wat | Doet wat | Platform | URL | Toelichting |
+|-----|------|-----|-------------|
+|Photo Sweeper|Duplicated vinden in je foto's |Mac|https://overmacs.com/|Super handig tooltje (mac) om op disk (of zelfs in je Apple Photos) duplicates te vinden. Kost wel wat geld maar is het waard. Ik heb vele gb's kunnen besparen.|
+
