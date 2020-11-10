@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /draadloze-oordopjes-voor-de-kleine-beurs/
 title: Draadloze oordopjes voor de kleine beurs
 author: Joris
 categories:
