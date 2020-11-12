@@ -40,3 +40,9 @@ Alles staat op [Geensnor Adviseert](https://advies.geensnor.nl)
 |Wat|Doet wat|Platform|URL|Toelichting|
 |---|--------|--------|---|-----------|
 |Photo Sweeper|Duplicated vinden in je foto's|Mac|[website](https://overmacs.com/)|Super handig tooltje om op disk (of zelfs in je Apple Photos) duplicates te vinden. Kost wel wat geld, namelijk 10 euro, maar is het waard. Ik heb vele gb's kunnen besparen.|
+
+## Overig
+
+|Wat|Naam    |URL|Toelichting|
+|---|--------|---|-----------|
+|Afsdrukken foto's|Cewe|[cewe.nl](https://cewe.nl)|Cewe is voor zover ik na kan gaan (hebben ze natuurlijk niet allemaal geprobeerd) een prima site om je foto's af te laten drukkken. Niet te duur, prima site en goede kwaliteit.|
