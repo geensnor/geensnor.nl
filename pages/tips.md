@@ -40,6 +40,7 @@ Alles staat op [Geensnor Adviseert](https://advies.geensnor.nl)
 |Wat|Doet wat|Platform|URL|Toelichting|
 |---|--------|--------|---|-----------|
 |Photo Sweeper|Duplicated vinden in je foto's|Mac|[website](https://overmacs.com/)|Super handig tooltje om op disk (of zelfs in je Apple Photos) duplicates te vinden. Kost wel wat geld, namelijk 10 euro, maar is het waard. Ik heb vele gb's kunnen besparen.|
+|Jitsi|Video conferencing|Web|[jitsi.org](https://jitsi.org/)|Het aanbod is reuze, maar aan alle video conferencing opties kleven wel wat nadelen. Jitsi lijkt tot nu toe de beste. Meerdere platformen, soepeltjes en vanuit de browser.|
 
 ## Overig
 
