@@ -36,7 +36,7 @@ Ik heb inmiddels ook een 7,5 inch scherm van Waveshare gekocht. Maar ik heb nog 
 
 Tot slot is e-paper perfect voor horloges. Een echt hoge refresh rate heb je niet nodig en een batterij die het even vol houdt is wel prettig voor je klokje. Het is eigenlijk vreemd dat er zo weinig horloges met e-paper schermen zijn.
 
-Sinds kort heb ik het bovenstaande horloge. De [Fossil Hybrid HR](https://www.fossil.com/en-us/smartwatches/learn-more/hybrid-hr/). Deze geeft de tijd aan met wijzers, maar achter de wijzerplaat zit een ....jawel... e-paper schermpje! Alle "smart" dingen worden daarop getoond. Top idee van Fossil want het werkt als een trein.
+Sinds kort heb ik het bovenstaande horloge. De [Fossil Hybrid HR](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Ffossil-collider-hybrid-hr-smartwatch-ftw7010-zwart%2F9200000118085456%2F&name=Fossil%20Collider%20Hybrid%20HR%20Smartwatch%20FTW7010%20-...). Deze geeft de tijd aan met wijzers, maar achter de wijzerplaat zit een ....jawel... e-paper schermpje! Alle "smart" dingen worden daarop getoond. Top idee van Fossil want het werkt als een trein.
 
 ## Meer!
 
