@@ -73,8 +73,12 @@ article{
     margin-bottom: 160px;
 }
 
-footer{
-    margin-bottom: 50px;
+
+footer > div > .content-container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 0.8em;
+    color: #4b4b4b;
 }
 
 blockquote {
