@@ -2,6 +2,7 @@
 title: Pi-Hole from scratch
 author: Joris
 permalink: /lol-met-een-pi-hole/
+
 categories:
  - Internet
  - Tips
