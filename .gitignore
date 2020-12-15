@@ -4,3 +4,5 @@ _site
 .jekyll-metadata
 vendor
 .bundle/config
+_posts/.DS_Store
+.DS_Store

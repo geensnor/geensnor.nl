@@ -48,3 +48,4 @@ Alles staat op [Geensnor Adviseert](https://advies.geensnor.nl)
 |Wat|Naam    |URL|Toelichting|
 |---|--------|---|-----------|
 |Afsdrukken foto's|Cewe|[cewe.nl](https://cewe.nl)|Cewe is voor zover ik na kan gaan (hebben ze natuurlijk niet allemaal geprobeerd) een prima site om je foto's af te laten drukkken. Niet te duur, prima site en goede kwaliteit.|
+|Koffiezetapparaat|Technivorm Moccamaster|[moccamaster.nl](https://www.moccamaster.nl)|Zeg je lekkere filterkoffie, dan zeg je Moccamaster. Beroemd ontwerp, gebouwd als een tank, van hollandse bodem. Dit is wat je leventje miste.|
