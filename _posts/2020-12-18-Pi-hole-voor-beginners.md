@@ -1,0 +1,127 @@
+---
+title: Pi-hole voor beginners
+author: Joris
+permalink: /pi-hole-voor-beginners/
+categories:
+  - Internet
+  - Tips
+---
+
+Dit is hem dan. De Geensnor kerstspecial! Het kerstcadeautje van geensnor.nl, voor jou, de trouwe lezer.
+
+En wat is er nu een mooier cadeau dan een internet zonder advertenties en trackers? Geen irritante banners met creepy singles meer. Geen obscure trackers meer die jouw kostbare aandacht omzetten in dollars voor Mark Zuckerberg. Investeer in deze donkere lockdowndagen een uurtje in Pi-hole en ervaar het internet weer zoals het is bedoeld. 
+
+[Pi-hole](https://pi-hole.net/) is een applicatie die internetadvertenties en trackers blokkeert op je thuisnetwerk. Pi-hole kun je op allerlei manieren installeren en gebruiken. Hieronder leg ik een (relatief..) eenvoudige manier uit en laat ik zien wat je ervoor moet kopen. Als je Pi-hole eenmaal hebt geconfigureerd, worden advertenties op al je apparaten in huis automatisch geblokkeerd.
+
+![pi hole logo](https://repository-images.githubusercontent.com/20619036/d86b7900-610a-11e9-811b-100767c1714e)
+
+Het enige wat je van tevoren nodig hebt is:
+
+- Een uur de tijd
+- Een computer met een micro [SD kaart lezer](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fmultifunctionele-usb-kaartlezer-4-in-1-usb-2-0-m2-sd-sdhc-sd-tf-geheugenkaart-smart-reader-blauw%2F9200000101914013%2F&name=Multifunctionele%20USB%20Kaartlezer%204%20in%201%20USB%202.0...)
+- Ongeveer 30 euro
+- Basale kennis van je eigen netwerk. IP adres van je router bijvoorbeeld.
+
+## 1. Kopen
+
+Voordat je kan beginnen moet je wat dingen kopen. En een Pi-hole mag dan wel advertenties tegenhouden, maar dit artikel staat helemaal strak van de Bol.com affiliate links. Voor geensnor.nl moet ook gewoon elk jaar de portemonee getrokken worden...
+
+Ten eerste natuurlijk een Raspberry Pi waar we Pi-hole op gaan installeren. De goedkoopste en kleinste is voldoende voor Pi-hole.
+
+<script type="text/javascript">var bol_sitebar={"id":"bol_1606041654706", "baseUrl":"partner.bol.com","urlPrefix":"https://aai.bol.com/openapi/services/aai/","productId":"productid=9300000014844610","familyId":"","site_id":"1122314","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"link_name":"Raspberry%20Pi%20Zero%20WH%20%28voorgesoldeerde%20headers%29","link_subid":"","background_color":"#FFFFFF","text_color":"#CB0100","link_color":"#0000FF"};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlink.js" id="bol_1606041654706"></script>
+
+Standaard kun je niets opslaan op een Raspberry Pi, dus je hebt ook nog een geheugenkaartje nodig. Qua ruimte heeft Pi-hole ook niet veel nodig, dus 16 GB volstaat. Deze bijvoorbeeld:
+
+<script type="text/javascript">var bol_sitebar={"id":"bol_1606042535370", "baseUrl":"partner.bol.com","urlPrefix":"https://aai.bol.com/openapi/services/aai/","productId":"productid=9200000080737259","familyId":"","site_id":"1122314","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"link_name":"SanDisk%20Ultra%20Micro%20SDHC%2016GB%20-%20UHSI%20%26%20A1%20-%20me...","link_subid":"","background_color":"#FFFFFF","text_color":"#CB0100","link_color":"#0000FF"};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlink.js" id="bol_1606042535370"></script>
+
+De Raspberry Pi heeft ook nog voeding nodig. Hoogstwaarschijnlijk heb je zelf nog wel ergens een Micro USB kabel liggen die je ervoor kan gebruiken. Anders moet je deze kopen.
+
+<script type="text/javascript">var bol_sitebar={"id":"bol_1607548624897", "baseUrl":"partner.bol.com","urlPrefix":"https://aai.bol.com/openapi/services/aai/","productId":"productid=9200000105915308","familyId":"","site_id":"1122314","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"link_name":"Nedis%20Micro-USB%20naar%20USB%20kabel%20-%20Zwart%20-%201%20meter","link_subid":"","background_color":"#FFFFFF","text_color":"#CB0100","link_color":"#0000FF"};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlink.js" id="bol_1607548624897"></script>
+
+Als je een Raspberry Pi 4 hebt gekocht, moet je trouwens een USB C kabel kopen:
+
+<script type="text/javascript">var bol_sitebar={"id":"bol_1606129921140", "baseUrl":"partner.bol.com","urlPrefix":"https://aai.bol.com/openapi/services/aai/","productId":"productid=9200000092997635","familyId":"","site_id":"1122314","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"link_name":"Haweel%20Gecertificeerde%20Type%20C%20kabel%201%20Meter%20US...","link_subid":"","background_color":"#FFFFFF","text_color":"#CB0100","link_color":"#0000FF"};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlink.js" id="bol_1606129921140"></script>
+
+Tip: Als de Raspberry Pi eenmaal is geinstalleerd, kun je hem prima voeden via een USB poort van de modem/router. Dan heb je mooi alle netwerkspullen bij elkaar liggen en heb je geen extra adapter nodig.
+
+## 2. Software
+
+Nu je alle hardware hebt, wordt het tijd voor wat software.
+
+### Besturingssysteem
+
+Als eerste moeten we het besturingssysteem van de Raspberry Pi op de SD kaart zetten. Daarvoor moet het het volgende doen
+
+1. Stop de SD kaart in je computer. 
+2. Download de Raspberry Pi Imager van [https://www.raspberrypi.org/software/](https://www.raspberrypi.org/software/)
+3. Installeer de Raspberry Pi Imager
+4. Start de Raspberry Pi Imager, kies het "recommend" besturingssysteem en je SD kaart.
+5. Klik op "Write"
+6. Na een tijdje staat het besturingssysteem (Raspberry Pi OS) op de SD kaart.
+7. Klaar!
+
+Laat de kaart voor nu maar even in je computer zitten.
+
+### WiFi configureren
+
+Zonder WiFi verbinding begin je natuurlijk niet zoveel. Volgen deze stappen om verbinding te maken met je WiFi netwerk
+
+1. Open met je verkenner/finder je SD kaart
+2. Maak een bestand aan met de volgende naam: wpa_supplicant.conf
+3. Open het bestand met een texteditor en zet het volgende erin
+
+    ```
+    update_config=1
+    ctrl_interface=/var/run/wpa_supplicant
+
+    network={
+    ssid="<ssid van je wifi netwerk>"
+    psk="<wachtwoord van je WiFi>"
+    }
+    ```
+4. Bewaren en afsluiten
+
+### SSH aanzetten
+
+Je Raspberry Pi besturen gaat voor deze toepassing het makkelijkst via [SSH](https://nl.wikipedia.org/wiki/Secure_Shell). Om dit te activeren moet je een leeg bestand maken op de SD kaart. Het bestand moet "SSH" heten. Zonder extentie of inhoud.
+
+Op dit punt kun je de SD kaart wel uit je laptop halen en in je Raspberry Pi stoppen. Vervolgens sluit je de Raspberry Pi aan op een stroombron. Een USB lader of iets dergelijks.
+
+### Statisch IP adres geven
+
+Hier wordt het allemaal wat lastiger. Je Pi-hole werkt het beste als hij een statisch IP adres heeft. Je geeft dan een zelf een IP adres op in plaats van dat hij er een van je router krijgt. Dat werkt beter want alle apparaten op je netwerk moeten je Pi-hole straks weten te vinden.
+
+1. Start een SSH client. In Windows moet je nog wat [trucjes](https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/) uithalen om SSH te kunnen gebruiken. Bij Mac OS start je gewoon terminal.
+2. Login op je Raspberry Pi door het volgende in te typen: `ssh pi@<IP adres van je Raspberry Pi`. Als je Raspberry Pi voor de eerste keer op start en verbinding maak met het WiFi netwerk, krijgt hij een IP adres van je router. Je moet in je router even kijken welk IP adres dat is. Waarschijnlijk staat er ergens een "DHCP table" waar dat instaat.
+3. Als er om een wachtwoord wordt gevraagd, moet je `raspberry` intypen.
+4. Als alles goed is gegaan, heb je via SSH verbinding gemaakt met je Raspberry Pi. Tik het volgende in om het configuratiebestand te openen 
+`sudo nano /etc/dhcpcd.conf`. 
+In dit bestand kun je een vast IP adres opgegven. Het kan zijn dat je weer het wachtwoord moet opgeven.
+5. Onderaan het bestand moet je het volgende neerzetten
+```
+interface wlan0
+        static ip_address=192.168.1.1
+        static routers=192.168.1.254
+```
+De bovenste is het nieuwe, statische adres van je Raspberry Pi. De onderste is het adres van je router. 
+6. Druk op ctrl-x om op te slaan.
+7. En tik in `sudo reboot` om de Raspberry Pi opnieuw op te starten. Na de reboot heeft je Raspberry Pi het IP adres wat je in stap 5 hierboven hebt opgegeven.
+
+### Pi-hole installeren
+
+Nu de Raspberry Pi is geconfigureerd, kan Pi-hole erop gezet worden.
+
+1. Log weer in met SSH zoals je eerder hebt gedaan
+2. Het is verstand om de software op je Raspberry Pi bij te werken. Tik daarvoor eerst `sudo apt-get update` in om de lijst van packages te updaten. Vervolgens `sudo apt-get upgrade` om de applicaties daadwerkelijk bij te werken.
+3. Als alles is bijgewerkt kan Pi-hole worden geinstalleerd: `curl -sSL https://install.pi-hole.net | bash`. Nu gaat je Raspberry Pi vanalles doen. Geef hem even de tijd.
+4. Na de installatie start direct de setup van Pi-hole. Next-next-next voldoet wel redelijk. In de [documentatie](https://docs.pi-hole.net) op Pi-hole.net kun je veel terugvinden als je iets niet snapt.
+
+### Router configureren
+
+Als laatste moet je ervoor zorgen dat al je apparaten van je netwerk hun DNS verkeer via de Pi-hole laten lopen. Wat je hiervoor precies moet doen is lastig uit te leggen om dat dat in je router moet gebeuren en dat dus voor elke router anders is. Het komt ongeveer hier op neer:
+1. Login op je router
+2. Zoek ergens "DHCP settings" ofzoiets op. Een DHCP server deelt IP adressen uit aan de apparaten op je netwerk
+3. Als DNS server moet je het IP adres van je Raspberry Pi opgeven. Hiermee zeg je eigenlijk tegen alle apparaten op het netwerk:"Vraag voortaan maar aan de Pi-hole welke adressen opgehaald mogen worden, want die filtert de reclames eruit en stuurt de rest door". En dat is precies wat je wil!
+4. Klaar! Reclames worden nu op al je apparaten in je netwerk geblokkeerd. Het kan wel zijn dat je daarvoor eerst even het IP adres van het apparaat moet vernieuwen, maar dat gebeurt uiteindelijk voor alle apparaten vanzelf een keer.
+
+Dat was het. Fijne kerstdagen en een gelukkig 2021!
