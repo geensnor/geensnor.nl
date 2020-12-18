@@ -34,6 +34,12 @@ Als je buiten de deur wilt eten of drinken kun je het beste op [Geensnor Advisee
 
 Als je helaas aan huis bent gebonden is er ook geen man over boord. Geensnor verzamelde de besten recepten voor de thuiskok op [Wat eten we vandaag](https://geensnor.nl/watetenwevandaag/).
 
+Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een handige tabel:
+
+| Wat          | Naam                                         | URL                                          | Toelichting                                                  |
+| ------------ | -------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
+| Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffeec.com) | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. |
+
 ## Muziek
 [Geensnor Liederen op Spotify](https://open.spotify.com/playlist/2hNmcKMRceaxyCfF9jhBYy?si=YdmdWT1dRPmHauugxTxkYQ)
 
@@ -51,3 +57,5 @@ Als je helaas aan huis bent gebonden is er ook geen man over boord. Geensnor ver
 |---|--------|---|-----------|
 |Afsdrukken foto's|Cewe|[cewe.nl](https://cewe.nl)|Cewe is voor zover ik na kan gaan (hebben ze natuurlijk niet allemaal geprobeerd) een prima site om je foto's af te laten drukkken. Niet te duur, prima site en goede kwaliteit.|
 |Koffiezetapparaat|Technivorm Moccamaster|[moccamaster.nl](https://www.moccamaster.nl)|Zeg je lekkere filterkoffie, dan zeg je Moccamaster. Beroemd ontwerp, gebouwd als een tank, van hollandse bodem. Dit is wat je leventje miste.|
+
+
