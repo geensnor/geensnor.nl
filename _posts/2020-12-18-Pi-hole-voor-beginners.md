@@ -94,7 +94,7 @@ Hier wordt het allemaal wat lastiger. Je Pi-hole werkt het beste als hij een sta
 1. Start een SSH client. In Windows moet je nog wat [trucjes](https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/) uithalen om SSH te kunnen gebruiken. Bij Mac OS start je gewoon terminal.
 2. Login op je Raspberry Pi door het volgende in te typen: `ssh pi@<IP adres van je Raspberry Pi`. Als je Raspberry Pi voor de eerste keer op start en verbinding maak met het WiFi netwerk, krijgt hij een IP adres van je router. Je moet in je router even kijken welk IP adres dat is. Waarschijnlijk staat er ergens een "DHCP table" waar dat instaat.
 3. Als er om een wachtwoord wordt gevraagd, moet je `raspberry` intypen.
-4. Als alles goed is gegaan, heb je via SSH verbinding gemaakt met je Raspberry Pi. Verander het standaard `raspberry` wachtwoord door iets veiligers door `passwd` in te tikken. 
+4. Als alles goed is gegaan, heb je via SSH verbinding gemaakt met je Raspberry Pi. Verander het standaard "raspberry" wachtwoord door iets veiligers door `passwd` in te tikken. 
 5. Nadat het standaard wachtwoord is gewijzigd, tik het volgende in om het configuratiebestand te openen 
 `sudo nano /etc/dhcpcd.conf`. 
 In dit bestand kun je een vast IP adres opgegven. Het kan zijn dat je weer het wachtwoord moet opgeven.
