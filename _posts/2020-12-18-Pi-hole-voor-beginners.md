@@ -118,10 +118,11 @@ Nu de Raspberry Pi is geconfigureerd, kan Pi-hole erop gezet worden.
 
 ### Router configureren
 
-Als laatste moet je ervoor zorgen dat al je apparaten van je netwerk hun DNS verkeer via de Pi-hole laten lopen. Wat je hiervoor precies moet doen is lastig uit te leggen om dat dat in je router moet gebeuren en dat dus voor elke router anders is. Het komt ongeveer hier op neer:
+Als laatste moet je ervoor zorgen dat al je apparaten van je netwerk hun DNS verkeer via de Pi-hole laten lopen. Wat je hiervoor precies moet doen is lastig uit te leggen om dat dat in je router moet gebeuren en dat dus voor elke router anders is. Wel belangrijk is dat je ervoor zorgt dat de clients je PiHole gaan gebruiken en niet alleen de router zelf. Daarvoor zul je de clients het nieuwe DNS adres moeten vertellen tijdens het uitdelen van de IP adressen door de DHCP server. Het komt ongeveer hier op neer:
 1. Login op je router
-2. Zoek ergens "DHCP settings" ofzoiets op. Een DHCP server deelt IP adressen uit aan de apparaten op je netwerk
+2. Zoek ergens "DHCP settings" ofzoiets op. Een DHCP server deelt niet alleen IP adressen uit aan de apparaten op je netwerk maar vertelt ook welke DNS server de clients mogen gebruiken. Standaard is dat de router zelf maar dat wil je via de PiHole laten lopen. 
 3. Als DNS server moet je het IP adres van je Raspberry Pi opgeven. Hiermee zeg je eigenlijk tegen alle apparaten op het netwerk:"Vraag voortaan maar aan de Pi-hole welke adressen opgehaald mogen worden, want die filtert de reclames eruit en stuurt de rest door". En dat is precies wat je wil!
-4. Klaar! Reclames worden nu op al je apparaten in je netwerk geblokkeerd. Het kan wel zijn dat je daarvoor eerst even het IP adres van het apparaat moet vernieuwen, maar dat gebeurt uiteindelijk voor alle apparaten vanzelf een keer.
+4. Optioneel kun je de router zelf ook de dns lookups via de pihole laten doen. Dat zal op een andere plek in de router moeten, waarschijnlijk onder DNS settings.
+5. Klaar! Reclames worden nu op al je apparaten in je netwerk geblokkeerd. Het kan wel zijn dat je daarvoor eerst even het IP adres van het apparaat moet vernieuwen, maar dat gebeurt uiteindelijk voor alle apparaten vanzelf een keer.
 
 Dat was het. Fijne kerstdagen en een gelukkig 2021!
