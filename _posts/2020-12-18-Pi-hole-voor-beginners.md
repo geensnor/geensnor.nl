@@ -94,18 +94,19 @@ Hier wordt het allemaal wat lastiger. Je Pi-hole werkt het beste als hij een sta
 1. Start een SSH client. In Windows moet je nog wat [trucjes](https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/) uithalen om SSH te kunnen gebruiken. Bij Mac OS start je gewoon terminal.
 2. Login op je Raspberry Pi door het volgende in te typen: `ssh pi@<IP adres van je Raspberry Pi`. Als je Raspberry Pi voor de eerste keer op start en verbinding maak met het WiFi netwerk, krijgt hij een IP adres van je router. Je moet in je router even kijken welk IP adres dat is. Waarschijnlijk staat er ergens een "DHCP table" waar dat instaat.
 3. Als er om een wachtwoord wordt gevraagd, moet je `raspberry` intypen.
-4. Als alles goed is gegaan, heb je via SSH verbinding gemaakt met je Raspberry Pi. Tik het volgende in om het configuratiebestand te openen 
+4. Als alles goed is gegaan, heb je via SSH verbinding gemaakt met je Raspberry Pi. Verander het standaard `raspberry` wachtwoord door iets veiligers door `passwd` in te tikken. 
+5. Nadat het standaard wachtwoord is gewijzigd, tik het volgende in om het configuratiebestand te openen 
 `sudo nano /etc/dhcpcd.conf`. 
 In dit bestand kun je een vast IP adres opgegven. Het kan zijn dat je weer het wachtwoord moet opgeven.
-5. Onderaan het bestand moet je het volgende neerzetten
+6. Onderaan het bestand moet je het volgende neerzetten
 ```
 interface wlan0
         static ip_address=192.168.1.1
         static routers=192.168.1.254
 ```
 De bovenste is het nieuwe, statische adres van je Raspberry Pi. De onderste is het adres van je router. 
-6. Druk op ctrl-x om op te slaan.
-7. En tik in `sudo reboot` om de Raspberry Pi opnieuw op te starten. Na de reboot heeft je Raspberry Pi het IP adres wat je in stap 5 hierboven hebt opgegeven.
+7. Druk op ctrl-x om op te slaan.
+8. En tik in `sudo reboot` om de Raspberry Pi opnieuw op te starten. Na de reboot heeft je Raspberry Pi het IP adres wat je in stap 5 hierboven hebt opgegeven.
 
 ### Pi-hole installeren
 
