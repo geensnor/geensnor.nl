@@ -6,8 +6,11 @@ permalink: pages/tips
 
 Wij van geensnor.nl proberen nogal eens wat uit. Als iets echt goed is, delen we dat natuurlijk maar al te graag!
 
+Behalve de lijst hieronder, schrijven we soms ook nog een bericht in de categorie "tips". Ga daarvoor naar [alle berichten](alle_berichten.html#Tips).
+
 
 ## Fiets
+
 Racefiets of gewone fiets.  
 
 | Wat | Naam | URL | Toelichting |
@@ -30,17 +33,19 @@ Racefiets of gewone fiets.
 
 
 ## Eten en drinken
+
 Als je buiten de deur wilt eten of drinken kun je het beste op [Geensnor Adviseert](https://advies.geensnor.nl) kijken. Een bonte verzameling van eet en drink adviezen, verzamelt in de afgelopen jaren door de redactie van Geensnor. Meer dan 300 tips over de hele wereld zijn het bezoeken waard!
 
 Als je helaas aan huis bent gebonden is er ook geen man over boord. Geensnor verzamelde de besten recepten voor de thuiskok op [Wat eten we vandaag](https://geensnor.nl/watetenwevandaag/).
 
 Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een handige tabel:
 
-| Wat          | Naam                                         | URL                                          | Toelichting                                                  |
-| ------------ | -------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
-| Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffeec.com) | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. |
+| Wat          | Naam       | URL        | Toelichting             |
+| ------------ | ---------- | ---------- | ----------------------- |
+| Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffee.com) | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. |
 
 ## Muziek
+
 [Geensnor Liederen op Spotify](https://open.spotify.com/playlist/2hNmcKMRceaxyCfF9jhBYy?si=YdmdWT1dRPmHauugxTxkYQ)
 
 ## Software
@@ -55,7 +60,8 @@ Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een ha
 
 |Wat|Naam    |URL|Toelichting|
 |---|--------|---|-----------|
-|Afsdrukken foto's|Cewe|[cewe.nl](https://cewe.nl)|Cewe is voor zover ik na kan gaan (hebben ze natuurlijk niet allemaal geprobeerd) een prima site om je foto's af te laten drukkken. Niet te duur, prima site en goede kwaliteit.|
+|Afdrukken foto's|Cewe|[cewe.nl](https://cewe.nl)|Cewe is voor zover ik na kan gaan (hebben ze natuurlijk niet allemaal geprobeerd) een prima site om je foto's af te laten drukkken. Niet te duur, prima site en goede kwaliteit.|
 |Koffiezetapparaat|Technivorm Moccamaster|[moccamaster.nl](https://www.moccamaster.nl)|Zeg je lekkere filterkoffie, dan zeg je Moccamaster. Beroemd ontwerp, gebouwd als een tank, van hollandse bodem. Dit is wat je leventje miste.|
+|USB-C Dongle/Hub|Heeft niet echt een naam....|[Alli Express](https://nl.aliexpress.com/item/4001305601600.html?spm=a2g0s.9042311.0.0.2b574c4dqmPTcW)|Hij heeft geen merk, maar het is wel een keurig ding. Stevig gemaakt. Werkt goed. Geen gekkigheid. Deze kun je gerust over laten komen uit 中华人民共和国|
 
 
