@@ -19,7 +19,7 @@ Het enige wat je van tevoren nodig hebt is:
 
 - Een uur de tijd
 - Een computer met een micro [SD kaart lezer](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fmultifunctionele-usb-kaartlezer-4-in-1-usb-2-0-m2-sd-sdhc-sd-tf-geheugenkaart-smart-reader-blauw%2F9200000101914013%2F&name=Multifunctionele%20USB%20Kaartlezer%204%20in%201%20USB%202.0...)
-- Ongeveer 30 euro
+- Ongeveer 45 euro
 - Basale kennis van je eigen netwerk. IP adres van je router bijvoorbeeld.
 
 ## 1. Kopen
