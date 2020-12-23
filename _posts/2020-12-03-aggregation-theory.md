@@ -10,6 +10,6 @@ De reden waarom alles op het internet zo shit is, verklaard Ben Thompson door zi
 
 The Verge heeft hier een interessante video over gemaakt:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZesA-Iqju4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZesA-Iqju4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Gratis tip: Op de [The Big Picture](https://www.youtube.com/playlist?list=PL39u5ZEfYDENHfifzGutj26mwycyIcRWq) playlist van [The Verge](https://www.theverge.com) staan veel meer video's over interessante onderwerpen. 
