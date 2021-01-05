@@ -3,8 +3,8 @@ title: Controleer die MIDI in stijl! - Midique KNTRL9
 author: Erik
 permalink: /KNTRL9/
 categories:
-  - spullen
-  - tips
+  - Spullen
+  - Tips
 ---
 Onze goede vriend Koen uit het prachtige en uberhippe Berlijn heeft na heel hard werken zijn MIDI controller klaar. Alles zelf ontworpen, hout uit Berlijn, gemaakt met liefde. En aangezien wij bij Geensnor nooit bang zijn voor een stukje promotie, attenderen wij onze lezers graag op zijn prachtige project, [de KNTRL9](http://midique.com/the-problem/).
 
