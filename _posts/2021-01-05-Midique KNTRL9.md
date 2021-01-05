@@ -8,8 +8,8 @@ categories:
 ---
 Onze goede vriend Koen uit het prachtige en uberhippe Berlijn heeft na heel hard werken zijn MIDI controller klaar. Alles zelf ontworpen, hout uit Berlijn, gemaakt met liefde. En aangezien wij bij Geensnor nooit bang zijn voor een stukje promotie, attenderen wij onze lezers graag op zijn prachtige project, [de KNTRL9](http://midique.com/the-problem/).
 
-![plaatje](http://midique.com/wp-content/uploads/2020/07/20200716_01-1024x768.jpeg)
-![Plaatje2](http://midique.com/wp-content/uploads/2020/10/Translucent-bg-small.jpg)
+![plaatje](https://midique.com/wp-content/uploads/2020/07/20200716_01-1024x768.jpeg)
+![Plaatje2](https://midique.com/wp-content/uploads/2020/10/Translucent-bg-small.jpg)
 
 ## MIDI controller?
 > Een MIDI-controller is een gebruikersinterface waarmee MIDI-boodschappen kunnen worden gegenereerd en verzonden. Meestal is dit een digitaal muziekinstrument.
