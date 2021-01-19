@@ -5,7 +5,7 @@ img {
 }
 
 h1, h2, h3, h4, h5 {
-    font-family: 'Zilla Slab', serif;
+    font-family: 'Zilla slab', serif;
     font-weight: 500;
 }
 
@@ -58,11 +58,10 @@ a.dropdown-item{
 }
   
 .page-content, .post-content{
-    font-family: 'Bitter', serif;
+    font-family: 'Work sans', sans-serif;
     font-size: 1.2em;
     color: #333333;
     line-height: 32px;
-    letter-spacing: .1px;
 }
 
 .content-container{
