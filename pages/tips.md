@@ -8,6 +8,9 @@ Wij van geensnor.nl proberen nogal eens wat uit. Als iets echt goed is, delen we
 
 Behalve de lijst hieronder, schrijven we soms ook nog een bericht in de categorie "tips". Ga daarvoor naar [alle berichten](alle_berichten.html#Tips).
 
+* TOC
+{:toc}
+
 
 ## Fiets
 
