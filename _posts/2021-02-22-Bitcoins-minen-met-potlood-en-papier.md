@@ -7,7 +7,7 @@ categories:
   - Vertier
 ---
 
-Bitcoins minen is leuk maar het is irritant dat je er een computer voor nodig hebt. Misschien zelfs meer dan één. Eigenlijk heb je wel een heel gebouw vol computers nodig zoals [deze YouTube video](https://www.youtube.com/watch?v=K8kua5B5K3) over een Chinese bitcoinmijn laat zien.
+Bitcoins minen is leuk maar het is irritant dat je er een computer voor nodig hebt. Misschien zelfs meer dan één. Eigenlijk heb je wel een heel gebouw vol computers nodig zoals [deze YouTube video](https://www.youtube.com/watch?v=K8kua5B5K3I) over een Chinese bitcoinmijn laat zien.
 
 Maar al die spullen zijn natuurlijk een hoop gedoe. Gelukkig hoeft het niet zo ingewikkeld te zijn. Je kan namelijk ook bitcoins minen met potlood en papier. Bitcoins minen is namelijk niets anders dan heel veel [hashes](https://nl.wikipedia.org/wiki/Hashfunctie) berekenen en kijken of de juiste er tussen zit en dat kan prima met de hand. Ene Ken Shirriff heeft de stoute schoenen aangetrokken en is eens lekker gaan SHA-256 hashen. Eén hash berekenen kostte hem 16 minuten en 45 seconden.
 
