@@ -76,7 +76,7 @@ Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een ha
 |Probleem|Oplossing|Toelichting|
 |--------|---------|-----------|
 |Kalk Aanslag in pan|Citroensap|Dat je mooie rvs kookpannen hebt maar dat er toch een soort dof wittig kalklaagje ontstaat dat er niet meer af wil. Ja dat is irritant. De oplossing is gelukkig heel simpel. Citroensap. Kost je 50 cent maar ff in de pan en hij is weer als nieuw. Werkt trouwens ook goed tegen kalkaanslag als je te lang een bodempje water in bijvoorbeeld je wijnglas hebt laten staan na een avondje zuipen en je dacht...laat ik er alvast water in zetten.|
-|Vieze handen (verf/smeer)|Kettingreiniger in spuitbus van Decathlon|Ok..het is niet zo goed voor je handen maar het maakt wel mega goed schoon. Als je na het poetsen aan je fiets vieze handen hebt, ff spuitbus erop en je handen blinken weer als een malle. Werkt ook goed na het schilderen. Lampenolie werkt dan trouwens nog iets beter. Ook niet goed voor je handen trouwens.|
+|Vieze handen bij verf/smeer|Kettingreiniger in spuitbus van Decathlon|Ok..het is niet zo goed voor je handen maar het maakt wel mega goed schoon. Als je na het poetsen aan je fiets vieze handen hebt, ff spuitbus erop en je handen blinken weer als een malle. Werkt ook goed na het schilderen. Lampenolie werkt dan trouwens nog iets beter. Ook niet goed voor je handen trouwens.|
 
 
 
