@@ -73,6 +73,7 @@ Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een ha
 |Kleine Hakselaar/hakmolen|Kitchenaid 5KFC3516EER|[coolblue](https://www.coolblue.nl/product/776564/kitchenaid-5kfc3516eer-keizerrood.html)| Mooi klein, maar ook weer niet te klein. Hakt alles wat los en vast zit. Prima om bijv. hummus te maken, pesto, uitjes te snipperen, Kaas te raspen (kruimelen). En door het formaat kan hij prima in de keuken vertoeven.|
 
 ## Lifehacks (geensnor uit zalk)
+
 |Probleem|Oplossing|Toelichting|
 |--------|---------|-----------|
 |Kalk Aanslag in pan|Citroensap|Dat je mooie rvs kookpannen hebt maar dat er toch een soort dof wittig kalklaagje ontstaat dat er niet meer af wil. Ja dat is irritant. De oplossing is gelukkig heel simpel. Citroensap. Kost je 50 cent maar ff in de pan en hij is weer als nieuw. Werkt trouwens ook goed tegen kalkaanslag als je te lang een bodempje water in bijvoorbeeld je wijnglas hebt laten staan na een avondje zuipen en je dacht...laat ik er alvast water in zetten.|
