@@ -4,7 +4,7 @@ layout: page
 permalink: pages/tips
 ---
 
-Wij van geensnor.nl proberen nogal eens wat uit. Als iets echt goed is, delen we dat natuurlijk maar al te graag!
+Wij van geensnor.nl proberen nogal eens wat uit. Als iets echt goed is, delen we dat natuurlijk maar al te graag! Daarnaast hebben we ook een aantal lifehacks opgenomen.
 
 Behalve de lijst hieronder, schrijven we soms ook nog een bericht in de categorie "tips". Ga daarvoor naar [alle berichten](alle_berichten.html#Tips).
 
@@ -71,6 +71,16 @@ Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een ha
 |USB-C Dongle/Hub|Heeft niet echt een naam....|[Ali Express](https://nl.aliexpress.com/item/4001305601600.html?spm=a2g0s.9042311.0.0.2b574c4dqmPTcW)|Hij heeft geen merk, maar het is wel een keurig ding. Stevig gemaakt. Werkt goed. Geen gekkigheid. Deze kun je gerust over laten komen uit 中华人民共和国|
 |Dunschillertje uit japan|Kai select 100|[knives and tools](https://www.knivesandtools.nl/nl/pt/-kai-select-100-dunschiller-t.htm?gclid=CjwKCAiAp4KCBhB6EiwAxRxbpJMBHBrc_6L6YPuxCvgNa1XikZMqPY2MNrh0aRyig6BmRHmaVt66kRoCYXgQAvD_BwE)|Handige dunschiller. Mesje staat net onder een geinig hoekje waardoor het allemaal een stuk makkelijker gaat. Fijn ding.|
 |Kleine Hakselaar/hakmolen|Kitchenaid 5KFC3516EER|[coolblue](https://www.coolblue.nl/product/776564/kitchenaid-5kfc3516eer-keizerrood.html)| Mooi klein, maar ook weer niet te klein. Hakt alles wat los en vast zit. Prima om bijv. hummus te maken, pesto, uitjes te snipperen, Kaas te raspen (kruimelen). En door het formaat kan hij prima in de keuken vertoeven.|
+
+## Lifehacks (geensnor uit zalk)
+
+|Probleem|Oplossing|Toelichting|
+|--------|---------|-----------|
+|Kalk Aanslag in pan|Citroensap|Dat je mooie rvs kookpannen hebt maar dat er toch een soort dof wittig kalklaagje ontstaat dat er niet meer af wil. Ja dat is irritant. De oplossing is gelukkig heel simpel. Citroensap. Kost je 50 cent maar ff in de pan en hij is weer als nieuw. Werkt trouwens ook goed tegen kalkaanslag als je te lang een bodempje water in bijvoorbeeld je wijnglas hebt laten staan na een avondje zuipen en je dacht...laat ik er alvast water in zetten.|
+|Vieze handen bij verf/smeer|Kettingreiniger in spuitbus van Decathlon|Ok..het is niet zo goed voor je handen maar het maakt wel mega goed schoon. Als je na het poetsen aan je fiets vieze handen hebt, ff spuitbus erop en je handen blinken weer als een malle. Werkt ook goed na het schilderen. Lampenolie werkt dan trouwens nog iets beter. Ook niet goed voor je handen trouwens.|
+|Gasfornuis wil niet aan|Gas niet vol open draaien|Te simpel voor woorden maar ik zie regelmatig mensen lopen kloten met het gasfornuis. Draaien dat ding vol open....knopje voor vonkje indrukken en hij wil niet aan. Dat is ook niet gek want dat gas blaast zo hard dat hij de vlam 'uitblaast'. Draai dus het gas lekker zacht en druk dan op het knopje, gaat hij gewoon in 1x aan.|
+
+
 
 
 
