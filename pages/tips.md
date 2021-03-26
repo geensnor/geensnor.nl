@@ -11,7 +11,6 @@ Behalve de lijst hieronder, schrijven we soms ook nog een bericht in de categori
 * TOC
 {:toc}
 
-
 ## Fiets
 
 Racefiets of gewone fiets.  
@@ -24,8 +23,6 @@ Racefiets of gewone fiets.
 |Energiedrank poeder|Decathlon Aptonia ISO "Lighter Sweet Taste" Gele dop|[decathlon.nl](https://www.decathlon.nl/p/poeder-voor-isotone-dorstlesser-iso-rode-vruchten-650-g/_/R-p-9831?mc=8335609&fl=Citroen)|Energiedrank is vaak goor, maar deze is nog wel te doen. Bovendien is het poeder dus kun je een beetje je eigen sterkte eraan geven|
 |Stadsfiets|Azor|[azor.nl](https://www.azor.nl)|Stevigste fiets die mijn fietsenmaker verkoopt, volgens mijn fietsenmaker. Wordt in Hoogeveen in elkaar gezet. |
 |Energie reep|Powerbar Natural Protein Salty Peanut Crunch|[bol.com](https://www.bol.com/nl/p/powerbar-natural-protein-bar-salty-peanut-crunch-24-40-g/9200000063283275/)|Prima eetbaar en plakt niet in je handen|
-
-
 
 ## Games
 
@@ -64,15 +61,19 @@ Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een ha
 |Jitsi|Video conferencing|Web|[jitsi.org](https://jitsi.org/)|Het aanbod is reuze, maar aan alle video conferencing opties kleven wel wat nadelen. Jitsi lijkt tot nu toe de beste. Meerdere platformen, soepeltjes en vanuit de browser. En zonder registratie!|
 |Lulu|Outbound firewall voor mac|Mac|[lulu website](https://objective-see.com/products/lulu.html)|Zoals de meeste OS-en heeft ook Mac os een ingebouwde firewall. Die is echter alleen inbound. Het uitgaande verkeer kan doen en laten wat het wil. Lulu is een super licht gewicht klein appje die toestemming vraagt als een applicatie iets naar buiten wil doen. Hij vraagt eenmalig om akkoord. Werkt bijv. goed als software allemaal connecties maakt naar buiten zonder dat dat nodig is. |
 
-## Overig
+## Web tools
 
-|Wat|Naam    |URL|Toelichting|
-|---|--------|---|-----------|
-|Afdrukken foto's|Cewe|[cewe.nl](https://cewe.nl)|Cewe is voor zover ik na kan gaan (hebben ze natuurlijk niet allemaal geprobeerd) een prima site om je foto's af te laten drukkken. Niet te duur, prima site en goede kwaliteit.|
-|Koffiezetapparaat|Technivorm Moccamaster|[moccamaster.nl](https://www.moccamaster.nl)|Zeg je lekkere filterkoffie, dan zeg je Moccamaster. Beroemd ontwerp, gebouwd als een tank, van hollandse bodem. Dit is wat je leventje miste.|
-|USB-C Dongle/Hub|Heeft niet echt een naam....|[Ali Express](https://nl.aliexpress.com/item/4001305601600.html?spm=a2g0s.9042311.0.0.2b574c4dqmPTcW)|Hij heeft geen merk, maar het is wel een keurig ding. Stevig gemaakt. Werkt goed. Geen gekkigheid. Deze kun je gerust over laten komen uit 中华人民共和国|
-|Dunschillertje uit japan|Kai select 100|[knives and tools](https://www.knivesandtools.nl/nl/pt/-kai-select-100-dunschiller-t.htm?gclid=CjwKCAiAp4KCBhB6EiwAxRxbpJMBHBrc_6L6YPuxCvgNa1XikZMqPY2MNrh0aRyig6BmRHmaVt66kRoCYXgQAvD_BwE)|Handige dunschiller. Mesje staat net onder een geinig hoekje waardoor het allemaal een stuk makkelijker gaat. Fijn ding.|
-|Kleine Hakselaar/hakmolen|Kitchenaid 5KFC3516EER|[coolblue](https://www.coolblue.nl/product/776564/kitchenaid-5kfc3516eer-keizerrood.html)| Mooi klein, maar ook weer niet te klein. Hakt alles wat los en vast zit. Prima om bijv. hummus te maken, pesto, uitjes te snipperen, Kaas te raspen (kruimelen). En door het formaat kan hij prima in de keuken vertoeven.|
+Er is zoveel moois op internet te vinden, dat eigenlijk niets meer op je computer hoeft te installeren. Vaak hoef je niet eens een account aan te maken.
+
+|Wat     |URL      |Toelichting        |
+|--------|---------|-------------------|
+|Planning poker|[scrumpoker-online.org](https://www.scrumpoker-online.org/)|Planning poker tool voor bijvoorbeeld Scrum|
+|White board|[witeboard.com](https://witeboard.com)|Meteen tekenen. Handig op een groot touchscreen lijkt me.|
+|Foto's aanpassen|[squoosh.app](https://squoosh.app/)|Afmeting, grote, compressie. Alles lekker vlot aanpassen. Door Google.
+|Online foto bewerking|[pqina.nl](https://pqina.nl/doka/image-editor/)|Photoshop te duur? Waarschijnlijk kun je het hier ook wel mee doen.|
+|Bestanden en tekst delen|[webdrop.space](https://webdrop.space/)|Soms moet je wat delen tussen verschillende apparaten die ook nog eens verschillende OS-en hebben. Werkt op je LAN zonder configuratie.|
+|QR code voor je WiFi|[qifi.org](https://qifi.org/)|WiFi codes overtypen is irritant. Maak er een QR code van je SSID en wachtwoord en verbinden is een fluitje van een cent.|
+|Diagrammen maken|[draw.io](https://www.draw.io)|Flowtje, UMLeltje, serverruimte indelen? Draw.io kan het allemaal. Heeft ook een desktop versie| 
 
 ## Lifehacks (geensnor uit zalk)
 
@@ -82,7 +83,12 @@ Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een ha
 |Vieze handen bij verf/smeer|Kettingreiniger in spuitbus van Decathlon|Ok..het is niet zo goed voor je handen maar het maakt wel mega goed schoon. Als je na het poetsen aan je fiets vieze handen hebt, ff spuitbus erop en je handen blinken weer als een malle. Werkt ook goed na het schilderen. Lampenolie werkt dan trouwens nog iets beter. Ook niet goed voor je handen trouwens.|
 |Gasfornuis wil niet aan|Gas niet vol open draaien|Te simpel voor woorden maar ik zie regelmatig mensen lopen kloten met het gasfornuis. Draaien dat ding vol open....knopje voor vonkje indrukken en hij wil niet aan. Dat is ook niet gek want dat gas blaast zo hard dat hij de vlam 'uitblaast'. Draai dus het gas lekker zacht en druk dan op het knopje, gaat hij gewoon in 1x aan.|
 
+## Overig
 
-
-
-
+|Wat|Naam    |URL|Toelichting|
+|---|--------|---|-----------|
+|Afdrukken foto's|Cewe|[cewe.nl](https://cewe.nl)|Cewe is voor zover ik na kan gaan (hebben ze natuurlijk niet allemaal geprobeerd) een prima site om je foto's af te laten drukkken. Niet te duur, prima site en goede kwaliteit.|
+|Koffiezetapparaat|Technivorm Moccamaster|[moccamaster.nl](https://www.moccamaster.nl)|Zeg je lekkere filterkoffie, dan zeg je Moccamaster. Beroemd ontwerp, gebouwd als een tank, van hollandse bodem. Dit is wat je leventje miste.|
+|USB-C Dongle/Hub|Heeft niet echt een naam....|[Ali Express](https://nl.aliexpress.com/item/4001305601600.html?spm=a2g0s.9042311.0.0.2b574c4dqmPTcW)|Hij heeft geen merk, maar het is wel een keurig ding. Stevig gemaakt. Werkt goed. Geen gekkigheid. Deze kun je gerust over laten komen uit 中华人民共和国|
+|Dunschillertje uit japan|Kai select 100|[knives and tools](https://www.knivesandtools.nl/nl/pt/-kai-select-100-dunschiller-t.htm?gclid=CjwKCAiAp4KCBhB6EiwAxRxbpJMBHBrc_6L6YPuxCvgNa1XikZMqPY2MNrh0aRyig6BmRHmaVt66kRoCYXgQAvD_BwE)|Handige dunschiller. Mesje staat net onder een geinig hoekje waardoor het allemaal een stuk makkelijker gaat. Fijn ding.|
+|Kleine Hakselaar/hakmolen|Kitchenaid 5KFC3516EER|[coolblue](https://www.coolblue.nl/product/776564/kitchenaid-5kfc3516eer-keizerrood.html)| Mooi klein, maar ook weer niet te klein. Hakt alles wat los en vast zit. Prima om bijv. hummus te maken, pesto, uitjes te snipperen, Kaas te raspen (kruimelen). En door het formaat kan hij prima in de keuken vertoeven.|
