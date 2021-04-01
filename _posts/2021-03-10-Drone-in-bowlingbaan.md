@@ -7,8 +7,6 @@ categories:
   - Internet
 ---
 
-
-
 <iframe width="730" height="400" src="https://www.youtube.com/embed/VgS54fqKxf0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Mooi filmpje van een First Person View drone die een paar rondjes door een bowlingbaan maakt.
