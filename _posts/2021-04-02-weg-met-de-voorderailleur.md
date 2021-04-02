@@ -7,6 +7,7 @@ categories:
  - Spullen
 ---
 
+![classified plaatje](https://classified-cycling.cc/uploads/files/_1080xAUTO_crop_center-center_none/classified-social-banner-2.jpg)
 
 Het vlaamse [Classified](https://classified-cycling.cc/en/) heeft een schakelsysteem gemaakt waarbij je geen voorderailleur meer nodig hebt. Wat de voorderailleur normaal doet, gebeurt nu draadloos in de naaf. Hierdoor zou er minder slijtage moeten zijn en kun je schakelen terwijl je kracht zet. Voor het systeem moet je wel je halve fiets verbouwen want je moet ook een nieuw wiel en een nieuwe cassette. Weerstand en gewicht schijnen wel in orde te zijn.
 
