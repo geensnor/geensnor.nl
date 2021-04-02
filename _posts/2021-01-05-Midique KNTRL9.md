@@ -12,9 +12,11 @@ Onze goede vriend Koen uit het prachtige en uberhippe Berlijn heeft na heel hard
 ![Plaatje2](https://midique.com/wp-content/uploads/2020/10/Translucent-bg-small.jpg)
 
 ## MIDI controller?
+
 > Een MIDI-controller is een gebruikersinterface waarmee MIDI-boodschappen kunnen worden gegenereerd en verzonden. Meestal is dit een digitaal muziekinstrument.
 
 Een fysiek apparaat dus om je muzieksoftware via MIDI te kunnen bedienen. Dat blijkt dus nogal precies te komen allemaal en Koen heeft na frustratie over andere controller de handschoen maar opgepakt en is zelf aan de slag gegaan. Er komt meer bij kijken dan je zou denken (blijkbaar). Solderen, electrotechniek, houtbewerking, software..de hele rambam.
 
 ## Kickstartertje!
+
 De eerste 4 prototypes zijn klaar en dus is het tijd voor investeringen! Wij kunnen jou, als trouwe geensnor lezer, blij maken met een mooie kans om als eerste een prachtige handgemaakte KNTRL9 te bemachtige door in te schrijven op zijn [kickstarter](https://www.kickstarter.com/projects/midique/the-midique-kntrl9-a-boutique-midi-controller).

@@ -15,4 +15,4 @@ Nou, prima zou je zeggen. Hele [energieprobleem](https://www.cnbc.com/2021/02/05
 
 Helaas. Te mooi om waar te zijn. Het probleem is dat 16 minuten en 45 seconden per hash net te langzaam is. Het hele bitcoinnetwerk doet nu ongeveer 152,535,348,478,379,200,000 hashes per seconde. Doordat Ken te traag is, is de kans erg klein dat hij de juiste hash bij het block vindt. De kans is ongeveer net zo groot als dat hij de juiste zandkorrel tussen alle zandkorrels op aarde vindt. Die chinezen met hun gebouwen vol computers zijn dus zo gek nog niet.
 
-Ken heeft z'n ervaringen aan z'n blog toevertrouwd: [Mining bitcoin with pencil and paper](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html?m=1) 
+Ken heeft z'n ervaringen aan z'n blog toevertrouwd: [Mining bitcoin with pencil and paper](http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html?m=1).
