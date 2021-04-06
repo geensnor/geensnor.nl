@@ -6,7 +6,7 @@ function is_imagelink(url) {
     var p = /([a-z\-_0-9\/\:\.]*\.(jpg|jpeg|png|gif))/i;
     return (url.match(p)) ? true : false;
 }
-function is_vimeolink(url,el) {
+/* function is_vimeolink(url,el) {
     var id = false;
     var xmlhttp = new XMLHttpRequest();
     xmlhttp.onreadystatechange = function() {
@@ -37,6 +37,7 @@ function is_vimeolink(url,el) {
     xmlhttp.open("GET", 'https://vimeo.com/api/oembed.json?url='+url, true);
     xmlhttp.send();
 }
+*/
 function setGallery(el) {
     var elements = document.body.querySelectorAll(".gallery");
     elements.forEach(element => {
