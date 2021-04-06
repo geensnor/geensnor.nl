@@ -7,11 +7,11 @@ layout: default
     <h1><span>{{ page.title | escape }}</span></h1>
   </div>
   <div class="col-12 post-meta">
-    <span class="p-author h-card" itemprop="author" itemscope itemtype="https://schema.org/Person">Door: {{ page.author
+    Door <span class="p-author h-card" itemprop="author" itemscope itemtype="https://schema.org/Person">{{ page.author
       }}</span> op {{ page.date | date: "%d-%m-%Y"}} in {% for category in page.categories %}
-  <a class="category" href="/pages/alle_berichten.html#{{ category }}">
+  <a href="/pages/alle_berichten.html#{{ category }}">
     {{ category }}
-  </a>&nbsp;
+  </a>
 {% endfor %}
 
   </div>
