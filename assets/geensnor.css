@@ -123,6 +123,8 @@ a.category:link {
     background-color: black;
     padding: 0.2rem;
     color: #fff;
+    margin-left: 5px;
+    margin-right: 5px;
 }
     
 a.category:visited {
@@ -130,4 +132,6 @@ a.category:visited {
     color:white;
     padding: 0.2rem;
     color: #fff;
+    margin-left: 5px;
+    margin-right: 5px;
 }
