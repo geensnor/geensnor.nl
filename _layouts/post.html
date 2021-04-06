@@ -8,7 +8,14 @@ layout: default
   </div>
   <div class="col-12 post-meta">
     <span class="p-author h-card" itemprop="author" itemscope itemtype="https://schema.org/Person">{{ page.author
-      }}</span> op {{ page.date | date: "%d-%m-%Y"}} in {{ page.category}}
+      }}</span> op {{ page.date | date: "%d-%m-%Y"}}
+      
+      {% for category in page.categories %}
+  <a href="/blog/{{ category | slugize }}/">
+    {{ category }}
+  </a>
+{% endfor %}
+
   </div>
 </div>
 <div class="row justify-content-md-center">
