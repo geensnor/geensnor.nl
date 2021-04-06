@@ -133,8 +133,16 @@ a.category:link {
 }
     
 a.category:visited {
-    background-color: black;
-    color:white;
-    padding: 0.2rem;
-    color: #fff;
+    pointer-events: none;
+    background-color: #EFF4FF;
+    border: none;
+    color: #2557D6;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 13px;
+    margin-left: -1px;
+    margin-bottom: 10px;
+    border-radius: 100px;
 }
