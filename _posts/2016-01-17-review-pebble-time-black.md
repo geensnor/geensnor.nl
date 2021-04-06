@@ -10,7 +10,7 @@ categories:
 ---
 <a href="https://www.geensnor.nl/wp/wp-content/uploads/2016/01/394218.jpg" rel="attachment wp-att-780"><img class="alignright size-full wp-image-780" src="https://www.geensnor.nl/wp/wp-content/uploads/2016/01/394218.jpg" alt="394218" width="350" height="380" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2016/01/394218.jpg 350w, https://www.geensnor.nl/wp/wp-content/uploads/2016/01/394218-276x300.jpg 276w" sizes="(max-width: 350px) 100vw, 350px" />
 
-</a>Nadat na anderhalf jaar <a href="https://www.geensnor.nl/wp/review-garmin-vivosmart/" target="_blank">mijn Garmin Vivosmart</a> het voor de tweede maal heeft begeven, heb ik mijn hoop gevestigd op een nieuwe polsgadget: de Pebble time black. Waar de Vivosmart nog een activitytracker met wat geinige extra&#8217;s is, is de Pebble een echte smartwatch.
+Nadat na anderhalf jaar <a href="https://www.geensnor.nl/wp/review-garmin-vivosmart/" target="_blank">mijn Garmin Vivosmart</a> het voor de tweede maal heeft begeven, heb ik mijn hoop gevestigd op een nieuwe polsgadget: de Pebble time black. Waar de Vivosmart nog een activitytracker met wat geinige extra&#8217;s is, is de Pebble een echte smartwatch.
 
 ## Ding zelf
 
