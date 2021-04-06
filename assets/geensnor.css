@@ -118,31 +118,16 @@ pre{display:block;padding:9.5px;margin:0 0 10px;font-size:13px;line-height:20px;
 pre code{padding:0;color:inherit;white-space:pre;white-space:pre-wrap;background-color:transparent;border:0;}
 
 a.category:link {
-    pointer-events: none;
-    background-color: #202020;
-    border: none;
-    color: #ffffff;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin-right: 13px;
-    margin-left: 5px;
-    margin-bottom: 10px;
-    border-radius: 100px;
+    text-decoration:none;
+    color: white;
+    background-color: black;
+    padding: 0.2rem;
+    color: #fff;
 }
     
 a.category:visited {
-    pointer-events: none;
-    background-color: #202020;
-    border: none;
-    color: #ffffff;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    margin-right: 13px;
-    margin-left: 5px;
-    margin-bottom: 10px;
-    border-radius: 100px;
+    background-color: black;
+    color:white;
+    padding: 0.2rem;
+    color: #fff;
 }
