@@ -34,3 +34,5 @@ Bij de woorden "care", "craft" en "touch of chaos" van Joel hierboven, dacht je 
 ## Andere tuinen
 
 Inmiddels hebben ook anderen de digitale tuinhandschoen opgepakt. Zo kondigde Hay Kranen in z'n [nieuwsbrief](https://www.haykranen.nl/circulaire/) aan dat hij er ook een is [begonnen](https://www.haykranen.nl/wiki/). Hay heeft z'n inspirate weer in de tuin van ene [Kevin Cunningham](https://kevincunningham.co.uk) opgedaan. Ook [GitHub](https://github.com/search?q=digital+garden) staat bol van de Digitale Tuinen tegenwoordig.
+
+Dus heb je ergens nog een stukje braakliggend internet liggen en ben je niet bang om vieze handen te krijgen? Doe wat inspiratie op en begin zelf een heuse Digitale Tuin! Het internet kan het goed gebruiken.
