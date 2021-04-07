@@ -30,6 +30,7 @@ h1>a:hover{
     background-color: white;
     background-repeat: repeat-y;
     background-position: 50% 50%;
+    background-size: cover;
 
 }
 
