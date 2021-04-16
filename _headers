@@ -1,3 +1,9 @@
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Permitted-Cross-Domain-Policies "none"
+  Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+  Header set Content-Security-Policy "default-src * data:; script-src https: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'"
+  Header set Referrer-Policy "no-referrer-when-downgrade"
+  Header set Expect-CT: max-age=31536000, report-uri="https://your.report-uri.com/r/d/ct/report"
