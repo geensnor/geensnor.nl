@@ -34,6 +34,7 @@ Racefiets of gewone fiets.
 |Soort Airhockey, maar dan leuker. Multiplayer op één iPhone!|[Olo in Appstore](https://apps.apple.com/us/app/olo-game/id529826126)|
 |Civilisation (van Sid), maar dan gratis in de browser. Nog niet heel erg geprobeerd, maar het ziet er wel vet uit!|[freecivweb.org](https://www.freecivweb.org/)|
 |Age of Empires achtig spel. Gratis en OSS. AI is vrij goed, of ik vrij slecht|[0ad](https://play0ad.com/)|
+|Als je ooit iets met schaken op internet wil doen|https://lichess.org/|
 
 
 ## Eten en drinken
