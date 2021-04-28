@@ -15,4 +15,4 @@ Het vlaamse [Classified](https://classified-cycling.cc/en/) heeft een schakelsys
 
 GCN Tech heeft er een video van op YouTube gezet:
 
-<iframe width="730" height="400" src="https://www.youtube.com/embed/UFMhUYoqFyc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="730" height="400" src="https://www.youtube-nocookie.com/embed/UFMhUYoqFyc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
