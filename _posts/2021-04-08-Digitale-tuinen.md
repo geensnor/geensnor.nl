@@ -9,7 +9,7 @@ categories:
 
 Facebook is [lek](https://www.theverge.com/2021/4/4/22366822/facebook-personal-data-533-million-leaks-online-email-phone-numbers), Clubhouse is alweer [voorbij](https://twitter.com/ShaanVP/status/1371972261004070913) en TikTok is kut. Het internet is kapot gemaakt door het grootkapitaal en wij als gebruikers rennen van hype naar hype, opgegeild door kunstmatige intelligentie die ons steeds grotere ophef voorschoteld. Het is allemaal verschrikkelijk mensen en het wordt nog veel erger.
 
-![digitale tuin](assets/posts/digitaletuin.png)
+![digitale tuin](/assets/posts/digitaletuin.png)
 
 Een klein lichtpuntje van hoop in deze tsunami van gitzwarte ellende zijn Digitale Tuinen. Digital Gardens in het Engels, maar op geensnor.nl spreken we Nederlands, dus hier zeggen we Digitale Tuinen. En als je Digitale Tuinen een beetje weeeig vindt klinken heb je misschien gelijk, maar toch blijven we Digitale Tuinen zeggen.
 
