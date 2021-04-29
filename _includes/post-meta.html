@@ -1,0 +1,21 @@
+<!--start post metadata-->
+
+{% if post.author %}
+{% assign meta = post %}
+{% else %}
+{% assign meta = page %}
+{% endif %}
+
+
+<span class="p-author h-card" itemprop="author" itemscope itemtype="https://schema.org/Person">Door {{
+    meta.author }}</span> op
+<time class="dt-published" datetime="{{ post.date | date: " %Y-%m-%d %H:%M"}}" itemprop="datePublished"> {{
+    meta.date | date: "%d-%m-%Y"}}</time> in
+{% for category in meta.categories %}
+<a class="category" href="/pages/alle_berichten.html#{{ category }}">
+    {{ category }}
+</a>
+{% endfor %}
+
+
+<!--end post metadata-->
