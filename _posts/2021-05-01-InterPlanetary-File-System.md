@@ -34,5 +34,5 @@ Elk bestand een eigen hash klinkt leuk, maar er kleeft ook een dik nadeel aan. T
 ## Geensnor en IPFS
 
 Wij van Geensnor steken natuurlijk altijd wel even onze spreekwoordelijke teen in het water als het gaat om dit soort onderwerpen. De website van [Omloop De Snor](https://www.omloopdesnor.nl) (3 juli a.s., allemaal meedoen!! yeah!) staat tegenwoordig ook op IPFS en wel op dit adres:
-[https://gateway.pinata.cloud/ipfs/QmefchTedt7JCSMAPW2PWbQzP4jbhRvm8YiUMLNoJ7My4U/](https://gateway.pinata.cloud/ipfs/QmefchTedt7JCSMAPW2PWbQzP4jbhRvm8YiUMLNoJ7My4U/)
-Dit is zonder IPNS, dus op het bovenstaande adres zul je nooit een update zien.
+[https://gateway.pinata.cloud/ipfs/QmZoiUzC9YmgZF1gWX3AKPmiorDhjzs5UcijVbTk188cfq](https://gateway.pinata.cloud/ipfs/QmZoiUzC9YmgZF1gWX3AKPmiorDhjzs5UcijVbTk188cfq/)
+Dit is zonder IPNS, dus op het bovenstaande adres zul je nooit een update zien. Maar met behulp van een [GitHub Action](https://github.com/geensnor/OmloopDeSnor-website/blob/master/.github/workflows/main.yml) wordt elke update van [Omloop De Snor](https://www.omloopdesnor.nl) automatisch gepind bij [pinata.cloud](https://pinata.cloud). Ik durf bij deze wel te stellen dat onze eigen Omloop De Snor de enige tourtocht is waarvan de website bij elke update automatisch op IPFS wordt gezet. Een goede reden om op 3 juli mee te rijden!
