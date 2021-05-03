@@ -21,8 +21,8 @@
 title: geensnor.nl - Misschien wel een uber hippe "Digital Garden"
 email: geensnorleestgeenemail@geensnor.nl
 description: Multi channel creative. Interactive disruptor. Platform optimizer. Connector.
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://geensnor.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://geensnor.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 paginate: 10
