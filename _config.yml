@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -24,19 +24,15 @@ description: Multi channel creative. Interactive disruptor. Platform optimizer. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://geensnor.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
-
 paginate: 10
 paginate_path: blog/page:num/
 
-
 defaults:
-  - 
-    scope:
+  - scope:
       path: "_posts"
     values:
       layout: "post"
-
-
+      permalink: /:title
 # Build settings
 
 #plugins:
