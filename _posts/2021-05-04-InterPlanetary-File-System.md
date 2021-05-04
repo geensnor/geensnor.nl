@@ -1,5 +1,5 @@
 ---
-title: InterPlanetary File System
+title: InterPlanetary File System - update
 author: Joris
 permalink: /InterPlanetary-File-System/
 categories:
@@ -14,7 +14,9 @@ Eens in de zoveel tijd krijg ik de onbedwingbare behoefte om iets met het InterP
 
 ## IPFS
 
-[IPFS](https://ipfs.io/) is een peer-to-peer bestandsysteem op het internet. Vergelijk het met HTTP. Maar anders dan bij HTTP heb je geen centrale server en geen URL's. In plaats van een server heb je peers in het netwerk. In plaast van URL's, krijgt elk bestand z'n eigen hash. Zodra je je website op IPFS "zet", wordt je site in stukken geknipt en worden de losse onderdelen over het IPFS netwerk verdeeld. Als iemand je site wil bekijken worden al die stukken weer bij elkaar gezocht en wordt de website getoond. Waar ik zeg website kun je ook video of afbeelding lezen. Files dus. Het leuke van hashing is natuurlijk dat twee dezelfde bestanden, dezelfde hash opleveren. Als twee identieke bestanden los van elkaar op IPFS worden gezet, worden die door IPFS als echt dezelfde bestanden gezien. Dat scheelt weer opslagruimte, overdracht en dubbele data.
+[IPFS](https://ipfs.io/) is een peer-to-peer bestandsysteem op het internet. Vergelijk het met HTTP. Maar anders dan bij HTTP heb je geen centrale server en geen URL's. In plaats van een server heb je peers in het netwerk. In plaast van URL's, krijgt elk bestand z'n eigen hash. Dit is ook een van de belangrijkste verschillen: HTTP is locatie gebaseerd (content staat op URL) en IPFS content gebaseerd (Hash van content). 
+
+Zodra je je website op IPFS "zet", wordt je site in stukken geknipt en worden de losse onderdelen over het IPFS netwerk verdeeld. Als iemand je site wil bekijken worden al die stukken weer bij elkaar gezocht en wordt de website getoond. Waar ik zeg website kun je ook video of afbeelding lezen. Files dus. Het leuke van hashing is natuurlijk dat twee dezelfde bestanden, dezelfde hash opleveren. Als twee identieke bestanden los van elkaar op IPFS worden gezet, worden die door IPFS als echt dezelfde bestanden gezien. Dat scheelt weer opslagruimte, overdracht en dubbele data.
 
 
 ## Zelf doen
@@ -36,3 +38,8 @@ Elk bestand een eigen hash klinkt leuk, maar er kleeft ook een dik nadeel aan. T
 Wij van Geensnor steken natuurlijk altijd wel even onze spreekwoordelijke teen in het water als het gaat om dit soort onderwerpen. De website van [Omloop De Snor](https://www.omloopdesnor.nl) (3 juli a.s., allemaal meedoen!! yeah!) staat tegenwoordig ook op IPFS en wel op dit adres:
 [https://gateway.pinata.cloud/ipfs/QmZoiUzC9YmgZF1gWX3AKPmiorDhjzs5UcijVbTk188cfq](https://gateway.pinata.cloud/ipfs/QmZoiUzC9YmgZF1gWX3AKPmiorDhjzs5UcijVbTk188cfq/)
 Dit is zonder IPNS, dus op het bovenstaande adres zul je nooit een update zien. Maar met behulp van een [GitHub Action](https://github.com/geensnor/OmloopDeSnor-website/blob/master/.github/workflows/main.yml) wordt elke update van [Omloop De Snor](https://www.omloopdesnor.nl) automatisch gepind bij [pinata.cloud](https://pinata.cloud). Ik durf bij deze wel te stellen dat onze eigen Omloop De Snor de enige tourtocht is waarvan de website bij elke update automatisch op IPFS wordt gezet. Een goede reden om op 3 juli mee te rijden!
+
+### Update: Geensnor pin overzicht
+
+Om wat orde te scheppen in alle pinnen, hebben we even een pin overzicht gemaakt: [geensnor.nl/ipfs](http://geensnor.nl/ipfs/). Hier staan alle IPFS pinnen van geensnor.nl die bij Pinanta zijn gepind. Elke nieuwe versie van (bijvoorbeeld) de website van Omloop de Snor, zorg voor een nieuwe pin. Het kan zijn dat we er af en toe wat opruimen. Als je erg gehecht bent aan een specifieke versie, kun je hem natuurlijk altijd zelf pinnen.
+
