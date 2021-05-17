@@ -14,9 +14,9 @@ Eens in de zoveel tijd krijg ik de onbedwingbare behoefte om iets met het InterP
 
 ## IPFS
 
-[IPFS](https://ipfs.io/) is een peer-to-peer bestandsysteem op het internet. Vergelijk het met HTTP. Maar anders dan bij HTTP heb je geen centrale server en geen URL's. In plaats van een server heb je peers in het netwerk. In plaast van URL's, krijgt elk bestand z'n eigen hash. Dit is ook een van de belangrijkste verschillen: HTTP is locatie gebaseerd (content staat op URL) en IPFS content gebaseerd (Hash van content). 
+[IPFS](https://ipfs.io/) is een peer-to-peer bestandsysteem op het internet. Vergelijk het met HTTP. Maar anders dan bij HTTP heb je geen centrale server en geen URL's. In plaats van een server heb je peers in het netwerk. En in plaast van URL's, krijgt elk bestand z'n eigen hash. Dit is ook een van de belangrijkste verschillen: HTTP is locatie gebaseerd (content staat op URL) en IPFS is content gebaseerd (Hash van content). 
 
-Zodra je je website op IPFS "zet", wordt je site in stukken geknipt en worden de losse onderdelen over het IPFS netwerk verdeeld. Als iemand je site wil bekijken worden al die stukken weer bij elkaar gezocht en wordt de website getoond. Waar ik zeg website kun je ook video of afbeelding lezen. Files dus. Het leuke van hashing is natuurlijk dat twee dezelfde bestanden, dezelfde hash opleveren. Als twee identieke bestanden los van elkaar op IPFS worden gezet, worden die door IPFS als echt dezelfde bestanden gezien. Dat scheelt weer opslagruimte, overdracht en dubbele data.
+Zodra je je website op IPFS "zet", wordt je site in stukken geknipt en worden de losse onderdelen over het IPFS netwerk verdeeld. Als iemand je site wil bekijken worden al die stukken weer bij elkaar gezocht en wordt de website getoond. Waar ik zeg website kun je ook video of afbeelding lezen. Bestanden in elk geval. Het leuke van hashing is natuurlijk dat twee dezelfde bestanden, dezelfde hash opleveren. Als twee identieke bestanden los van elkaar op IPFS worden gezet, worden die door IPFS als dezelfde bestanden gezien. Dat scheelt opslagruimte, overdracht en dubbele data.
 
 
 ## Zelf doen
@@ -25,7 +25,7 @@ Iedereen kan in z'n browser IPFS sites bekijken. Doordat browsers doorgaans alle
 
 ## Pinnen
 
-IPFS hangt van de caching aan elkaar. Om ervoor te zorgen dat je bestanden daadwerkelijk ergens blijven staan en niet telkens uit allerlei caches worden geveegd, kun je bestanden "pinnen". Je geeft dan eigenlijk aan dat de cache van de bestanden moet blijven bestaan. Als iemand dan het bestand wil opvragen, zijn in elk geval de gepinde bestanden beschikbaar. Pinnen is vaak niet gratis omdat het schijfruimte kost. Er services als bijvoorbeeld [pinata.cloud](https://pinata.cloud) waar de eerste Gigabyte pinnen gratis is.
+IPFS hangt van de caching aan elkaar. Om ervoor te zorgen dat je bestanden daadwerkelijk ergens blijven staan en niet telkens uit allerlei caches worden geveegd, kun je bestanden "pinnen". Je geeft dan aan dat de cache van de bestanden moet blijven bestaan. Als iemand dan het bestand wil opvragen, zijn altijd de gepinde bestanden beschikbaar. Pinnen is vaak niet gratis omdat het schijfruimte kost. Er zijn services als bijvoorbeeld [pinata.cloud](https://pinata.cloud) waar de eerste Gigabyte pinnen gratis is.
 
 Een andere manier om anderen ervan te overtuigen om jouw bestanden op te slaan, is om ze om te betalen. Betalen doen we tegenwoordig natuurlijk alleen nog via Cryptocurrencies en voor IPFS is ook een coin bedacht: de [Filecoin](https://filecoin.io/build/#tools-and-more). Hoe die vork precies in z'n steel zit weet ik niet, maar er heeft vast iemand over nagedacht. 
 
