@@ -49,6 +49,7 @@ Daarnaast hebben we ook nog een aantal losse tips, bij elkaar gebracht in een ha
 | ------------ | ---------- | ---------- | ----------------------- |
 | Koffie bonen | **Moyee coffee** - Ethiopia **double** blend | [Moyee coffee](https://www.moyeecoffee.com) | Lekkere koffie, beetje fruitig en niet zo lomp als DE. Zit ook zuurtje in. Gewone hollandse filterkoffie ontmoet hipster chemex opgietkoffie. Beetje die tune van Douwe Egberts met die piano en gezelligheid.....in een obscuur berlijns koffiehutje waar ze je koffie met thermometers en weegschalen voor je bottelen. |
 |Bierbrouwer|Nevel|[nevel.org](https://nevel.org)|Tegenwoordig heeft elke idioot z'n eigen brouwerij. Vaak is het niet meer dan een wedstijdtje lollige biernamen en gore ingredienten bedenken (ja, ik kijk naar jou, Kromme Haring met je smerige [spekkoekbier](https://untappd.com/b/de-kromme-haring-ikan-ikan/2420270)...). Maar daar moet Nevel uit Nijmegen niets van hebben. Die maken bijna alleen maar super lekker bier.|
+|Diepvriespizza|Jumbo Steenovern Pizza Salami Diavola| helaas geen url | Kei lekkere diepvriespizza|
 
 ## Muziek
 
