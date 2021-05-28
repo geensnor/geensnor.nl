@@ -11,7 +11,7 @@ Toen sloeg het noodlot toe. AH haalde de salami picante uit het assortiment. Vel
 
 Vandaag at ik de Jumbo Steenover gebakken Pizza Salami Diavola. Dat is een super lekkere diepvriespizza. Leuk met lekker pittige salami, olijfjes, rucola en een lekker pittige olie-tje om eroverheen te gieten. Om een of andere reden staat hij niet op de site van de Jumbo, maar hier is een foto. 
 
-![image-20210528222404338](/Users/erik/Documents/GIT repo/geensnor.nl/assets/posts/pizza.png)
+![image-20210528222404338](/assets/posts/pizza.png)
 
 
 
