@@ -34,9 +34,8 @@ Racefiets of gewone fiets.
 |Soort Airhockey, maar dan leuker. Multiplayer op één iPhone!|[Olo in Appstore](https://apps.apple.com/us/app/olo-game/id529826126)|
 |Civilisation (van Sid), maar dan gratis in de browser. Nog niet heel erg geprobeerd, maar het ziet er wel vet uit!|[freecivweb.org](https://www.freecivweb.org/)|
 |Age of Empires achtig spel. Gratis en OSS. AI is vrij goed, of ik vrij slecht|[0ad](https://play0ad.com/)|
-|Als je ooit iets met schaken op internet wil doen|https://lichess.org/|
+|Als je ooit iets met schaken op internet wil doen|[lichess.org](https://lichess.org/)|
 |Doom online en eventueel MP. Omdat je altijd ff kan doomen | [doom](https://silentspacemarine.com/)|
-
 
 ## Eten en drinken
 
@@ -76,7 +75,7 @@ Er is zoveel moois op internet te vinden, dat eigenlijk niets meer op je compute
 |Online foto bewerking|[pqina.nl](https://pqina.nl/doka/image-editor/)|Photoshop te duur? Waarschijnlijk kun je het hier ook wel mee doen.|
 |Bestanden en tekst delen|[webdrop.space](https://webdrop.space/)|Soms moet je wat delen tussen verschillende apparaten die ook nog eens verschillende OS-en hebben. Werkt op je LAN zonder configuratie.|
 |QR code voor je WiFi|[qifi.org](https://qifi.org/)|WiFi codes overtypen is irritant. Maak er een QR code van je SSID en wachtwoord en verbinden is een fluitje van een cent.|
-|Diagrammen maken|[draw.io](https://www.draw.io)|Flowtje, UMLeltje, serverruimte indelen? Draw.io kan het allemaal. Heeft ook een desktop versie| 
+|Diagrammen maken|[draw.io](https://www.draw.io)|Flowtje, UMLeltje, serverruimte indelen? Draw.io kan het allemaal. Heeft ook een desktop versie|
 |Strava synchroniseren|[tapiriik.com](https://tapiriik.com/)|Alle fietsrondes staan natuurlijk in Strava, maar het is altijd een prettig idee om ze ook zelf te hebben. Tapiriik synct ze met allerlei diensten waaronder Dropbox.|
 
 ## Lifehacks (geensnor uit zalk)
