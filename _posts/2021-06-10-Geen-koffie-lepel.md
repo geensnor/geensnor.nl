@@ -2,7 +2,7 @@
 title: Oplossing voor gebrek aan koffielepel
 author: Erik
 categories:
-  - tips
+  - Tips
 ---
 Soms ben je ergens en dan wil je koffie zetten omdat je zin hebt in koffie. Ik houd vooral van filterkoffie en de zetwijze daarvan is gelukkig niet moeilijk. Je hebt koffie nodig, een filter, een filterhouder, iets om het in te doen en natuurlijk een manier om te bepalen hoeveel koffie je dan nodig hebt. Daarvoor gebruik je meestal een maatlepel, of koffieschepje zoals je wilt. 
 
