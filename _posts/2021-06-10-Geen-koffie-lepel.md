@@ -16,7 +16,5 @@ Na wat puzzelen kwam ik tot de volgende oplossing.
 ![Plaatje](/assets/posts/IMG_7620.jpeg)
 ![Plaatje](/assets/posts/IMG_7622.jpeg)
 ![Plaatje](/assets/posts/IMG_7623.jpeg)
-![Plaatje](/assets/posts/IMG_7622.jpg)
-
 
 
