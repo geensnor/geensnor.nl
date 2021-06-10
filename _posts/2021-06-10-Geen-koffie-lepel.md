@@ -11,7 +11,9 @@ Helaas krijg je die niet gratis bij een kop koffie of een pak filters. Ik heb da
 Update: Een oplettende lezer attendeerde op de maat filter die van belang is. Ik maak gebruik van een maatje 4 filter.
 
 ## De oplossing voor 1 kopje koffie
-Na wat puzzelen kwam ik tot de volgende oplossing.
+Na wat puzzelen kwam ik tot de volgende oplossing. Je vouwt de filter gewoon 2x om. Het 2e lijntje is precies goed voor 2 'gewone' schepjes = 1 mok koffie. 
+
+Waarom 2x vouwen? Onderaan komt de filter bij elkaar. Je kan daar precies handig langs vouwen. 
 
 ![Plaatje](/assets/posts/IMG_7618.jpeg)
 ![Plaatje](/assets/posts/IMG_7619.jpeg)
