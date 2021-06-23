@@ -23,6 +23,7 @@ Racefiets of gewone fiets.
 |Energiedrank poeder|Decathlon Aptonia ISO "Lighter Sweet Taste" Gele dop|[decathlon.nl](https://www.decathlon.nl/p/poeder-voor-isotone-dorstlesser-iso-rode-vruchten-650-g/_/R-p-9831?mc=8335609&fl=Citroen)|Energiedrank is vaak goor, maar deze is nog wel te doen. Bovendien is het poeder dus kun je een beetje je eigen sterkte eraan geven|
 |Stadsfiets|Azor|[azor.nl](https://www.azor.nl)|Stevigste fiets die mijn fietsenmaker verkoopt, volgens mijn fietsenmaker. Wordt in Hoogeveen in elkaar gezet. |
 |Energie reep|Powerbar Natural Protein Salty Peanut Crunch|[bol.com](https://www.bol.com/nl/p/powerbar-natural-protein-bar-salty-peanut-crunch-24-40-g/9200000063283275/)|Prima eetbaar en plakt niet in je handen|
+|Fietsroute planner|BRouter|[brouter.de](https://brouter.de/brouter-web)|Eenvoudige, open source routeplanner die prima werkt. Goedkoper dan Strava en minder super irritant dan Komoot.|
 
 ## Games
 
