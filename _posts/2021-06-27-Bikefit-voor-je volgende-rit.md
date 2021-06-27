@@ -2,7 +2,7 @@
 title: Bikefit voor je volgende rit
 author: Erik
 categories:
-  - wielrennen
+  - Wielrennerij
 ---
 Ik heb een racefiets vanaf 2001 ongeveer en heb de afgelopen jaren eindeloos veel afgesteld aan mijn fiets. Helaas heb ik een gevoelig lichaam en vaak klachten op de fiets. Ik heb mij inmiddels 2x onderworpen aan een complete bikefitting en dat hielp soms, maar zeker ook niet altijd. Alle lessen en fouten die ik heb geleerd, heb ik in deze post opgeschreven. Ik hoop dat de lezer er iets aan heeft. 
 
