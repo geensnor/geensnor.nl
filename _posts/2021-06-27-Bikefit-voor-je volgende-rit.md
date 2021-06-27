@@ -82,7 +82,7 @@ De lengte is persoonlijk maar vuistregel is dat als je in de shifters hangt, en 
 
 Als laatste kun je de hoek van je stuur nog aanpassen door het stuur te draaien. Hierbij is het van belang dat je er voor zorgt dat je de druk in je handen verdeelt over het hele oppervlakte, zonder dat er rare hoeken in je polsen komen. De beugels staan onderaan meestal ongeveer vlak (heel licht naar boven gebogen), maar dat is ook afhankelijk van je soort stuur.
 
-Het ideale punt hiervoor vinden vind ik lastig. Neem een inbussleuteltje mee en ga een rondje fietsen en pas het aan. Let op, meestal mogen de boutjes niet vaster dan 5nm (en dat is niet erg strak). Het aandraaien van de 4 boutjes van je stuur doe je trouwens kruislinks. Linksonder, rechtsboven, linksboven, rechtsonder. Anders draai je de boel scheef.
+Het ideale punt hiervoor vinden vind ik lastig maar het belangrijkste is dat je geen rare hoeken hebt (en daardoor zenuwen blokkeert). Neem een inbussleuteltje mee en ga een rondje fietsen en pas het aan. Let op, meestal mogen de boutjes niet vaster dan 5nm (en dat is niet erg strak). Het aandraaien van de 4 boutjes van je stuur doe je trouwens kruislinks. Linksonder, rechtsboven, linksboven, rechtsonder. Anders draai je de boel scheef.
 
 # Overige afstellingen
 
