@@ -104,7 +104,7 @@ Een handige truc is door een **rechte lijn vanaf je armen tot aan je middelvinge
 
 ## Schoenplaatjes en schoenen
 
-Ook die kan je instellen. Haal je zooltjes eens uit je schoenen en kijk daar eens goed naar. Zie je bijv. teenafdrukken, dan druk te veel met je tenen en kan een steunzooltje goed helpen. Je wilt met de bal van je fiets duwen.
+Ook die kan je instellen. Haal je zooltjes eens uit je schoenen en kijk daar eens goed naar. Zie je bijv. teenafdrukken, dan druk te veel met je tenen en kan een steunzooltje goed helpen. Je wilt met de bal van je voet duwen.
 
 Op je plaatjes zitten mega kleine markeringen (aan de zijkant). Dat is waar de trapas zit. Die wil je recht onder de voet van je bal hebben. [Deze video](https://www.youtube.com/watch?v=LPHT_P9aDjo) vond ik erg duidelijk en informatief.
 
