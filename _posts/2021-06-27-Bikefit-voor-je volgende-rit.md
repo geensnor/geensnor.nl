@@ -57,7 +57,7 @@ Meer informatie en andere methoden:
 
 ## Zadelafstand
 
-Als de hoogte goed staat ga je vervolgens je zadel naar voren of naar achteren afstellen. Idee is dat de punt van je knie gelijk komt met de trapas, als je de crank naar voren hebt. 
+Als de hoogte goed staat ga je vervolgens je zadel naar voren of naar achteren afstellen om de afstand tot stuur aan te passen. Idee is dat de punt van je knie gelijk komt met de trapas, als je de crank naar voren hebt. 
 
 1. Pak een touwtje en bind er een moer aan (of iets anders zwaars)
 2. Ga weer ergens tegen aan leunen, en klim op de fiets
@@ -67,6 +67,8 @@ Als de hoogte goed staat ga je vervolgens je zadel naar voren of naar achteren a
 Mocht je een **laserwaterpas** hebben, gebruik dan die. Dat is veel handiger. Zet die op de grond en je kan exact de lijn zien tussen trapas en knie. 
 
 Verkeerde afstellingen hierin leveren met name knieklachten op, maar ook hier pijn in de rest van het lichaam door spanningen. 
+
+Meet bij het afstellen wat je aan het doen bent, en schrijf dat ergens op. Ik meet altijd to aan de boutjes van de stuurpen
 
 ## Stuurlengte en hoogte
 
