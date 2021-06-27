@@ -28,7 +28,7 @@ Naast deze primaire afstellingen kun je ook nog je schoenplaatjes, schoenen, hoe
 
 Zonder goed zadel krijg je zadelpijn, een dooie zak en zit je ongelukkig op de fiets. Daarom eerst een goed zadel. Deze les had ik graag veel eerder gehad :) Zonder goed zadel kun je niet lekker je fiets afstellen. 
 
-Uiteindelijk moet je op de zitbotjes zitten. Mannen hebben vaak bredere bekken dan vrouwen en ook tussen mannen verschilt het nogal, meestal ergens tussen de 12cm en de 15cm. Zadels komen ook in die verschillende breedtes. Daarnaast hebben veel zadels uitsparingen voor je zaakje. Te lang daarop zitten (op je [perineum](https://nl.wikipedia.org/wiki/Perineum)) levert een dooie zak op, voelt erg onprettig en is ook niet erg goed voor het nageslacht. Sommige hebben een gat, andere een kuil. 
+Uiteindelijk moet je op de zitbotjes zitten. Mannen hebben vaak bredere bekken dan vrouwen en ook tussen mannen verschilt het nogal, meestal ergens tussen de 12cm en de 15cm. Zadels komen ook in die verschillende breedtes. Daarnaast hebben veel zadels uitsparingen voor je zaakje. Te lang daarop zitten (op je [perineum](https://nl.wikipedia.org/wiki/Perineum)) levert een dooie zak op, voelt erg onprettig en is ook niet erg goed voor het nageslacht. Sommige zadels hebben een gat, andere een kuil. 
 
 Meestal zie je standaard een 13cm zadel gemonteerd. Als je daar met je brede mannelijke bekken op gaat zitten krijg je snel zadelpijn omdat je zitbotjes er aan de zijkanten overheen schuiven (en zelfs je bekken uit elkaar drukken als een soort wig) en je daardoor dus veel te veel op je perineum komt te zitten. Dooie zak en zadelpijn tot gevolg.
 
