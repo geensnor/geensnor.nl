@@ -103,6 +103,7 @@ Tintelende vingers, pijnlijke polsen en een beurse muis van je hand. Uiteindelij
 Daarnaast kun je bij de meeste shifters de **afstand tussen remhandvat en stuur** aanpassen door aan een super klein inbusjes te draaien. Zorg ervoor dat je in de beugels alsnog goed bij de rem kan.
 
 Een handige truc is door een **rechte lijn vanaf je armen tot aan je middelvinger te tekenen** en vervolgens op de fiets te zitten. Door de lijn zie je direct of je pols een rare hoek maakt.
+![Shifter plaatje](/assets/posts/shifters2.jpg)
 
 ### Schoenplaatjes en schoenen
 
