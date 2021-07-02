@@ -77,6 +77,8 @@ Meet bij het afstellen wat je aan het doen bent, en schrijf dat ergens op. Ik me
 
 Je zit nu qua zadel goed op je fiets. Nu mogen we (eindelijk) eens kijken naar de houding richting stuur. Wil je diep zitten (sportief) of meer ontspannen iets hoger. Met de [spacers](https://www.futurumshop.nl/pro-spacers-2-2-5-5-10-20-mm.phtml) kun je de hoogte van je stuur aanpassen. Let wel op dat je weet wat je doet, want speling in je balhoofd heb je er zo in zitten. Misschien schrijf ik daar nog eens wat over, nu niet :)
 
+![stuurpen](/assets/posts/stuurpen.jpg)
+
 Daarnaast kun je met de stuurpen ook de hoogte bepalen. Deze hebben vaak een bepaalde hoek omhoog (of omlaag). Een simpele truc is je stuurpen omdraaien om eens te proberen.
 
 De lengte is persoonlijk maar vuistregel is dat als je in de shifters hangt, en gewoon aan het fietsen ben, je de as van je wiel niet ziet, omdat je stuur ervoor zit. Bij nekklachten kan het soms ook helpen een iets kortere pen te pakken. Let wel op, een te korte pen is juist ook niet goed. Zeker met een groot bovenlichaam moet er ruimte zijn om te strekken. Anders probeer je een groot lichaam eigenlijk in elkaar te drukken en dat levert ook klachten op.
