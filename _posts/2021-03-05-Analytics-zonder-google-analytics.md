@@ -9,7 +9,7 @@ categories:
 
 Op geensnor.nl sta je als bezoeker centraal. Bruikbaarheid, privacy en veiligheid zijn allemaal van het hoogtste niveau zodat het je aan niets zal ontbreken. We gaan je daarom niet tracken, uitbuiten of afpersen. Toch is het wel leuk om te weten hoeveel bezoekes geensnor.nl heeft (spoiler: niet veel). Sinds een tijdje gebruiken we daar [Umami](https://umami.is) voor. Umami is een tool om bezoekers op een website bij te houden, zonder dat er Google aan te pas komt. En alles waar de boze big tech niet aan te pas komt, is meegenomen.
 
-![bezoekers geensnor](../assets/posts/bezoekgeensnor.png)
+![bezoekers geensnor](/assets/posts/bezoekgeensnor.png)
 
 ## Umami op Vercel
 
