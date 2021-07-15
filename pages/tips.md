@@ -79,6 +79,7 @@ Er is zoveel moois op internet te vinden, dat eigenlijk niets meer op je compute
 |QR code voor je WiFi|[qifi.org](https://qifi.org/)|WiFi codes overtypen is irritant. Maak er een QR code van je SSID en wachtwoord en verbinden is een fluitje van een cent.|
 |Diagrammen maken|[draw.io](https://www.draw.io)|Flowtje, UMLeltje, serverruimte indelen? Draw.io kan het allemaal. Heeft ook een desktop versie|
 |Strava synchroniseren|[tapiriik.com](https://tapiriik.com/)|Alle fietsrondes staan natuurlijk in Strava, maar het is altijd een prettig idee om ze ook zelf te hebben. Tapiriik synct ze met allerlei diensten waaronder Dropbox.|
+|Markdown editor|[writemd.xyz](https://writemd.xyz/d/60efda973be295623)|Online Makrdown editor. Geen account nodig, delen via een URL, geen kermis.|
 
 ## Lifehacks (geensnor uit zalk)
 
