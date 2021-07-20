@@ -136,3 +136,10 @@ a.category:visited {
     margin-left: 5px;
     margin-right: 5px;
 }
+.nieuwsbriefcontainer {
+    background-color: #fbfcfc;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
