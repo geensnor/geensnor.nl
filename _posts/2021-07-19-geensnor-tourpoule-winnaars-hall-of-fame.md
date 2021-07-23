@@ -28,4 +28,4 @@ Gefeliciteerd Klaas! Dit jaar is niet de eerste keer dat Klaas het hoogste podiu
 |2012|Rik    |
 |2011|geen idee|
 
-Zoals je zit is de lijst niet helemaal compleet. Als iemand een idee heeft wie 2018 of 2011 heeft gewonnenn, houden we ons aanbevolen!
+Zoals je zit is de lijst niet helemaal compleet. Als iemand een idee heeft wie 2018 of 2011 heeft gewonnen, houden we ons aanbevolen!
