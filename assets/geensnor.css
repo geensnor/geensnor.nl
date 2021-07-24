@@ -136,3 +136,14 @@ a.category:visited {
     margin-left: 5px;
     margin-right: 5px;
 }
+
+
+/* primary button van Bootstrap een beetje versnorren */
+.btn-primary{
+    background-color:#f15b24;
+    border: 0;
+}
+
+.btn-primary:hover {
+    background-color:#ad451f;
+}
