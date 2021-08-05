@@ -1,4 +1,10 @@
-
+---
+title: Digitale tuin, nu echt
+author: Joris
+categories:
+  - Geensnor
+  - Handig
+---
 
 Al [eerdere berichtte](https://geensnor.netlify.app/digitale-tuinen/) we hier op Geensnor over het fenomeen Digitale tuinen. Zoals je je misschien herinnert, waren we op dat moment nog zoekende over wat dit voor Geensnor zou kunnen betekenen. Maar we zijn eruit! Geensnor heeft vanaf nu een echte, eigen Digitale tuin: 
 
