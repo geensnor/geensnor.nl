@@ -10,7 +10,7 @@ Discussieren is vaak geen feest. Hoe mooi je argumenten ook klinken, de ander wi
 
 Het uitwisselen van argumenten begint natuurlijk bij goede argumenten. En daar gaat het vaak mis. Heel vaak worden drogredenen gebruikt. Redeneringen die wel leuk klinken maar waar eigenlijk geen reet van klopt. Hieronder staan een aantal bekende drogredenen. Drogredenen kun je niet genoeg onder de aandacht brengen, vandaar dit artikel. Knoop ze in je oren, herken ze en kap elke flutdiscussie direct af zodra de andere partij dit soort onzin begint te verkondigen. 
 
-Er zijn er heel veel, maar ik heb er hieronder een paar leuke opgesomd. Daar gaan we.
+Er zijn er [heel veel](https://nl.wikipedia.org/wiki/Categorie:Drogreden), maar ik heb er hieronder een paar leuke opgesomd. Daar gaan we.
 
 ## Whataboutism
 
@@ -61,3 +61,6 @@ Iets wordt voor waar aangenomen omdat de ander niet kan bewijzen dat het niet wa
 > Ik geloof niet in complotten maar volgens mij gebeuren er allemaal dingen door mensen achter de schermen die geheim moeten blijven en die onze manier van leven bepalen. 
 
 [https://nl.wikipedia.org/wiki/Argumentum_ad_ignorantiam](https://nl.wikipedia.org/wiki/Argumentum_ad_ignorantiam)
+
+
+
