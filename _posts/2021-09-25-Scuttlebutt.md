@@ -1,10 +1,9 @@
 ---
-title: Weer een sociaal netwerk: Scuttlebutt
+title: "Weer een sociaal netwerk: Scuttlebutt"
 author: Joris
 categories:
   - Internet
 ---
-
 
 ![hermie](https://scuttlebutt.nz/images/app-icons/hermiepatchwork.svg)
 
