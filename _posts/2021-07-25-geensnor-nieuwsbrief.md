@@ -12,7 +12,7 @@ Over enkele dagen wordt de eerste nieuwbrief van Geensnor verzonden getiteld "Tu
 
 Heel eenvoudig! Klik op de knop hieronder en laat je e-mailadres achter!
 
-<a href="https://www.getrevue.co/profile/geensnor" target="_new" class="btn btn-primary">inschrijven nieuwsbrief</a>
+<a href="https://www.getrevue.co/profile/geensnor" target="new" class="btn btn-primary">inschrijven nieuwsbrief</a>
 
 Voor de nieuwsbrief maken we gebruik van [Revue](https://www.getrevue.co/). Deze van oorsprong Nederlandse start-up is onlangs overgenomen door Twitter. Op het [profiel van Geensnor](https://www.getrevue.co/profile/geensnor) kun je je e-mailadres achter laten. Vervolgens ontvang je tegen het einde van de maand, geheel kostenloos "Tussen neus en lippen door".
 
