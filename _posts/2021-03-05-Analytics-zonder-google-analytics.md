@@ -21,4 +21,4 @@ Umami heeft ook een publieke versie van de statistieken beschikbaar. Voor geensn
 
 [https://umami-beryl.vercel.app/share/12bqGSJc/geensnor.nl](https://umami-beryl.vercel.app/share/12bqGSJc/geensnor.nl)
 
-Als je 's nachts niet kkunt slapen omdat de bezoekers aantallen van geensnor.nl maar door je hoofd blijven malen, kun je hier dus verlossing vinden.
+Als je 's nachts niet kunt slapen omdat de bezoekers aantallen van geensnor.nl maar door je hoofd blijven malen, kun je hier dus verlossing vinden.
