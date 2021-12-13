@@ -7,6 +7,9 @@ categories:
   - Vertier
   - Wielrennerij
 ---
+
+Update: Uitslagen staan [hier](https://www.dedigitaletuin.nl/uitslagen-wielren-poules/)
+
  De Tour is afgelopen en de winnaar van 2021 is: 
 
 ### Klaas!
