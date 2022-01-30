@@ -7,6 +7,11 @@ categories:
   - Spullen
 ---
 
+## Update januari 2022
+De Tips pagina bestaat niet meer. Alles staat nu in de [Digitale tuin](https://www.dedigitaletuin.nl)
+
+---
+
 Geensnor.nl heeft vanaf vandaag een nieuwe pagina: [Tips](/pages/tips). 
 
 Maakt hier maar een goeie bookmark van, want deze pagina gaat je nog een hoop ellende besparen. Alle sites/spullen/dingen/bedrijven waar we goede ervaringen mee hebben, zetten we hier neer. Beetje zoals [Wirecutter](https://www.nytimes.com/wirecutter/) dat doet, maar met de betrouwbaarheid die je van geensnor.nl gewend bent.
