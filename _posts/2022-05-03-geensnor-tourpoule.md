@@ -6,6 +6,8 @@ categories:
   - Vertier
 ---
 
+![wielrenners](assets/posts/tourpoule-afbeelding.jpg)
+
 Trouwe lezers van onze [nieuwsbrief](https://www.tussenneusenlippendoor.nl/) wisten het al: Geensnor is een eigen tourpoule begonnen!
 
 ## Mee doen
@@ -16,11 +18,13 @@ Heel makkelijk. Je gaat naar [www.geensnor.nl/tourpoule](https://www.geensnor.nl
 
 Geensnor zou Geensnor niet zijn als we het concept "tourpoule" niet net een niveau hoger zouden tillen. Nooit tevreden met de status quo en altijd verrassend, dat zit in ons DNA. Dus toen we besloten om de wereld van de tourpouls te betreden, zouden we geen genoegen gaan nemen met minder dan een absolute "world leading" oplossing. Achteraf blijkt dat we dit meer dan overtroffen hebben.
 
-De belangrijkste innovatie van onze tourpoule is de wijze waarop we publieksparticipatie vorm hebben gegeven. Het is geen tourpoule van Geensnor alleen, maar het is iets van ons samen. De communitiy is erg belangrijk voor ons en dat hebben we tot uiting laten komen in de manier waarop de lijsten met renners, instellingen en etappeuitslagen worden beheerd. Iedereen kan dit namelijk doen!
+De belangrijkste innovatie van onze tourpoule is de wijze waarop we publieksparticipatie vorm hebben gegeven. Het is geen tourpoule van Geensnor alleen, maar het is iets van ons samen. De communitiy is erg belangrijk voor ons en dat hebben we tot uiting laten komen in de manier waarop de lijsten met renners, instellingen en etappeuitslagen worden beheerd. Iedereen kan dit namelijk doen! Providing, sharing en connecting zijn belangrijke waarden voor ons.
 
-Providing, sharing en connecting zijn voor ons immers belangrijke waarden.
+> Providing, sharing en connecting zijn belangrijke waarden voor ons.
 
 Ja u hoort het goed! Iedereen kan 24 uur per dag en overal ter wereld bijdragen aan het spelplezier van ons allemaal. Via een publieke [repository op GitHub](https://github.com/geensnor/Geensnor-Tourpoule-Data) kan het hele spel worden aangestuurd. Hierdoor kan de poule ook gebruikt worden voor elk wielrenwedstrijd. En iedereen kan zo'n wielrenwedstrijd zelf inrichten. Als je bijvoorbeeld helemaal gek bent van de Sazka Tour in Tjechië, kun je daarvoor een [Pull Request](https://www.howtogeek.com/devops/what-are-git-pull-requests-and-how-do-you-use-them/) aanbieden en voila, we hebben een tourpoule voor de Sazka Tour.
+
+En om het allemaal nog iets laagdrempeliger te maken, hebben we ook nog een [Tourtool](http://geensnor.nl/tourtool/) ontwikkeld om allerlei data van websites te scrapen.
 
 We zijn de enige in de poule die dit op deze manier aanpakt. Dit vestigt ons stevig als "Leader" in het Gartner Magic Quadrant van de tourpoule markt.
 
