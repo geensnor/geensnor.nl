@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: geensnor.nl - Misschien wel een uber hippe "Digital Garden"
+title: geensnor.nl - Dat zit wel snor!
 email: geensnorleestgeenemail@geensnor.nl
 description: Multi channel creative. Interactive disruptor. Platform optimizer. Connector.
 baseurl: "" # the subpath of your site, e.g. /blog
