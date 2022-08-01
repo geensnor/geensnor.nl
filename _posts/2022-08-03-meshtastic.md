@@ -1,5 +1,5 @@
 ---
-title: Meshtastic
+title: Communiceer slick met Meshtastic
 author: Joris
 categories:
   - Internet
@@ -22,7 +22,7 @@ Ja, best mooi bedacht. De apparaatjes kosten ook maar een paar tientjes en je ka
 
 Eigenlijk kun je er nu nog niet zo heel veel mee doen, behalve een beetje klooien. Ik kom zelf ook eigenlijk nooit in de situatie dat ik met m'n telefoon geen verbinding heb. Daarnaast moeten er aardig wat apparaten in de buurt zijn om echt een meshnetwerk te vormen. Er zijn er nu nog maar een stuk of twintig [in Nederland](https://canvis.app/meshtastic-map). Dit is meer voor de mensen die met een groep de jungle in gaan, off piste gaan skiën of de oceaan willen oversteken. Of natuurlijk als de hele maatschappij in elkaar stort, en je via Meshtastic op de hoogte kan blijven van de nieuwtjes rondom vorming van het kabinet Van der Plas 1. Het hele project bevindt zich ook nog in een soort Alpha fase. De iOS app is bijvoorbeeld nog niet eens echt beschikbaar (je hebt nog Testflight nodig).
 
-Hopelijk wordt het nog ooit iets, want ik vind dit soort dingen super vet.
+Hopelijk wordt het nog ooit iets, want ik vind dit soort dingen super vet. Misschien maar eens zo'n ding kopen met het gevaar dat het een presse papier van 50 euro wordt....
 
 ## Links
 
