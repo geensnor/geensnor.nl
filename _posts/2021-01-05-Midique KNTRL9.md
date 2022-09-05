@@ -8,8 +8,8 @@ categories:
 ---
 Onze goede vriend Koen uit het prachtige en uberhippe Berlijn heeft na heel hard werken zijn MIDI controller klaar. Alles zelf ontworpen, hout uit Berlijn, gemaakt met liefde. En aangezien wij bij Geensnor nooit bang zijn voor een stukje promotie, attenderen wij onze lezers graag op zijn prachtige project, [de KNTRL9](http://midique.com/).
 
-![plaatje](https://midique.com/wp-content/uploads/2020/07/20200716_01-1024x768.jpeg)
-![Plaatje2](https://midique.com/wp-content/uploads/2020/10/Translucent-bg-small.jpg)
+![plaatje](https://cdn.shopify.com/s/files/1/0607/4679/3194/products/KNTRL9MK2oak_480x480.jpg?v=1643316781)
+![Plaatje2](https://cdn.shopify.com/s/files/1/0607/4679/3194/products/Backside_480x.jpg?v=1644591208)
 
 ## MIDI controller?
 
