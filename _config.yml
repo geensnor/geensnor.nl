@@ -33,8 +33,9 @@ defaults:
     values:
       layout: "post"
       permalink: /:title
-# Build settings
 
+sass:
+  style: compressed
 #plugins:
 #  - jekyll-feed
 
