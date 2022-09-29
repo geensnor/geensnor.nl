@@ -28,10 +28,10 @@ Niet zo nieuw Astro, maar wel veel bekender is Tailwind CSS. Met Tailwind CSS ho
 
 Niet mega overzichtelijk, maar dat is nooit het sterke punt van CSS geweest. Al met al werkt het best aardig.
 
-## Prestaties
+## Tot slot: Prestaties
 
 Maar dan de presetaties. Nou, ga daar maar eens goed voor zitten. Volgens Google kan de site niet veel sneller dan dit! 100 van de 100 punten hebben we [gekregen](https://pagespeed.web.dev/report?url=https%3A%2F%2Fomloopdesnor.nl%2F&form_factor=mobile).
 
 ![bloedsnel](../assets/posts/ods-site-100.png)
 
-En nu hoor ik je denken: "Ja, maar Joris. Dit is een mini site met een paar foto's erop. Waar heb je het in godsnaam over?". En daar heb je volkomen gelijk in. Deze site krijg je ook fancy technieken wel snel. Maar wat is daar de lol van?
+En nu hoor ik je denken: "Ja, maar Joris. Dit is een mini site met een paar foto's erop. Waar heb je het in godsnaam over?". En daar heb je volkomen gelijk in. Deze site krijg je ook fancy technieken wel snel. Maar wat is daar de lol van? Ik ben een enorme Javascript/Typescript noob, maar het is altijd leuk om een beetje te pielen. Vandaar.
