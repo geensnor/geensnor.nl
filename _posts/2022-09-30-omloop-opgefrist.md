@@ -12,7 +12,7 @@ Soms beruipt je het gevoel dat je site niet meer helemaal haantje de voorste is.
 
 ![Atro logo](https://astro.build/assets/press/full-logo-light.svg)
 
-Als eerste Astro. Tjonge wat een beest. Astro is een [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) die met behulp van Javascript je site in elkaar zet. Astro genereert bloedsnelle sites doordat ze zo min mogelijk Javascript in je website proppen. Astro doet dat bijvoorbeeld veel beter dan de grote broer Next.js die je leuke websiteje als een kerstboom vol met Javascript hangt, waardoor hij niet meer vooruit te branden is.
+Als eerste Astro. Tjonge wat een beest. Astro is een [static site generator](https://en.wikipedia.org/wiki/Static_site_generator) die met behulp van Javascript je site in elkaar zet. Astro genereert bloedsnelle sites doordat ze zo min mogelijk Javascript in je website proppen. Astro doet dat bijvoorbeeld veel beter dan de grote broer NextJS die je leuke websiteje als een kerstboom vol met Javascript hangt, waardoor hij niet meer vooruit te branden is. Daarom staan er op YouTube ook [video's](https://www.youtube.com/watch?v=PSzCtdM20Fc) met de strekking "Astro crushes NextJS performance".
 
 ### Island architectuur
 
