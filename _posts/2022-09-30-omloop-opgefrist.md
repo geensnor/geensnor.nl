@@ -34,4 +34,4 @@ Maar dan de presetaties. Nou, ga daar maar eens goed voor zitten. Volgens Google
 
 ![bloedsnel](../assets/posts/ods-site-100.png)
 
-En nu hoor ik je denken: "Ja, maar Joris. Dit is een mini site met een paar foto's erop. Waar heb je het in godsnaam over?". En daar heb je volkomen gelijk in. Deze site krijg je ook fancy technieken wel snel. Maar wat is daar de lol van? Ik ben een enorme Javascript/Typescript noob, maar het is altijd leuk om een beetje te pielen. Vandaar.
+En nu hoor ik je denken: "Ja, maar Joris. Dit is een mini site met een paar foto's erop. Waar heb je het in godsnaam over?". En daar heb je volkomen gelijk in. Deze site krijg je ook zonder fancy technieken wel snel. Maar wat is daar de lol van? Ik ben een enorme Javascript/Typescript noob, maar het is altijd leuk om een beetje te pielen. Vandaar.
