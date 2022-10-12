@@ -38,8 +38,6 @@ defaults:
 sass:
   style: compressed
 
- include: [".well-known"]
- 
 #plugins:
 #  - jekyll-feed
 
@@ -62,3 +60,5 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: [".well-known"]
