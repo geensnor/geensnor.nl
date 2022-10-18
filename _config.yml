@@ -27,6 +27,7 @@ url: "https://geensnor.netlify.app" # the base hostname & protocol for your site
 paginate: 10
 paginate_path: blog/page:num/
 
+
 defaults:
   - scope:
       path: "_posts"
@@ -36,6 +37,7 @@ defaults:
 
 sass:
   style: compressed
+
 #plugins:
 #  - jekyll-feed
 
@@ -58,3 +60,5 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include: [".well-known"]

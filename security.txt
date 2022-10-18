@@ -1,0 +1,6 @@
+layout: none
+permalink: .well-known/security.txt
+
+Contact: mailto:security@dedigitaletuin.nl
+Expires: 2025-11-01T09:00:00.000Z
+Preferred-Languages: nl
