@@ -22,7 +22,7 @@ Stel je TV staat het grootste gedeelte van de dag standby. Dit verbruikt, samen 
 
 ![smartplug conclusie](../assets/posts/stroom-besparen-smart-plug.jpg)
 
-Dus met andere woorden: na een jaar heb je hem terugverdiend. Aanschaffen dus! En omdat je de lulligste niet bent, klik je voor je aanschaf op [deze affiliate link van bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fp%2Fphilips-hue-smart-plug-slimme-stekker-nederland%2F9200000117474487%2F&name=Philips%20Hue%20Smart%20plug%20Slimme%20Stekker%20-%20Nederland) waardoor je de makers van de tool ook nog een fijne kerst bezorgd.
+Dus met andere woorden: na een jaar heb je hem terugverdiend. Aanschaffen dus! En omdat je de lulligste niet bent, klik je voor je aanschaf op [deze affiliate link van bol.com](https://partner.bol.com/click/click?p=2&t=url&s=1122314&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fp%2Fphilips-hue-smart-plug-slimme-stekker-nederland%2F9200000117474487%2F&name=Philips%20Hue%20Smart%20plug%20Slimme%20Stekker%20-%20Nederland) waardoor je de makers van de tool ook nog een fijne kerst bezorgt.
 
 ## Jaja, de makers
 
