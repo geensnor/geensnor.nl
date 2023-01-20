@@ -8,7 +8,7 @@ categories:
 
 ![Generieke, rechtenvrije flutafbeelding](../assets/posts/power.jpg)
 
-Stroom is duur en het klimaat gaat naar de tering. Redenen genoeg om wat aan je stroomverbruik te doen. Maar hoe kom je erachter wat effectief is? En wanneer heb je die ledlampen eigenlijk terugverdiend? De trouwe lezer van Geensnor weet nu waarschijnlijk al waar dit heen gaat: we hebben weer iets nieuws gemaakt. Klopt helemaal trouwen lezer! Dit keer is het een [tool](https://stroomkosten-besparing-berekenen.vercel.app/) om stroomkosten besparingen door te rekenen.
+Stroom is duur en het klimaat gaat naar de tering. Redenen genoeg om wat aan je stroomverbruik te doen. Maar hoe kom je erachter wat effectief is? En wanneer heb je die ledlampen eigenlijk terugverdiend? De trouwe lezer van Geensnor weet nu waarschijnlijk al waar dit heen gaat: we hebben weer iets nieuws gemaakt. Klopt helemaal trouwe lezer! Dit keer is het een [tool](https://stroomkosten-besparing-berekenen.vercel.app/) om stroomkosten besparingen door te rekenen.
 
 > Geldbesparen was nog nooit zo leuk en makkelijk!
 
