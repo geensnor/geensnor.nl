@@ -10,11 +10,11 @@ categories:
 
 Stroom is duur en het klimaat gaat naar de tering. Redenen genoeg om wat aan je stroomverbruik te doen. Maar hoe kom je erachter wat effectief is? En wanneer heb je die ledlampen eigenlijk terugverdiend? De trouwe lezer van Geensnor weet nu waarschijnlijk al waar dit heen gaat: we hebben weer iets nieuws gemaakt. Klopt helemaal trouwe lezer! Dit keer is het een [tool](https://stroomkosten-besparing-berekenen.vercel.app/) om stroomkosten besparingen door te rekenen.
 
-> Geldbesparen was nog nooit zo leuk en makkelijk!
+> Geld besparen was nog nooit zo leuk en makkelijk!
 
 ## Oke, wat is dit nu weer?
 
-Door stroomkosten, kosten van je investering en wat verbruiksgegevens in te vullen vertelt de tool je hoeveel geld je bespaart en wanneer je je investering hebt terugverdiend. En hoewel [een duurzamere wereld niet bij jezelf begint](https://www.vn.nl/pleidooi-tegen-consumentenactivisme/), is het toch aardig om te weten dat je besparking wel _iets_ doet met je CO₂ uitstoot. Door de cijfers aan te passen, kun je kijken of je besparing effectief is.
+Door stroomkosten, de kosten van je investering en wat verbruiksgegevens in te vullen, vertelt de tool je hoeveel geld je bespaart en wanneer je je investering hebt terugverdiend. En hoewel [een duurzamere wereld niet bij jezelf begint](https://www.vn.nl/pleidooi-tegen-consumentenactivisme/), is het toch aardig om te weten dat je besparking wel _iets_ doet met je CO₂ uitstoot. Door de cijfers aan te passen, kun je kijken of je besparing effectief is.
 
 ## Voorbeeld bitte
 
