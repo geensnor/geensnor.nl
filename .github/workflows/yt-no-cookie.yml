@@ -1,14 +1,19 @@
 name: YouTube no cookie find and replace
 on: [push, pull_request]
 jobs:
-  build:
+  yt-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Find and Replace
+      - uses: actions/checkout@v3
+      - name: Find and Replace www.youtube.com
         uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "www.youtube.com"
           replace: "www.youtube-nocookie.com"
           include: "_posts/**"
           regex: true
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
