@@ -10,7 +10,7 @@ Geensnor.nl heeft geen cookiemelding. Die hebben we niet omdat we ook geen cooki
 
 ![Plaatje van Midjourney om de boel wat op de leuken. Voegt weinig toe, ik weet het....](../assets/posts/privacy-action.jpg)
 
-De Action kijkt of er er ergens in een post het domein `https://www.youtube.com` voorkomt. Als hij er een vindt, vervangt hij die door `https://www.youtube-nocookie.com`. Dit domein plaatst namelijk geen cookies waardoor we weer GDPR compliant zijn! Kan me voorstellen dat iedereen met een fatsoenlijke blog zoiets wil, en daarom staat deze Action onder aan dit bericht. De redacteuren kunnen natuurlijk ook gewoon goed opletten, maar toen de Action de eerste keer [draaide](https://github.com/geensnor/geensnor.nl/commit/decd649ac461da2a26405d9c289b7a49c7731024) heeft hij er toch maar weer mooi 15 posts recht gezet! Met een redactie als die van Geensnor kun je natuurlijk ook bijna niet voorkomen dat er af en toe iets doorheen schiet... Gelukkig hebben
+De Action kijkt of er er ergens in een post het domein `https://www.youtube-nocookie.com` voorkomt. Als hij er een vindt, vervangt hij die door `https://www.youtube-nocookie.com`. Dit domein plaatst namelijk geen cookies waardoor we weer GDPR compliant zijn! Kan me voorstellen dat iedereen met een fatsoenlijke blog zoiets wil, en daarom staat deze Action onder aan dit bericht. De redacteuren kunnen natuurlijk ook gewoon goed opletten, maar toen de Action de eerste keer [draaide](https://github.com/geensnor/geensnor.nl/commit/decd649ac461da2a26405d9c289b7a49c7731024) heeft hij er toch maar weer mooi 15 posts recht gezet! Met een redactie als die van Geensnor kun je natuurlijk ook bijna niet voorkomen dat er af en toe iets doorheen schiet... Gelukkig hebben
 
 ## De action
 
@@ -27,7 +27,7 @@ jobs:
       - name: Find and Replace www.youtube.com
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "https://www.youtube.com"
+          find: "https://www.youtube-nocookie.com"
           replace: "https://www.youtube-nocookie.com"
           include: "_posts/**"
           regex: true
