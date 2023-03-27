@@ -55,7 +55,7 @@ Van belang is dat de hoogte van je zadel ervoor zorgt dat je de benen goed kan s
 Meer informatie en andere methoden:
 
 - [De hiel methode](https://wielervoordeel.nl/blog/hoe-bepaal-juiste-zadelhoogte/)
-- [de 109% methode (video)](https://www.youtube.com/watch?v=sUNgZ_aRRL8)
+- [de 109% methode (video)](https://www.youtube-nocookie.com/watch?v=sUNgZ_aRRL8)
 - [De holmes methode (maar dat is gedoe)](https://www.mantel.com/blog/zadelhoogte-racefiets#holmes)
 
 ### Zadelafstand
@@ -113,7 +113,7 @@ Een handige truc is door een **rechte lijn vanaf je armen tot aan je middelvinge
 
 Ook die kan je instellen. Haal je zooltjes eens uit je schoenen en kijk daar eens goed naar. Zie je bijv. teenafdrukken, dan druk te veel met je tenen en kan een steunzooltje goed helpen. Je wilt met de bal van je voet duwen.
 
-Op je plaatjes zitten mega kleine markeringen (aan de zijkant). Dat is waar de trapas zit. Die wil je recht onder de voet van je bal hebben. [Deze video](https://www.youtube.com/watch?v=LPHT_P9aDjo) vond ik erg duidelijk en informatief.
+Op je plaatjes zitten mega kleine markeringen (aan de zijkant). Dat is waar de trapas zit. Die wil je recht onder de voet van je bal hebben. [Deze video](https://www.youtube-nocookie.com/watch?v=LPHT_P9aDjo) vond ik erg duidelijk en informatief.
 
 Daarna zou ik zeggen, neem inbussleutel mee, en ga lekker fietsen. Je voelt vrij goed of je druk met de bal van je voet. Verkeerd afgestelde schoentjes voel je trouwens ook wel echt de in knieen.
 

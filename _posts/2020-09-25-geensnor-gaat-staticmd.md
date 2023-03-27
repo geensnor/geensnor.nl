@@ -15,4 +15,4 @@ Een static site houdt in dat de hele site uit platte HTML pagina's bestaat. Beet
 ## Hoe werkt het
 Het builden gebeurt met [Jekyll](https://jekyllrb.com/). Jekyll voegt de content en templates samen tot een platte HTML website. De templates zijn speciaal voor geensnor.nl gemaakt door de ontwikkelafdeling. Jekyll kun je lokaal draaien om te kijken of de wijzigingen er een beetje goed uitzien. Als alles bon is, wordt de hele handel naar een [GitHub repository](https://github.com/geensnor/geensnor.nl) gepushed. GitHub geeft vervolgens een seintje aan [Netlify](https://geensnor.netlify.app/). Netlify vist de code van GitHub af, build de site en toont hem op [geensnor.netlify](https://geensnor.netlify.app/). Er is verder geen CMS om op in te loggen of iets dergelijks.
 
-Ene Mike Dane heeft een aardige [playlist op YouTube](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) over Jekyll. Interessant als je er meer van wil weten.
+Ene Mike Dane heeft een aardige [playlist op YouTube](https://www.youtube-nocookie.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) over Jekyll. Interessant als je er meer van wil weten.

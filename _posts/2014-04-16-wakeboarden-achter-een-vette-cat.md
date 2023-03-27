@@ -9,4 +9,4 @@ permalink: /wakeboarden-achter-een-vette-cat/
 categories:
   - Internet
 ---
-[SOMA wakeboarding vid &#8211; YouTube](https://www.youtube.com/watch?v=DlZ6v6nXR9o).
+[SOMA wakeboarding vid &#8211; YouTube](https://www.youtube-nocookie.com/watch?v=DlZ6v6nXR9o).

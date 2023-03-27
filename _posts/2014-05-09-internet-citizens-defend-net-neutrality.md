@@ -11,4 +11,4 @@ categories:
 ---
 Net Neutrality&#8230;wat is dat eigenlijk.
 
-[Internet Citizens: Defend Net Neutrality &#8211; YouTube](https://www.youtube.com/watch?v=wtt2aSV8wdw).
+[Internet Citizens: Defend Net Neutrality &#8211; YouTube](https://www.youtube-nocookie.com/watch?v=wtt2aSV8wdw).

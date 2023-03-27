@@ -6,7 +6,7 @@ categories:
   - Tips
 ---
 
-Kunst is leuk, maar het wordt pas echt vet wat meer van de achtergrond van een werk weet. Dat vond James Payne ook en daarom is hij het YouTube kanaal [Great Art Explained](https://www.youtube.com/channel/UCePDFpCr78_qmVtpoB1Axaw) begonnen tijdens de lockdown. Op het kanaal legt hij de context van een beroemd kunstwerk (meestal een schilderij) uit. Heel interessant!
+Kunst is leuk, maar het wordt pas echt vet wat meer van de achtergrond van een werk weet. Dat vond James Payne ook en daarom is hij het YouTube kanaal [Great Art Explained](https://www.youtube-nocookie.com/channel/UCePDFpCr78_qmVtpoB1Axaw) begonnen tijdens de lockdown. Op het kanaal legt hij de context van een beroemd kunstwerk (meestal een schilderij) uit. Heel interessant!
 
 Hieronder de aflevering over het Arnolfini portret door Jan Van Eyck. 
 
