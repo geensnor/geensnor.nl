@@ -7,15 +7,17 @@
 {% endif %}
 
 
-<span class="p-author h-card" itemprop="author" itemscope itemtype="https://schema.org/Person">Door {{
-    meta.author }}</span> op
-<time class="dt-published" datetime="{{ post.date | date: " %Y-%m-%d %H:%M"}}" itemprop="datePublished"> {{
+<span class="p-author h-card" itemprop="author" itemscope itemtype="https://schema.org/Person">Door <span data-pagefind-meta="auteur">{{
+    meta.author }}</span></span> op
+<time data-pagefind-meta="date" data-pagefind-sort="date" class="dt-published" datetime="{{ post.date | date: " %Y-%m-%d %H:%M"}}" itemprop="datePublished"> {{
     meta.date | date: "%d-%m-%Y"}}</time> in
+<span data-pagefind-meta="categorie">
 {% for category in meta.categories %}
 <a class="category" href="/pages/alle_berichten.html#{{ category }}">
     {{ category }}
 </a>
 {% endfor %}
+</span>
 
 
 <!--end post metadata-->

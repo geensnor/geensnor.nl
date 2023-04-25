@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "postbuild": "pagefind --source _site"
+  },
+  "devDependencies": {
+    "pagefind": "^0.12.0"
+  }
+}
