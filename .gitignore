@@ -3,6 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+node_modules
 .bundle/config
 _posts/.DS_Store
 .DS_Store
