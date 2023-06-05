@@ -6,7 +6,7 @@ categories:
   - Politiek
 ---
 
-![Twitter discussie over mondkapjes](assets/posts/twitter-discussion.jpg)
+![Twitter discussie over mondkapjes](../assets/posts/twitter-discussion.jpg)
 
 Soms sta je versteld van de enorme onzin die mensen geloven. Waarom denken mensen dat Covid vaccins niet werkten terwijl er bergen bewijs is dat ze wel werken? Waarom zijn er nog steeds mensen die denken dat Trump de verkiezingen heeft gewonnen? Waarom geloven mensen in de meest bizarre complottheorieën? Kijk gewoon naar de feiten stelletje sukkels!
 
