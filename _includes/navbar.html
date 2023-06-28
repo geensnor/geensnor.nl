@@ -1,58 +1,106 @@
 <nav class="navbar navbar-dark navbar-expand-md">
-    <div class="container">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item active">
-                    <a class="nav-link" href="/index.html">Home</a>
-                </li>
-                {% for page in site.pages %}{% if page.url contains 'pages' %}
-                <li class="nav-item active">
-                    <a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
-                </li>
-                {% endif %}{% endfor %}
-            </ul>
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        meer geensnor
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <a class="dropdown-item umami--click--digitale-tuin"
-                            href="https://digitaletuin.netlify.app/">Digitale Tuin Geensnor</a>
-                        <a class="dropdown-item umami--click--omloop-de-snor" href="https://www.omloopdesnor.nl">Omloop
-                            De Snor</a>
-                        <a class="dropdown-item umami--click--wat-eten-we-vandaag"
-                            href="https://geensnor.nl/watetenwevandaag/">Wat eten we vandaag?</a>
-                        <a class="dropdown-item umami--click--stroomkosten-besparing-berekenen"
-                            href="https://stroomkosten-besparing-berekenen.vercel.app/">Stroomkosten besparing
-                            berekenen</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item umami--click--revue"
-                            href="https://www.getrevue.co/profile/geensnor">Geensnor op Revue</a>
-                        <a class="dropdown-item umami--click--strava"
-                            href="https://www.strava.com/clubs/geensnor">Geensnor op Strava</a>
-                        <a class="dropdown-item umami--click--umami" rel="me"
-                            href="https://mastodon.xyz/@geensnor">Geensnor op
-                            Mastodon</a>
-                        <a class="dropdown-item umami--click--github" href="https://github.com/geensnor">Geensnor op
-                            GitHub</a>
-                        <a class="dropdown-item umami--click--telegram" href="https://t.me/geensnor">Geensnor op
-                            Telegram</a>
-                        <a class="dropdown-item umami--click--spotify"
-                            href="https://open.spotify.com/playlist/2hNmcKMRceaxyCfF9jhBYy?si=YdmdWT1dRPmHauugxTxkYQ">Geensnor
-                            op Spotify</a>
-                        <a class="dropdown-item umami--click--matrix"
-                            href="https://matrix.to/#/#geensnor:matrix.org">Geensnor
-                            op Matrix</a>
-
-                    </div>
-                </li>
-            </ul>
-        </div>
+  <div class="container">
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarNav"
+      aria-controls="navbarNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="/index.html">Home</a>
+        </li>
+        {% for page in site.pages %}{% if page.url contains 'pages' %}
+        <li class="nav-item active">
+          <a class="nav-link" href="{{ page.url }}">{{ page.title }}</a>
+        </li>
+        {% endif %}{% endfor %}
+        <li class="nav-item active">
+          <a class="nav-link" href="https://www.geensnor.nl/tourpoule"
+            >Geensnor Tourpoule</a
+          >
+        </li>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            id="navbarDropdown"
+            role="button"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+          >
+            meer geensnor
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a
+              class="dropdown-item umami--click--digitale-tuin"
+              href="https://digitaletuin.netlify.app/"
+              >Digitale Tuin Geensnor</a
+            >
+            <a
+              class="dropdown-item umami--click--omloop-de-snor"
+              href="https://www.omloopdesnor.nl"
+              >Omloop De Snor</a
+            >
+            <a
+              class="dropdown-item umami--click--wat-eten-we-vandaag"
+              href="https://geensnor.nl/watetenwevandaag/"
+              >Wat eten we vandaag?</a
+            >
+            <a
+              class="dropdown-item umami--click--stroomkosten-besparing-berekenen"
+              href="https://stroomkosten-besparing-berekenen.vercel.app/"
+              >Stroomkosten besparing berekenen</a
+            >
+            <div class="dropdown-divider"></div>
+            <a
+              class="dropdown-item umami--click--revue"
+              href="https://www.getrevue.co/profile/geensnor"
+              >Geensnor op Revue</a
+            >
+            <a
+              class="dropdown-item umami--click--strava"
+              href="https://www.strava.com/clubs/geensnor"
+              >Geensnor op Strava</a
+            >
+            <a
+              class="dropdown-item umami--click--umami"
+              rel="me"
+              href="https://mastodon.xyz/@geensnor"
+              >Geensnor op Mastodon</a
+            >
+            <a
+              class="dropdown-item umami--click--github"
+              href="https://github.com/geensnor"
+              >Geensnor op GitHub</a
+            >
+            <a
+              class="dropdown-item umami--click--telegram"
+              href="https://t.me/geensnor"
+              >Geensnor op Telegram</a
+            >
+            <a
+              class="dropdown-item umami--click--spotify"
+              href="https://open.spotify.com/playlist/2hNmcKMRceaxyCfF9jhBYy?si=YdmdWT1dRPmHauugxTxkYQ"
+              >Geensnor op Spotify</a
+            >
+            <a
+              class="dropdown-item umami--click--matrix"
+              href="https://matrix.to/#/#geensnor:matrix.org"
+              >Geensnor op Matrix</a
+            >
+          </div>
+        </li>
+      </ul>
     </div>
+  </div>
 </nav>
