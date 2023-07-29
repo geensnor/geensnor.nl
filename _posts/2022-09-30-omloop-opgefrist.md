@@ -30,7 +30,7 @@ Niet mega overzichtelijk, maar dat is nooit het sterke punt van CSS geweest. Al 
 
 ## Tot slot: Prestaties
 
-Maar dan de presetaties. Nou, ga daar maar eens goed voor zitten. Volgens Google kan de site niet veel sneller dan dit! 100 van de 100 punten hebben we [gekregen](https://pagespeed.web.dev/report?url=https%3A%2F%2Fomloopdesnor.nl%2F&form_factor=mobile).
+Maar dan de prestaties. Nou, ga daar maar eens goed voor zitten. Volgens Google kan de site niet veel sneller dan dit! 100 van de 100 punten hebben we [gekregen](https://pagespeed.web.dev/report?url=https%3A%2F%2Fomloopdesnor.nl%2F&form_factor=mobile).
 
 ![bloedsnel](../assets/posts/ods-site-100.png)
 
