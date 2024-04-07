@@ -1,6 +1,6 @@
 ---
 title: Geensnor Haiku lied ❤️
-autor: Joris
+author: Joris
 categories:
   - Internet
 ---
