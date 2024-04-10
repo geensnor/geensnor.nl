@@ -3,6 +3,7 @@ title: Er is geen cookie banner wet!
 author: Joris
 categories:
   - Internet
+  - Privacy
 ---
 Interssant artikel over de manier waarop je naar cookie banners kan (moet!) kijken: elke cookie banner is er voor om informatie van jou los te peuteren. Hij is er niet om jou te beschermen.
 
