@@ -3,6 +3,7 @@ title: Dingen die je kan doen om je mac meer secure te krijgen
 author: Erik
 categories:
   - Internet
+  - Security
 ---
 Dus je staat met je goede bedoelingen en je nieuwe mac in het koffietentje en vraagt om het wifi wachtwoord. Met je flat white in de hand log je in en ga je lekker op de socials. 
 
