@@ -6,7 +6,7 @@ categories:
   - Spullen
 ---
 
-Oscar Niemeyer is de architect van de "nieuwe" hoofdstad van Brasilië die helemaal vol moderne architectuur staat. Erg fotogeniek zoals je kan zien.
+Oscar Niemeyer is de architect van de "nieuwe" hoofdstad van Brazilië die helemaal vol moderne architectuur staat. Erg fotogeniek zoals je kan zien.
 
 ![Gebouw van Oscar Niemeyer](../assets/posts/oscar/oscar-niemeyer-1.jpg)
 
