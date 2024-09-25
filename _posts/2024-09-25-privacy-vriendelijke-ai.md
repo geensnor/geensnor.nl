@@ -10,4 +10,4 @@ Nu groeien de AI bots enorm snel, dus een beetje overzicht houden welke bots wel
 
 Gelukkig hebben de vrienden van mozzila eens netjes de verschillende AI bots naast elkaar gezet. Lang verhaal kort, claude komt er goed van, en dat is sowieso onze favoriet. 
 
-[how to protect your privacy from chatgpt and other AI chatbots ](https://foundation.mozilla.org/en/privacynotincluded/articles/how-to-protect-your-privacy-from-chatgpt-and-other-ai-chatbots/}
+[how to protect your privacy from chatgpt and other AI chatbots](https://foundation.mozilla.org/en/privacynotincluded/articles/how-to-protect-your-privacy-from-chatgpt-and-other-ai-chatbots/)
