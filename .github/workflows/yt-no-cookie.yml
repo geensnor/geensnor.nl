@@ -1,5 +1,8 @@
 name: YouTube no cookie find and replace
-on: [push, pull_request]
+on: 
+  push:
+    paths:
+      - '_posts/**'
 jobs:
   yt-check:
     runs-on: ubuntu-latest
