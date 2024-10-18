@@ -1,7 +1,7 @@
 ---
 title: Weg met de democratie
 author: Erik
-categories:
+categories: Politiek
 
 ---
 Een overpeinzing...
@@ -14,4 +14,3 @@ Gelukkig is het slaan van elkaar op de werkvloer niet gebruikelijk, maar naar mi
 Het zou veel logischer zijn om "de wetenschap" een gedegen analyse van de samenwerking binnen het team te laten maken en op basis van theorie en ervaring verbeteringen door te voeren. In ons scrumteam zou de scrum master, die hiervoor opgeleid is en de tijd heeft om van een afstand naar onze samenwerking te kijken, deze rol moeten vervullen. Dit zou waarschijnlijk leiden tot veel betere inzichten en mogelijke verbeteringen.
 
 Het zoeken naar draagvlak en consensus is natuurlijk altijd verstandig, maar het levert niet per definitie de beste resultaten op. Het kan voorbijgaan aan de expertise van sommige teamleden en probeert soms iets te bereiken (consensus) dat in de samenleving logisch lijkt, maar op de werkvloer veel minder relevant is. We zijn immers niet allemaal gelijk op het werk; er zijn verschillende rollen en verantwoordelijkheden. Dit vereist vertrouwen in elkaars expertise, maar ik denk dat het niet altijd nodig is om ieders mening te horen en te stemmen over elke beslissing. Maar misschien ligt het ook aan het bedrijf waar ik werkte.
-
