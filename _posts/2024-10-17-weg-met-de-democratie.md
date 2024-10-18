@@ -7,7 +7,8 @@ categories: Politiek
 Een overpeinzing...
 
 Democratie, wie heeft er niet van geprofiteerd? Het is een handig concept dat goed functioneert in situaties waarin samenwerking vereist is. Toch kunnen we stellen dat het niet altijd de beste oplossing biedt voor elk probleem. De wetenschap waarschuwt ons voor verschillende zaken, maar deze inzichten vinden zelden direct hun weg naar beleid. Zonder draagvlak is het moeilijk om veranderingen door te voeren. De wetenschap heeft al lang vastgesteld dat de veestapel moet krimpen, maar er wordt nog steeds gezocht naar oplossingen die voor iedereen acceptabel zijn. Dit leidt vaak tot suboptimale uitkomsten, maar voorkomt gelukkig wel dat we elkaar de hersens inslaan.
-Democratie op de werkvloer
+
+### Democratie op de werkvloer
 
 Gelukkig is het slaan van elkaar op de werkvloer niet gebruikelijk, maar naar mijn mening wordt er te vaak naar "democratie" gegrepen in mijn werk. Neem bijvoorbeeld de retrospective, een scrum-ritueel waarin een team reflecteert op de voortgang en mogelijke verbeteringen. Bij ons worden de verbeterpunten vaak op een bord geschreven, en mag iedereen drie stippen zetten bij de ideeën die ze het beste vinden, zodat er een winnaar naar voren komt. Maar is dat wel de meest logische aanpak? Is de verbetering met de meeste stemmen per definitie de beste? Ik betwijfel het, vooral omdat je in een uur geen grondige analyse van een sprint kunt maken. Bovendien is het onduidelijk wat de motivatie van teamleden is om op bepaalde ideeën te stemmen.
 
