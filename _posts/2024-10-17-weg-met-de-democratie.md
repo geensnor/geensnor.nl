@@ -4,6 +4,8 @@ author: Erik
 categories: Politiek
 
 ---
+Update 20 oktober: Onderstaande is herschreven met chatgpt maar eigenlijk bevalt mij dat helemaal niet. Alleen het orgineel is foetsie, dus we doen het er toch maar mee :)
+
 Een overpeinzing...
 
 Democratie, wie heeft er niet van geprofiteerd? Het is een handig concept dat goed functioneert in situaties waarin samenwerking vereist is. Toch kunnen we stellen dat het niet altijd de beste oplossing biedt voor elk probleem. De wetenschap waarschuwt ons voor verschillende zaken, maar deze inzichten vinden zelden direct hun weg naar beleid. Zonder draagvlak is het moeilijk om veranderingen door te voeren. De wetenschap heeft al lang vastgesteld dat de veestapel moet krimpen, maar er wordt nog steeds gezocht naar oplossingen die voor iedereen acceptabel zijn. Dit leidt vaak tot suboptimale uitkomsten, maar voorkomt gelukkig wel dat we elkaar de hersens inslaan.
