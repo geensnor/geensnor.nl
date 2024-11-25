@@ -1,0 +1,11 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "terminology": {
+      "severity": "warning",
+      "terms": "moeilijke-woorden",
+      "defaultTerms": false
+    }
+  }
+}
