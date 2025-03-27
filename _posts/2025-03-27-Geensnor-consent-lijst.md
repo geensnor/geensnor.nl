@@ -18,6 +18,6 @@ Consent-o-matic is alleen niet zaligmakend. Cookiebanners veranderen nog wel een
 
 Maar hier komt die typische can-do metaliteit van Geensnor weer eens van pas. Wij hebben een eigen lijst met regels gemaakt! Een lijst die we geheel open stellen voor bijdragen vanuit het dappere volk wat [geensnor.nl](https://www.geensnor.nl) leest. Voeg de onderstaande link toe aan je Consent-o-matic plugin en wij zorgen ervoor dat we blokkeren wat we kunnen! De lijst
 
-[https://raw.githubusercontent.com/geensnor/dedigitaletuin/refs/head/main/public/assets/consent/rules-list.json](https://raw.githubusercontent.com/geensnor/dedigitaletuin/refs/head/main/public/assets/consent/rules-list.json)
+[https://raw.githubusercontent.com/geensnor/DeDigitaleTuin/refs/heads/main/public/consent/rules-list.json](https://raw.githubusercontent.com/geensnor/DeDigitaleTuin/refs/heads/main/public/consent/rules-list.json)
 
 Als je deze link toevoegt, wordt DPG Media weer meteen geblokkeerd. Maar we hebben geen tijd om op onze lauweren te rusten, want de regel van [bol.nl](https://github.com/cavi-au/Consent-O-Matic/blob/master/rules/bol.json) werkt ook voor geen ene meter.
