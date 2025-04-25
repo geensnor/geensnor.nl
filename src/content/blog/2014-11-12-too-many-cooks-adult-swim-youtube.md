@@ -1,0 +1,16 @@
+---
+id: 630
+title: 'Too Many Cooks | Adult Swim &#8211; YouTube'
+date: 2014-11-12
+author: Erik
+layout: post
+guid: https://www.geensnor.nl/wp/?p=630
+permalink: /too-many-cooks-adult-swim-youtube/
+categories:
+  - Vertier
+---
+Ik weet het niet precies&#8230;maar hebben opeens 2 miljoen mensen naar gekeken :S
+
+&nbsp;
+
+[Too Many Cooks | Adult Swim &#8211; YouTube](https://www.youtube-nocookie.com/watch?v=QrGrOK8oZG8).
