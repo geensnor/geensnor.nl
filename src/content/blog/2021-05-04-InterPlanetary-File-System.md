@@ -1,6 +1,7 @@
 ---
 title: InterPlanetary File System - update
 author: Joris
+date: 2021-05-04
 permalink: /InterPlanetary-File-System/
 categories:
   - Internet

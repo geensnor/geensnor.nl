@@ -11,7 +11,7 @@ Soms lijkt het wel alsof een statische website meer problemen oplevert, dan het 
 
 Eenvoudig een link delen
 
-![hehe, ze springen over geheugenbanken heen](/assets/posts/john-cameron-kY2H30v6Bs4-unsplash.jpg)
+![hehe, ze springen over geheugenbanken heen](../../assets/posts/john-cameron-kY2H30v6Bs4-unsplash.jpg)
 
 ## Het probleem
 

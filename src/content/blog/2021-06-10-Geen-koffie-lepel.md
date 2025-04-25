@@ -1,6 +1,7 @@
 ---
 title: Oplossing voor gebrek aan koffielepel
 author: Erik
+date: 2021-06-10
 categories:
   - Tips
 ---
@@ -15,10 +16,10 @@ Na wat puzzelen kwam ik tot de volgende oplossing. Je vouwt de filter gewoon 2x 
 
 Waarom 2x vouwen? Onderaan komt de filter bij elkaar. Je kan daar precies handig langs vouwen. 
 
-![Plaatje](/assets/posts/IMG_7618.jpeg)
-![Plaatje](/assets/posts/IMG_7619.jpeg)
-![Plaatje](/assets/posts/IMG_7620.jpeg)
-![Plaatje](/assets/posts/IMG_7622.jpeg)
-![Plaatje](/assets/posts/IMG_7623.jpeg)
+![Plaatje](../../assets/posts/IMG_7618.jpeg)
+![Plaatje](../../assets/posts/IMG_7619.jpeg)
+![Plaatje](../../assets/posts/IMG_7620.jpeg)
+![Plaatje](../../assets/posts/IMG_7622.jpeg)
+![Plaatje](../../assets/posts/IMG_7623.jpeg)
 
 

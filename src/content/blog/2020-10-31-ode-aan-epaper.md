@@ -25,7 +25,7 @@ Max en z'n scherm: [The Morning Paper Revisited](https://onezero.medium.com/the-
 
 ## Schermpje bij je thuis
 
-![e-paper scherpje](/assets/posts/epaper-ding.jpg)
+![e-paper scherpje](../../assets/posts/epaper-ding.jpg)
 
 Max is natuurlijk wel helemaal los gegaan met z'n mega scherm, maar ook voor gewone stervelingen ligt iets vergelijkbaars binnen handbereik. Het bedrijf Waveshare maakt namelijk heel veel [verschillende](https://www.waveshare.com/product/displays/e-paper.htm) e-paper schermen. Zelf heb ik een tijd terug een [2,7 inch scherm](https://www.waveshare.com/product/displays/e-paper/2.7inch-e-paper-hat.htm) gekocht die je op een Raspberry Pi kan zetten. De ondersteuning van de schermen is best prima, en met wat Python (beetje Google-en, knippen en plakken) heb ik een scherm gemaakt die het weer en het stroomverbruik van m'n huis toont. Elke 5 minuten wordt de boel ververst en omdat het e-paper is, is het heel goed leesbaar. Elk ander scherm zou nogal snel een "licht bak" worden, maar e-paper is zoals gezegd erg subtiel.
 

@@ -29,7 +29,7 @@ Naast deze primaire afstellingen kun je ook nog je schoenplaatjes, schoenen, hoe
 
 ### Juiste zadel
 
-![Zoek een goed zadel](/assets/posts/zadel.jpg)
+![Zoek een goed zadel](../../assets/posts/zadel.jpg)
 
 Zonder goed zadel krijg je zadelpijn, een dooie zak en zit je ongelukkig op de fiets. Daarom eerst een goed zadel. Deze les had ik graag veel eerder gehad :) Zonder goed zadel kun je niet lekker je fiets afstellen.
 
@@ -78,7 +78,7 @@ Meet bij het afstellen wat je aan het doen bent, en schrijf dat ergens op. Ik me
 
 Je zit nu qua zadel goed op je fiets. Nu mogen we (eindelijk) eens kijken naar de houding richting stuur. Wil je diep zitten (sportief) of meer ontspannen iets hoger. Met de [spacers](https://www.futurumshop.nl/pro-spacers-2-2-5-5-10-20-mm.phtml) kun je de hoogte van je stuur aanpassen. Let wel op dat je weet wat je doet, want speling in je balhoofd heb je er zo in zitten. Misschien schrijf ik daar nog eens wat over, nu niet :)
 
-![stuurpen](/assets/posts/stuurpen.jpg)
+![stuurpen](../../assets/posts/stuurpen.jpg)
 
 Daarnaast kun je met de stuurpen ook de hoogte bepalen. Deze hebben vaak een bepaalde hoek omhoog (of omlaag). Een simpele truc is je stuurpen omdraaien om eens te proberen.
 
@@ -103,12 +103,12 @@ Mocht je toch last krijgen van je zaakje (vaak een reden om je zadel te gaan kan
 ### Stand van je shifters
 
 Tintelende vingers, pijnlijke polsen en een beurse muis van je hand. Uiteindelijk leun je in basis dan te veel op je stuur maar toch kan ook de stand van je shifters mee spelen. Ideaal lopen je zenuwen en bloedbanen zonder knikken in een rechte lijn tussen arm en hand. Vaak zie je standaard dat shifters gewoon recht naar voren worden gemonteerd maar dat daardoor uiteindelijk je handen iets naar buiten staan. Bikefitters (en ook professionals als je er op let) zetten de **shifters** vaak **een hele kleine slag naar binnen gedraait**.
-![Shifter plaatje](/assets/posts/shifters.jpg)
+![Shifter plaatje](../../assets/posts/shifters.jpg)
 
 Daarnaast kun je bij de meeste shifters de **afstand tussen remhandvat en stuur** aanpassen door aan een super klein inbusjes te draaien. Zorg ervoor dat je in de beugels alsnog goed bij de rem kan.
 
 Een handige truc is door een **rechte lijn vanaf je armen tot aan je middelvinger te tekenen** en vervolgens op de fiets te zitten. Door de lijn zie je direct of je pols een rare hoek maakt.
-![Shifter plaatje](/assets/posts/shifters2.jpg)
+![Shifter plaatje](../../assets/posts/shifters2.jpg)
 
 ### Schoenplaatjes en schoenen
 
