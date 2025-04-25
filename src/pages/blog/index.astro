@@ -5,13 +5,12 @@ import Footer from "../../components/Footer.astro";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../../consts";
 import { getCollection } from "astro:content";
 import FormattedDate from "../../components/FormattedDate.astro";
-import { contentMastodon } from "../../mastodon.ts";
+import BlogPost from "../../layouts/BlogPost.astro";
 
-// const posts = (await getCollection("blog")).sort(
-//   (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
-// );
+const posts = (await getCollection("blog")).sort(
+  (a: any, b: any) => b.data.date.valueOf() - a.data.date.valueOf()
+);
 
-const posts = await getCollection("blog");
 ---
 
 <!doctype html>
@@ -92,27 +91,22 @@ const posts = await getCollection("blog");
     <Header />
     <main>
       <section>
-        <ul>
+        <!-- <ul>
           {
             contentMastodon.items.map((toot: any) => (
               <li set:html={toot.content} />
             ))
           }
-        </ul>
-        <ul>
-          {
-            posts.map((post) => (
-              <li>
-                <a href={`/blog/${post.id}/`}>
-                  <h4 class="title">{post.data.title}</h4>
-                  <p class="date">
-                    <FormattedDate date={post.data.date} />
-                  </p>
-                </a>
-              </li>
-            ))
-          }
-        </ul>
+        </ul> -->
+   
+{
+  posts.map((post: any) => (
+    <BlogPost {post} />
+
+   
+  ))
+}
+        
       </section>
     </main>
     <Footer />
