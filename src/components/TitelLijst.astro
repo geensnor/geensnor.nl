@@ -1,0 +1,30 @@
+---
+import { getCollection } from "astro:content";
+
+export interface Props {
+  title?: string;
+  start?: number;
+    end?: number;
+}
+
+const { title, start, end } = Astro.props;
+
+const posts = (await getCollection("blog")).sort(
+  (a: any, b: any) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+const postsToShow = posts.slice(start, end);
+
+---
+{title && <h2>{title}</h2>}
+<div>
+
+  {
+    postsToShow.map((post: any) => (
+      <a href="lala">{post.data.title}</a><br />
+  
+     
+    ))
+  }
+
+</div>

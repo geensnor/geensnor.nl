@@ -3,10 +3,18 @@
 import { getCollection } from "astro:content";
 import BlogPost from "../layouts/BlogPost.astro";
 import Main from "../layouts/Main.astro";
+import TitelLijst  from "../components/TitelLijst.astro";
+const NumberDisplayPosts = 5;
+const StartDisplayTitles = 6;	
+const EndDisplayTitles = 20;
 
 const posts = (await getCollection("blog")).sort(
   (a: any, b: any) => b.data.date.valueOf() - a.data.date.valueOf()
 );
+
+// remove posts after 10 posts
+
+const postsToShow = posts.slice(0, NumberDisplayPosts);
 
 ---
 <Main>
@@ -21,7 +29,7 @@ const posts = (await getCollection("blog")).sort(
         </ul> -->
    
 {
-  posts.map((post: any) => (
+  postsToShow.map((post: any) => (
     <BlogPost {post} />
 
    
@@ -29,4 +37,5 @@ const posts = (await getCollection("blog")).sort(
 }
         
       </section>
+      <TitelLijst title="Oudere berichten" start={StartDisplayTitles} end={EndDisplayTitles} />
 </Main>
