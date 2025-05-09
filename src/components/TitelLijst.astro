@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import FormattedDate from "./FormattedDate.astro";
 
 export interface Props {
   title?: string;
@@ -16,15 +17,25 @@ const posts = (await getCollection("blog")).sort(
 const postsToShow = posts.slice(start, end);
 
 ---
+<style>
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  </style>
 {title && <h2>{title}</h2>}
 <div>
+  <ul>
 
   {
     postsToShow.map((post: any) => (
-      <a href="lala">{post.data.title}</a><br />
+
+      <li><a href={post.id}><FormattedDate date={post.data.date} />: {post.data.title}</a></li>
   
      
     ))
   }
+  </ul>
 
 </div>
