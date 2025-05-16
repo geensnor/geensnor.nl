@@ -49,7 +49,7 @@ main {
 	margin: auto;
 	padding: 3em 1em;
 }
-h1,
+
 h2,
 h3,
 h4,
@@ -59,9 +59,7 @@ h6 {
 	color: rgb(var(--black));
 	line-height: 1.2;
 }
-h1 {
-	font-size: 3.052em;
-}
+
 h2 {
 	font-size: 2.441em;
 }
@@ -100,29 +98,8 @@ input {
 table {
 	width: 100%;
 }
-img {
-	max-width: 100%;
-	height: auto;
-	border-radius: 8px;
-}
-code {
-	padding: 2px 5px;
-	background-color: rgb(var(--gray-light));
-	border-radius: 2px;
-}
-pre {
-	padding: 1.5em;
-	border-radius: 8px;
-}
-pre > code {
-	all: unset;
-}
-blockquote {
-	border-left: 4px solid var(--accent);
-	padding: 0 0 0 20px;
-	margin: 0px;
-	font-size: 1.333em;
-}
+
+
 hr {
 	border: none;
 	border-top: 1px solid rgb(var(--gray-light));

@@ -1,35 +1,16 @@
----
---- 
+
 $geensnor-oranje: #f15a24;
 
 img {
     max-width: 100%;
     margin-bottom: 30px;
-    margin-top: 30px;
+    margin-top: 30px;  
+    height: auto;
+
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
-    font-family: 'Zilla slab', serif;
-    font-weight: 500;
-    margin-top: 40px;
-}
 
-h1,
-h2 {
-    margin-bottom: 20px;
-}
 
-h1>a>span,
-h1>span {
-    background-color: black;
-    padding: .5rem;
-    color: #fff;
-    line-height: 1.4em;
-}
 
 h1>a:hover {
     text-decoration: none;
@@ -39,19 +20,7 @@ a {
     color: #4433FF;
 }
 
-.site-header {
-    height: 240px;
-    background-image: url("cropped-Vintage-823x400.jpg");
-    background-color: white;
-    background-repeat: repeat-y;
-    background-position: 50% 50%;
-    background-size: cover;
 
-}
-
-.navbar {
-    background-color: $geensnor-oranje
-}
 
 .nav-item {
     margin-left: 10px;
@@ -94,16 +63,12 @@ a.dropdown-item {
 }
 
 article {
+    margin-top: 60px;
     margin-bottom: 160px;
 }
 
 
-footer>div>.content-container {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    font-size: 0.8em;
-    color: #4b4b4b;
-}
+
 
 blockquote {
     padding: 0 1em;
@@ -198,15 +163,4 @@ a.category:visited {
     color: #fff;
     margin-left: 5px;
     margin-right: 5px;
-}
-
-
-/* primary button van Bootstrap een beetje versnorren */
-.btn-primary {
-    background-color: $geensnor-oranje;
-    border: 0;
-}
-
-.btn-primary:hover {
-    background-color: #ad451f;
 }

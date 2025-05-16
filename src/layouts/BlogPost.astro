@@ -2,6 +2,7 @@
 import type { CollectionEntry } from "astro:content";
 import { render } from 'astro:content';
 import FormattedDate from "../components/FormattedDate.astro";
+import { Kop } from "@geensnor/astro-componenten";
 
 type Props = CollectionEntry<"blog">["data"];
 
@@ -14,17 +15,13 @@ const { Content } = await render(post);
       <article>
         <div class="prose">
           <div class="title">
+           
+            <Kop Type={"h1"}>{post.data.title}</Kop>
+            <div class="post-meta">{post.data.author} op <FormattedDate date={post.data.date} />
+             </div>
             <div class="date">
-               <FormattedDate date={post.data.date} />
-              {
-                post.date && (
-                  <div class="last-updated-on">
-                    Last updated on <FormattedDate date={post.data.date} />
-                  </div>
-                )
-              }
-            </div>
-            <h1>{post.data.title}</h1>
+              
+           </div>
             
           </div>
           <Content/>
