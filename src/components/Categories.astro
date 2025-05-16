@@ -6,12 +6,12 @@ const { categories } = Astro.props;
 {Array.isArray(categories) ? 
     
       categories.map((category: string) => 
-        <a href="lala" class="category">{category}</a>
+        <a href={`/categorie#${category}`} class="category">{category}</a>
       )
     
    : 
  
-      <a href="lala"  class="category">{categories}</a>
+      <a href={`/categorie#${categories}`}  class="category">{categories}</a>
     
   }
 
