@@ -6,13 +6,13 @@ categories:
   - Spullen
 ---
 
-![Meshtastic ding](../assets/posts/mashtastic-ding.jpg)
+![Meshtastic ding](../assets/posts/meshtastic-ding.jpg)
 
-Zoals [eerder gezegd](/Scuttlebutt) houden wij wel van een beetje DIY en decentrale toestanden. [Mashtastic](https://meshtastic.org) past in dat straatje. Want zoals ze zelf zeggen:
+Zoals [eerder gezegd](/Scuttlebutt) houden wij wel van een beetje DIY en decentrale toestanden. [meshtastic](https://meshtastic.org) past in dat straatje. Want zoals ze zelf zeggen:
 
 > Meshtastic is an off-grid, encrypted communication platform that runs open source software on affordable radios. These radios rebroadcast messages they receive in order to create a mesh network.
 
-Eigenlijk is het open source firmware die je op een ESP32 bord kan zetten. Als je dan de juiste antennes en voeding eraan hangt, heb je een zender/ontvanger die een [LoRa](https://internetofthingsnederland.nl/kennisbank/netwerken/lora/) [mesh netwerk](https://en.wikipedia.org/wiki/Mesh_networking) vormt met andere Mashtastic apparaten. Vervolgens kun je met je telefoon verbinding maken met je Mashtastic apparaat en kun je berichten sturen naar anderen. LoRa is te langzaam voor spraak of andere spannende dingen, dus het blijft bij tekstberichten. Twee apparaten kunnen tot ongeveer 13 kilometer prima met elkaar communiceren. Het kan nog [verder](https://meshtastic.discourse.group/t/practical-range-test-results/692/3) als je met allemaal speciale antennes en toestanden aan de slag gaat. LoRa werkt niet zo super in een stad of bos met veel obstakels. Dan komt ze niet verder dan een paar kilometer.
+Eigenlijk is het open source firmware die je op een ESP32 bord kan zetten. Als je dan de juiste antennes en voeding eraan hangt, heb je een zender/ontvanger die een [LoRa](https://internetofthingsnederland.nl/kennisbank/netwerken/lora/) [mesh netwerk](https://en.wikipedia.org/wiki/Mesh_networking) vormt met andere meshtastic apparaten. Vervolgens kun je met je telefoon verbinding maken met je meshtastic apparaat en kun je berichten sturen naar anderen. LoRa is te langzaam voor spraak of andere spannende dingen, dus het blijft bij tekstberichten. Twee apparaten kunnen tot ongeveer 13 kilometer prima met elkaar communiceren. Het kan nog [verder](https://meshtastic.discourse.group/t/practical-range-test-results/692/3) als je met allemaal speciale antennes en toestanden aan de slag gaat. LoRa werkt niet zo super in een stad of bos met veel obstakels. Dan komt ze niet verder dan een paar kilometer.
 
 ## Vet
 
