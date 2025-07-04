@@ -11,6 +11,6 @@ We hebben met z'n alle zojuist weer een hittegolf overleefd, maar dit zal vast n
 Komtie: 
 > Het beste is om de ventilator 60 cm van een open raam, van binnen naar buiten te laten blazen.
 
-Dit moet je natuurlijk wel doen met zoveel mogelijk ramen op en als het buiten koeler is dan binnen. [Matthias](https://www.youtube.com/@matthiasrandomstuff2221) legt het in deze video allemaal haarfijn uit
+Dit moet je natuurlijk wel doen met zoveel mogelijk ramen op en als het buiten koeler is dan binnen. [Matthias](https://www.youtube-nocookie.com/@matthiasrandomstuff2221) legt het in deze video allemaal haarfijn uit
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1L2ef1CP-yw?si=u0AvIAH3rJsuLMab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
