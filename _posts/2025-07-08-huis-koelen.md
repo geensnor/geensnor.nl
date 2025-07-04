@@ -2,7 +2,7 @@
 title: Tip om je huis te koelen
 author: Joris
 categories:
-  - Internet
+  - Tips
   - Spullen
 ---
 
