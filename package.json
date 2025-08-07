@@ -13,7 +13,7 @@
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.3.1",
     "@geensnor/astro-componenten": "^2.1.2",
-    "astro": "^5.7.5",
+    "astro": "^5.12.8",
     "rss-parser": "^3.13.0",
     "sharp": "^0.34.1"
   },
