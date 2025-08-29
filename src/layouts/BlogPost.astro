@@ -1,9 +1,10 @@
 ---
-import type { CollectionEntry } from "astro:content";
+
 import { render } from 'astro:content';
 import FormattedDate from "../components/FormattedDate.astro";
 import Categories from "../components/Categories.astro";
 import { Kop } from "@geensnor/astro-componenten";
+import CategorieEnBerichten from '../components/CategorieEnBerichten.astro';
 
 const { post } = Astro.props;
 const { Content } = await render(post);
@@ -28,4 +29,27 @@ const { Content } = await render(post);
         </div>
       </article>
 
+      <p>Meer van dit soort berichten:</p>
+      <div class="categorieen">
+          {
+            
+        post.rendered.metadata.frontmatter.categories.map((categorie: unknown) => (
+          <div>
+            
+            <CategorieEnBerichten categorie={categorie as string} maxBerichten="10"/>
+            </div>
+        ))
+    }
+
+
       <hr />
+
+      <style>
+    .categorieen {
+    display: grid; /* or inline-flex */
+    grid-columns: 2;
+    grid-gap: 2rem;
+    grid-template-columns: 50% 50%;
+
+  }
+  </style>
