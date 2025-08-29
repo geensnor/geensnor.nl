@@ -17,6 +17,7 @@ const posts = (await getCollection("blog")).sort(
   }
 });
 
+console.log(categorie);
 ---
 <div>
 <Kop Type="h2" id={categorie}>{categorie}</Kop>
@@ -24,7 +25,7 @@ const posts = (await getCollection("blog")).sort(
 {
   posts.map((post: any) => (
     <li>
-   <a href="yolo" class="categorie-link">
+   <a href={post.id} class="categorie-link">
      {post.data.title}
   </a>
   </li>
