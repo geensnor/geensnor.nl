@@ -5,11 +5,9 @@ import FormattedDate from "../components/FormattedDate.astro";
 import Categories from "../components/Categories.astro";
 import { Kop } from "@geensnor/astro-componenten";
 
-type Props = CollectionEntry<"blog">["data"];
-
 const { post } = Astro.props;
 const { Content } = await render(post);
-console.log(post.rendered.metadata.frontmatter.categories);
+
 ---
 
 
