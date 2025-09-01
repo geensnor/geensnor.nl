@@ -8,6 +8,10 @@ import CategorieEnBerichten from '../components/CategorieEnBerichten.astro';
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const categories = Array.isArray(post.rendered.metadata.frontmatter.categories) 
+  ? post.rendered.metadata.frontmatter.categories 
+  : [post.rendered.metadata.frontmatter.categories];
+
 
 ---
 
@@ -31,22 +35,17 @@ const { Content } = await render(post);
       <hr />
 
       <p>Meer van dit soort berichten:</p>
-      <div class="categorieen">
-          {
-            
-        post.rendered.metadata.frontmatter.categories.map((categorie: unknown) => (
+      <div class="categories">
+        {categories.map((categorie: string) => (
           <div>
-            
-            <CategorieEnBerichten categorie={categorie as string} maxBerichten="10"/>
-            </div>
-        ))
-    }
-
-
+            <CategorieEnBerichten categorie={categorie} maxBerichten="10"/>
+          </div>
+        ))}
+      </div>
       <hr />
 
       <style>
-    .categorieen {
+    .categories {
     display: grid; /* or inline-flex */
     grid-columns: 2;
     grid-gap: 2rem;
