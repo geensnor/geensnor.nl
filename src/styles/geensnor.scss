@@ -1,6 +1,4 @@
-:root {
-  --geensnor-oranje: #f15a24;
-}
+@import url("https://www.geensnor.nl/test/colors.css");
 
 img {
   max-width: 100%;
@@ -15,11 +13,11 @@ h1 > a:hover {
 
 h2 {
   font-size: 2em;
-  color: var(--geensnor-oranje);
+  color: var(--primary-color);
 }
 
 a {
-  color: #4433ff;
+  color: var(--link-color);
 }
 
 .nav-item {
