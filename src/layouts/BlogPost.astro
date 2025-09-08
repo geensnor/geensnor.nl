@@ -16,40 +16,20 @@ const categories = Array.isArray(post.rendered.metadata.frontmatter.categories)
 ---
 
 
-      <article>
-        <div class="prose">
-          <div class="title">
-           
-            <Kop Type={"h1"}>{post.data.title}</Kop>
-            <div class="post-meta">{post.data.author} op <FormattedDate date={post.data.date} />
-              in <Categories categories={post.rendered.metadata.frontmatter.categories} />
-             </div>
-            <div class="date">
-              
-           </div>
-            
+  <article>
+    <div class="prose">
+      <div class="title">
+        
+        <Kop Type={"h1"}>{post.data.title}</Kop>
+        <div class="post-meta">{post.data.author} op <FormattedDate date={post.data.date} />
+          in <Categories categories={post.rendered.metadata.frontmatter.categories} />
           </div>
-          <Content/>
+        <div class="date">
+          
         </div>
-      </article>
-      <hr />
-
-      <p>Meer van dit soort berichten:</p>
-      <div class="categories">
-        {categories.map((categorie: string) => (
-          <div>
-            <CategorieEnBerichten categorie={categorie} maxBerichten="10"/>
-          </div>
-        ))}
+        
       </div>
-      <hr />
+      <Content/>
+    </div>
+  </article>
 
-      <style>
-    .categories {
-    display: grid; /* or inline-flex */
-    grid-columns: 2;
-    grid-gap: 2rem;
-    grid-template-columns: 50% 50%;
-
-  }
-  </style>
