@@ -4,6 +4,7 @@ import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import { copyFileSync } from "fs";
 import { fileURLToPath } from "url";
+import pagefind from "astro-pagefind";
 import path from "path";
 
 // https://astro.build/config
@@ -11,6 +12,7 @@ export default defineConfig({
   base: "",
   site: "https://www.geensnor.nl",
   integrations: [
+    pagefind(),
     mdx(),
     sitemap(),
     {

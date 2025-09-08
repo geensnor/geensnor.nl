@@ -1,0 +1,11 @@
+---
+import Main from '../layouts/Main.astro';
+import { Kop } from "@geensnor/astro-componenten";
+import Search from "astro-pagefind/components/Search";
+---
+
+<Main>
+    <Kop Type="h1">Zoeken</Kop>
+    Zoek door al het moois van geensnor.nl.
+    <Search id="search" className="pagefind-ui" uiOptions={{ showImages: false }} />
+</Main>
