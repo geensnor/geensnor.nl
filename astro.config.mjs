@@ -3,7 +3,6 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import { copyFileSync } from "fs";
-import { fileURLToPath } from "url";
 import pagefind from "astro-pagefind";
 import path from "path";
 

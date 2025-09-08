@@ -3,6 +3,7 @@
 ## Todo
 
 - [ ] Readme maken
-- [ ] zoeken maken
+- [x] zoeken maken
 - [ ] Over pagina maken
 - [ ] styling lopende tekst
+- [ ] pipelinetje maken
