@@ -1,0 +1,52 @@
+---
+import Main from "../layouts/Main.astro";
+import { Kop, Lijstitem } from "@geensnor/astro-componenten";
+---
+
+<Main>
+  <Kop Type="h1">Meer Geensnor</Kop>
+  <p>Want er is nog veel meer:</p>
+  <div class="container">
+    <div>
+      <Kop Type="h2">Geensnor elders</Kop>
+      <ul>
+        <Lijstitem
+          ><a href="https://t.me/geensnor">Geensnor op Telegram</a></Lijstitem
+        >
+        <Lijstitem
+          ><a href="https://mastodon.xyz/@geensnor">Geensnor op Mastodon</a
+          ></Lijstitem
+        >
+        <Lijstitem
+          ><a href="https://matrix.to/#/#geensnor:matrix.org"
+            >Geensnor op Matrix</a
+          >
+        </Lijstitem>
+      </ul>
+    </div>
+    <div>
+      <Kop Type="h2">Dingen van Geensnor</Kop>
+
+      <ul>
+        <Lijstitem
+          ><a href="https://www.dedigitaletuin.nl">De Digitale Tuin</a
+          ></Lijstitem
+        >
+        <Lijstitem
+          ><a href="https://www.geensnor.nl/watetenwevandaag"
+            >Wat eten we vandaag?</a
+          ></Lijstitem
+        >
+      </ul>
+    </div>
+  </div>
+</Main>
+
+<style>
+  .container {
+    display: grid; /* or inline-flex */
+    grid-columns: 2;
+    grid-gap: 2rem;
+    grid-template-columns: 50% 50%;
+  }
+</style>
