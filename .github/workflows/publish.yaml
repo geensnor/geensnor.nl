@@ -1,0 +1,27 @@
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+name: Publish Geensnor
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repository using git
+        uses: actions/checkout@v4
+      - name: Install, build, and upload your site
+        uses: withastro/action@v2
+      - name: FTP-Deploy-Action
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.ftpserver }}
+          username: ${{ secrets.ftpusername }}
+          password: ${{ secrets.ftppassword }}
+          dangerous-clean-slate: false
+          local-dir: ./dist/
