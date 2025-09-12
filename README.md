@@ -4,7 +4,7 @@
 
 - [ ] Readme maken
 - [x] zoeken maken
-- [ ] Over pagina maken
+- [x] Over pagina maken
 - [ ] styling lopende tekst
 - [x] pipelinetje maken
 - [ ] Footer op z'n plek houden

@@ -1,5 +1,43 @@
 @import url("https://www.geensnor.nl/test/colors.css");
 
+:root {
+  //Primary tokens
+
+  //Fonts
+  --geensnor-font-family: "Work sans", sans-serif;
+  --geensnor-font-family-headings: "Roboto Slab", serif;
+
+  --geensnor-font-size-xl: 2.5em;
+  --geensnor-font-size-l: 2em;
+  --geensnor-font-size-m: 1.5em;
+  --geensnor-font-size-s: 1.2em;
+  --geensnor-font-size-xs: 1em;
+
+  --geensnor-font-weight-normal: 400;
+  --geensnor-font-weight-bold: 700;
+
+  --geensnor-line-height: 1.7;
+
+  //Colors
+  --geensnor-oranje-100: hsl(16, 88%, 54%);
+  --geensnor-blauw-100: rgb(68, 51, 255);
+  --geensnor-zwartisch: rgb(26, 26, 26);
+  --geensnor-grijs-100: grey;
+  --geensnor-primary-color: var(--geensnor-oranje-100);
+
+  //Semantic tokens
+  --link-color: var(--geensnor-blauw-100);
+
+  --geensnor-body-regular-font-family: var(--geensnor-font-family);
+  --geensnor-body-regular-font-size: var(--geensnor-font-size-xs);
+  --geensnor-body-regular-font-weight: var(--geensnor-font-weight-normal);
+  --geensnor-body-regular-line-height: var(--geensnor-line-height);
+  --geensnor-body-regular-color: var(--geensnor-font-color);
+
+  --geensnor-box-shadow: 0 2px 6px rgba(var(--gray), 25%),
+    0 8px 24px rgba(var(--gray), 33%), 0 16px 32px rgba(var(--gray), 33%);
+}
+
 img {
   max-width: 100%;
   margin-bottom: 30px;
@@ -12,8 +50,10 @@ h1 > a:hover {
 }
 
 h2 {
-  font-size: 2em;
+  font-size: var(--geensnor-font-size-l);
   color: var(--primary-color);
+  font-family: var(--geensnor-font-family-headings);
+  font-weight: var(--geensnor-font-weight-bold);
 }
 
 a {
@@ -49,11 +89,13 @@ a.dropdown-item {
 }
 
 .page-content,
-.post-content {
-  font-family: "Work sans", sans-serif;
-  font-size: 1.2em;
-  color: #333333;
-  line-height: 32px;
+.post-content,
+p {
+  font-family: var(--geensnor-body-regular-font-family);
+  font-weight: var(--geensnor-body-regular-font-weight);
+  font-size: var(--geensnor-body-regular-font-size);
+  line-height: var(--geensnor-body-regular-line-height);
+  color: var(--geensnor-body-regular-color);
 }
 
 .content-container {
