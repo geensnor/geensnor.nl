@@ -6,4 +6,5 @@
 - [x] zoeken maken
 - [ ] Over pagina maken
 - [ ] styling lopende tekst
-- [ ] pipelinetje maken
+- [x] pipelinetje maken
+- [ ] Footer op z'n plek houden
