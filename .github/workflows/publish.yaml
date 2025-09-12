@@ -1,4 +1,5 @@
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -25,3 +26,5 @@ jobs:
           password: ${{ secrets.ftppassword }}
           dangerous-clean-slate: false
           local-dir: ./dist/
+          concurrency: 1
+          timeout: 60000
