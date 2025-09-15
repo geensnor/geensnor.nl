@@ -5,7 +5,7 @@
 
   //Fonts
   --geensnor-font-family: "Work sans", sans-serif;
-  --geensnor-font-family-headings: "Roboto Slab", serif;
+  --geensnor-font-family-headings: "Zilla Slab", serif;
 
   --geensnor-font-size-xl: 2.5em;
   --geensnor-font-size-l: 2em;
@@ -18,93 +18,63 @@
 
   --geensnor-line-height: 1.7;
 
-  //Colors
+  --geensnor-letter-spacing-small: -0.8px;
+
+  //Kleuren
   --geensnor-oranje-100: hsl(16, 88%, 54%);
   --geensnor-blauw-100: rgb(68, 51, 255);
   --geensnor-zwartisch: rgb(26, 26, 26);
   --geensnor-grijs-100: grey;
-  --geensnor-primary-color: var(--geensnor-oranje-100);
+
+  //Spacing
+
+  --geensnor-spacing-m: 0.4rem;
 
   //Semantic tokens
-  --link-color: var(--geensnor-blauw-100);
 
-  --geensnor-body-regular-font-family: var(--geensnor-font-family);
-  --geensnor-body-regular-font-size: var(--geensnor-font-size-xs);
-  --geensnor-body-regular-font-weight: var(--geensnor-font-weight-normal);
-  --geensnor-body-regular-line-height: var(--geensnor-line-height);
-  --geensnor-body-regular-color: var(--geensnor-font-color);
+  h2 {
+    font-size: var(--geensnor-font-size-l);
+    color: var(--primary-color);
+    font-family: var(--geensnor-font-family-headings);
+    font-weight: var(--geensnor-font-weight-bold);
+  }
+
+  h3 {
+    font-size: var(--geensnor-font-size-m);
+    color: var(--primary-color);
+    font-family: var(--geensnor-font-family-headings);
+    font-weight: var(--geensnor-font-weight-bold);
+  }
+
+  a {
+    color: var(--geensnor-blauw-100);
+    font-family: var(--geensnor-font-family);
+  }
+
+  p,
+  ul,
+  ol {
+    font-family: var(--geensnor-font-family);
+    font-weight: var(--geensnor-font-size-xs);
+    font-size: var(--geensnor-body-regular-font-size);
+    line-height: var(--geensnor-line-height);
+    color: var(--geensnor-font-color);
+  }
+
+  li {
+    margin-bottom: var(--geensnor-spacing-m);
+  }
 
   --geensnor-box-shadow: 0 2px 6px rgba(var(--gray), 25%),
     0 8px 24px rgba(var(--gray), 33%), 0 16px 32px rgba(var(--gray), 33%);
 }
 
+//Hierboven naar tokens file
 img {
   max-width: 100%;
   margin-bottom: 30px;
   margin-top: 30px;
   height: auto;
-}
-
-h1 > a:hover {
-  text-decoration: none;
-}
-
-h2 {
-  font-size: var(--geensnor-font-size-l);
-  color: var(--primary-color);
-  font-family: var(--geensnor-font-family-headings);
-  font-weight: var(--geensnor-font-weight-bold);
-}
-
-a {
-  color: var(--link-color);
-}
-
-.nav-item {
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-.nav-item a {
-  color: white;
-}
-
-.nav-item a:hover {
-  color: lightgray;
-  text-decoration: underline;
-}
-
-a.dropdown-item {
-  color: black;
-}
-
-.post-meta {
-  color: grey;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
-.meer-berichten {
-  margin-top: 100px;
-}
-
-.page-content,
-.post-content,
-p {
-  font-family: var(--geensnor-body-regular-font-family);
-  font-weight: var(--geensnor-body-regular-font-weight);
-  font-size: var(--geensnor-body-regular-font-size);
-  line-height: var(--geensnor-body-regular-line-height);
-  color: var(--geensnor-body-regular-color);
-}
-
-.content-container {
-  margin-top: 40px;
-}
-
-article {
-  margin-top: 60px;
-  margin-bottom: 160px;
 }
 
 blockquote {

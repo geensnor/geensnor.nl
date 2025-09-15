@@ -1,9 +1,12 @@
 ---
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
-import { Voettekst }from "@geensnor/astro-componenten";
+import { Voettekst } from "@geensnor/astro-componenten";
 import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import "@fontsource-variable/work-sans";
+import "@fontsource/zilla-slab/500.css";
 ---
+
 <!doctype html>
 <html lang="nl">
   <head>
@@ -82,8 +85,8 @@ import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
   <body>
     <Header />
     <main>
-        <slot />
+      <slot />
     </main>
-    <Voettekst githubURL="https://github.com/geensnor/"/>
+    <Voettekst githubURL="https://github.com/geensnor/" />
   </body>
 </html>

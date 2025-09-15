@@ -5,7 +5,7 @@ import FormattedDate from "./FormattedDate.astro";
 export interface Props {
   title?: string;
   start?: number;
-    end?: number;
+  end?: number;
 }
 
 const { title, start, end } = Astro.props;
@@ -15,27 +15,26 @@ const posts = (await getCollection("blog")).sort(
 );
 
 const postsToShow = posts.slice(start, end);
-
 ---
+
+{title && <h2>{title}</h2>}
+<div>
+  <ul>
+    {
+      postsToShow.map((post: any) => (
+        <li>
+          <a href={post.id}>
+            <FormattedDate date={post.data.date} />: {post.data.title}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</div>
+
 <style>
   ul {
     list-style: none;
     padding: 0;
   }
-
-  </style>
-{title && <h2>{title}</h2>}
-<div>
-  <ul>
-
-  {
-    postsToShow.map((post: any) => (
-
-      <li><a href={post.id}><FormattedDate date={post.data.date} />: {post.data.title}</a></li>
-  
-     
-    ))
-  }
-  </ul>
-
-</div>
+</style>
