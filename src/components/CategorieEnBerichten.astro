@@ -1,35 +1,37 @@
 ---
-
 import { getCollection } from "astro:content";
 import { Kop } from "@geensnor/astro-componenten";
 
-
 const { categorie, maxBerichten } = Astro.props;
 
-const posts = (await getCollection("blog")).sort(
-  (a: any, b: any) => b.data.date.valueOf() - a.data.date.valueOf()
-).filter((post: any) => {
-  const categories = post.rendered.metadata.frontmatter.categories;
-  if (Array.isArray(categories)) {
-    return categories.includes(categorie);
-  } else {
-    return categories === categorie;
-  }
-});
-
-
+const posts = (await getCollection("blog"))
+  .sort((a: any, b: any) => b.data.date.valueOf() - a.data.date.valueOf())
+  .filter((post: any) => {
+    const categories = post.rendered.metadata.frontmatter.categories;
+    if (Array.isArray(categories)) {
+      return categories.includes(categorie);
+    } else {
+      return categories === categorie;
+    }
+  });
 ---
+
 <div>
-<Kop Type="h2" id={categorie}>{categorie}</Kop>
-<ul>
-{
-  posts.slice(0, maxBerichten).map((post: any) => (
-    <li>
-      <a href={post.id} class="categorie-link">
-        {post.data.title}
-      </a>
-    </li>
-  ))
-}
-</ul>
+  <Kop Type="h2" id={categorie}>{categorie}</Kop>
+  <ul>
+    {
+      posts.slice(0, maxBerichten).map((post: any) => (
+        <li>
+          <a href={post.id} class="categorie-link">
+            {post.data.title}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
 </div>
+<style>
+  li {
+    margin-bottom: 0.5rem;
+  }
+</style>
