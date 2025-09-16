@@ -28,7 +28,7 @@
 
   //Spacing
 
-  --geensnor-spacing-m: 0.4rem;
+  --geensnor-spacing-m: 0.3rem;
 
   //Semantic tokens
 
@@ -37,6 +37,7 @@
     color: var(--primary-color);
     font-family: var(--geensnor-font-family-headings);
     font-weight: var(--geensnor-font-weight-bold);
+    margin-bottom: var(--geensnor-spacing-m);
   }
 
   h3 {
@@ -44,6 +45,7 @@
     color: var(--primary-color);
     font-family: var(--geensnor-font-family-headings);
     font-weight: var(--geensnor-font-weight-bold);
+    margin-bottom: var(--geensnor-spacing-m);
   }
 
   a {
@@ -151,4 +153,8 @@ pre code {
   white-space: pre-wrap;
   background-color: transparent;
   border: 0;
+}
+
+table {
+  width: 100%;
 }
