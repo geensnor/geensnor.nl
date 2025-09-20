@@ -7,16 +7,17 @@
   --geensnor-font-family: "Work sans", sans-serif;
   --geensnor-font-family-headings: "Zilla Slab", serif;
 
-  --geensnor-font-size-xl: 2.5em;
-  --geensnor-font-size-l: 2em;
-  --geensnor-font-size-m: 1.5em;
-  --geensnor-font-size-s: 1.2em;
-  --geensnor-font-size-xs: 1em;
+  --geensnor-font-size-xxl: 2.5em;
+  --geensnor-font-size-xl: 2em;
+  --geensnor-font-size-l: 1.5em;
+  --geensnor-font-size-m: 1.2em;
+  --geensnor-font-size-s: 1em;
+  --geensnor-font-size-xs: 0.8em;
 
   --geensnor-font-weight-normal: 400;
   --geensnor-font-weight-bold: 700;
 
-  --geensnor-line-height: 1.7;
+  --geensnor-line-height: 1.7em;
 
   --geensnor-letter-spacing-small: -0.8px;
 
@@ -25,15 +26,19 @@
   --geensnor-blauw-100: rgb(68, 51, 255);
   --geensnor-zwartisch: rgb(26, 26, 26);
   --geensnor-grijs-100: grey;
+  --geensnor-grijs-50: rgb(207, 207, 207);
+  --geensnor-grijs-10: #f7f7f9;
 
   //Spacing
-
   --geensnor-spacing-m: 0.3rem;
+
+  // Radius
+  --geensnor-border-radius: 3px;
 
   //Semantic tokens
 
   h2 {
-    font-size: var(--geensnor-font-size-l);
+    font-size: var(--geensnor-font-size-xl);
     color: var(--primary-color);
     font-family: var(--geensnor-font-family-headings);
     font-weight: var(--geensnor-font-weight-bold);
@@ -41,7 +46,7 @@
   }
 
   h3 {
-    font-size: var(--geensnor-font-size-m);
+    font-size: var(--geensnor-font-size-l);
     color: var(--primary-color);
     font-family: var(--geensnor-font-family-headings);
     font-weight: var(--geensnor-font-weight-bold);
@@ -55,9 +60,10 @@
 
   p,
   ul,
-  ol {
+  ol,
+  table {
     font-family: var(--geensnor-font-family);
-    font-weight: var(--geensnor-font-size-xs);
+    font-weight: var(--geensnor-font-size-s);
     font-size: var(--geensnor-body-regular-font-size);
     line-height: var(--geensnor-line-height);
     color: var(--geensnor-font-color);
@@ -67,8 +73,51 @@
     margin-bottom: var(--geensnor-spacing-m);
   }
 
-  --geensnor-box-shadow: 0 2px 6px rgba(var(--gray), 25%),
-    0 8px 24px rgba(var(--gray), 33%), 0 16px 32px rgba(var(--gray), 33%);
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th,
+  td {
+    border: 1px solid var(--geensnor-zwartisch);
+    padding: var(--geensnor-spacing-m);
+  }
+
+  th {
+    text-align: center;
+  }
+
+  blockquote {
+    padding: 0 1em;
+    border-left: 0.25em solid var(--geensnor-oranje-100);
+    color: var(--geensnor-grijs-100);
+    font-style: italic;
+  }
+
+  code:not(pre > code) {
+    padding: 5px;
+    color: var(--geensnor-oranje-100);
+    background-color: var(--geensnor-grijs-10);
+    border: 1px solid var(--geensnor-grijs-50);
+    border-radius: var(--geensnor-border-radius);
+    font-size: var(--geensnor-font-size-xs);
+  }
+
+  pre {
+    display: block;
+    padding: var(--geensnor-spacing-m);
+
+    font-size: var(--geensnor-font-size-xs);
+    line-height: var(--geensnor-line-height);
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre;
+    white-space: pre-wrap;
+    background-color: var(--geensnor-grijs-10);
+    border: 1px solid var(--geensnor-grijs-50);
+    border-radius: var(--geensnor-border-radius);
+  }
 }
 
 //Hierboven naar tokens file
@@ -77,84 +126,4 @@ img {
   margin-bottom: 30px;
   margin-top: 30px;
   height: auto;
-}
-
-blockquote {
-  padding: 0 1em;
-  border-left: 0.25em solid #dfe2e5;
-  color: gray;
-  font-style: italic;
-}
-
-table,
-th,
-td {
-  border: 1px solid #b2b2b2;
-}
-
-th {
-  text-align: center;
-}
-
-td,
-th {
-  padding: 5px;
-}
-
-.line-top {
-  border-top: 1px solid #b2b2b2;
-  padding-top: 10px;
-}
-
-code,
-pre {
-  padding: 0 3px 2px;
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
-  font-size: 12px;
-  color: #333333;
-  -webkit-border-radius: 3px;
-  -moz-border-radius: 3px;
-  border-radius: 3px;
-}
-
-code {
-  padding: 2px 4px;
-  color: #d14;
-  background-color: #f7f7f9;
-  border: 1px solid #e1e1e8;
-}
-
-pre {
-  display: block;
-  padding: 9.5px;
-  margin: 0 0 10px;
-  font-size: 13px;
-  line-height: 20px;
-  word-break: break-all;
-  word-wrap: break-word;
-  white-space: pre;
-  white-space: pre-wrap;
-  background-color: #f5f5f5;
-  border: 1px solid #ccc;
-  border: 1px solid rgba(0, 0, 0, 0.15);
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-}
-
-pre.prettyprint {
-  margin-bottom: 20px;
-}
-
-pre code {
-  padding: 0;
-  color: inherit;
-  white-space: pre;
-  white-space: pre-wrap;
-  background-color: transparent;
-  border: 0;
-}
-
-table {
-  width: 100%;
 }

@@ -10,10 +10,16 @@ import path from "path";
 export default defineConfig({
   base: "",
   site: "https://www.geensnor.nl",
+  markdown: {
+    shikiConfig: {
+      theme: "material-theme-lighter",
+    },
+  },
   integrations: [
     pagefind(),
     mdx(),
     sitemap(),
+
     {
       name: "copy-favicon",
       hooks: {
