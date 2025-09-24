@@ -5,6 +5,6 @@
 - [ ] Readme maken
 - [x] zoeken maken
 - [x] Over pagina maken
-- [ ] styling lopende tekst
+- [x] styling lopende tekst
 - [x] pipelinetje maken
 - [ ] Footer op z'n plek houden
