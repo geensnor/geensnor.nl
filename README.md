@@ -7,4 +7,4 @@
 - [x] Over pagina maken
 - [x] styling lopende tekst
 - [x] pipelinetje maken
-- [ ] Footer op z'n plek houden
+- [x] Footer op z'n plek houden
