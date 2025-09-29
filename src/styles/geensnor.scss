@@ -1,17 +1,17 @@
-@import url("https://www.geensnor.nl/test/colors.css");
+/*@import url("https://www.geensnor.nl/test/colors.css");*/
 
 :root {
-  //Primary tokens
+/* Primary tokens */
 
-  //Fonts
+  /* Fonts */
   --geensnor-font-family: "Work sans", sans-serif;
   --geensnor-font-family-headings: "Zilla Slab", serif;
 
   --geensnor-font-size-xxl: 2.5em;
   --geensnor-font-size-xl: 2em;
   --geensnor-font-size-l: 1.5em;
-  --geensnor-font-size-m: 1.2em;
-  --geensnor-font-size-s: 1em;
+  --geensnor-font-size-m: 1em;
+  --geensnor-font-size-s: 0.9em;
   --geensnor-font-size-xs: 0.8em;
 
   --geensnor-font-weight-normal: 400;
@@ -21,7 +21,7 @@
 
   --geensnor-letter-spacing-small: -0.8px;
 
-  //Kleuren
+  /* Kleuren */
   --geensnor-oranje-100: hsl(16, 88%, 54%);
   --geensnor-blauw-100: rgb(68, 51, 255);
   --geensnor-zwartisch: rgb(26, 26, 26);
@@ -29,17 +29,18 @@
   --geensnor-grijs-50: rgb(207, 207, 207);
   --geensnor-grijs-10: #f7f7f9;
 
-  //Spacing
+  /* Spacing */
   --geensnor-spacing-m: 0.3rem;
 
-  // Radius
+  /* Radius */
   --geensnor-border-radius: 3px;
 
-  //Semantic tokens
+
+  }
 
   h2 {
     font-size: var(--geensnor-font-size-xl);
-    color: var(--primary-color);
+    color: var(--geensnor-oranje-100);
     font-family: var(--geensnor-font-family-headings);
     font-weight: var(--geensnor-font-weight-bold);
     margin-bottom: var(--geensnor-spacing-m);
@@ -47,7 +48,7 @@
 
   h3 {
     font-size: var(--geensnor-font-size-l);
-    color: var(--primary-color);
+    color: var(--geensnor-oranje-100);
     font-family: var(--geensnor-font-family-headings);
     font-weight: var(--geensnor-font-weight-bold);
     margin-bottom: var(--geensnor-spacing-m);
@@ -63,8 +64,7 @@
   ol,
   table {
     font-family: var(--geensnor-font-family);
-    font-weight: var(--geensnor-font-size-s);
-    font-size: var(--geensnor-body-regular-font-size);
+    font-size: var(--geensnor-font-size-m);
     line-height: var(--geensnor-line-height);
     color: var(--geensnor-font-color);
   }
@@ -118,8 +118,8 @@
     border: 1px solid var(--geensnor-grijs-50);
     border-radius: var(--geensnor-border-radius);
   }
-}
 
+/* Layout */
 .container {
   display: grid;
 
@@ -139,7 +139,7 @@ footer {
 
 }
 
-//Hierboven naar tokens file
+
 img {
   max-width: 100%;
   margin-bottom: 30px;
