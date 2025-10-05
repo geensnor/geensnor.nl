@@ -27,6 +27,7 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
   href={new URL("rss.xml", Astro.site)}
 />
 <meta name="generator" content={Astro.generator} />
+<meta name="fediverse:creator" content="@mastodon.xyz@geensnor" />
 
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
