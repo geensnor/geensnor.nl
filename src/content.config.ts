@@ -27,7 +27,7 @@ const blog = defineCollection({
   // Type-check frontmatter using a schema
   schema: z.object({
     title: z.string(),
-    author: z.string(),
+    author: z.enum(["Joris", "Erik", "ChatGPT"]),
     date: z.date(),
     categories: z.array(CategorySchema).min(1),
   }),
