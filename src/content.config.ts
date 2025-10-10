@@ -17,7 +17,6 @@ const CategorySchema = z.enum([
   "Whisky",
   "Zeilen",
   "Klushoekje",
-  "Privacy",
   "Security",
 ]);
 
