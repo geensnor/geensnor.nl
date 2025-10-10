@@ -1,12 +1,11 @@
 ---
-
 import { getCollection } from "astro:content";
 import BlogPost from "../layouts/BlogPost.astro";
 import Main from "../layouts/Main.astro";
-import TitelLijst  from "../components/TitelLijst.astro";
+import TitelLijst from "../components/TitelLijst.astro";
 
 const NumberDisplayPosts = 5;
-const StartDisplayTitles = 6;	
+const StartDisplayTitles = 6;
 const EndDisplayTitles = 20;
 
 const posts = (await getCollection("blog")).sort(
@@ -16,27 +15,30 @@ const posts = (await getCollection("blog")).sort(
 // remove posts after 10 posts
 
 const postsToShow = posts.slice(0, NumberDisplayPosts);
-
 ---
-<Main>
 
-      <section>
-        <!-- <ul>
+<Main>
+  <section>
+    <!-- <ul>
           {
             contentMastodon.items.map((toot: any) => (
               <li set:html={toot.content} />
             ))
           }
         </ul>  -->
-   
-{
-  postsToShow.map((post: any) => (
-    <BlogPost {post} />
-  <hr />
-   
-  ))
-}
-        
-      </section>
-      <TitelLijst title="Oudere berichten" start={StartDisplayTitles} end={EndDisplayTitles} />
+
+    {
+      postsToShow.map((post: any) => (
+        <>
+          <BlogPost {post} />
+          <hr />
+        </>
+      ))
+    }
+  </section>
+  <TitelLijst
+    title="Oudere berichten"
+    start={StartDisplayTitles}
+    end={EndDisplayTitles}
+  />
 </Main>
