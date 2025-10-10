@@ -1,0 +1,11 @@
+{
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.enable": {
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  }
+}
