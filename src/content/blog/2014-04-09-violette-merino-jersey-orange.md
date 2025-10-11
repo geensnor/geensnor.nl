@@ -9,6 +9,7 @@ permalink: /violette-merino-jersey-orange/
 categories:
   - Wielrennerij
 ---
+
 [Violette Merino Jersey Orange](https://www.cafeducycliste.com/en/product/Violette-jersey-orange). Hele slicke jersey&#8217;s bij cafe du cycliste. Nu ik een mooie fiets heb moet ik er natuurlijk ook een beetje fancypancydandy op komen te zitten. Tijd voor gear!
 
 <p style="text-align: center;">

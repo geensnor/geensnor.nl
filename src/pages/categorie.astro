@@ -1,40 +1,38 @@
 ---
-import Main from '../layouts/Main.astro';
-import CategorieEnBerichten from '../components/CategorieEnBerichten.astro';
+import Main from "../layouts/Main.astro";
+import CategorieEnBerichten from "../components/CategorieEnBerichten.astro";
 import { getCollection } from "astro:content";
 
-
-
-
-const categorieen = [...new Set(
-  (await getCollection("blog")).map((post: any) => {
-    const categories = post.rendered.metadata.frontmatter.categories;
-    if (Array.isArray(categories)) {
-      return categories;
-    } else {
-      return [categories];
-    }
-  }).flat()
-)];
-
+const categorieen = [
+  ...new Set(
+    (await getCollection("blog"))
+      .map((post: any) => {
+        const categories = post.rendered.metadata.frontmatter.categories;
+        if (Array.isArray(categories)) {
+          return categories;
+        } else {
+          return [categories];
+        }
+      })
+      .flat(),
+  ),
+];
 ---
- <Main>
-    <div class="container">
+
+<Main>
+  <div class="container">
     {
-        categorieen.map((categorie: unknown) => (
-            <CategorieEnBerichten categorie={categorie as string} />
-        ))
+      categorieen.map((categorie: unknown) => (
+        <CategorieEnBerichten categorie={categorie as string} />
+      ))
     }
-
-    </div>
-
+  </div>
 </Main>
 <style>
-    .container {
+  .container {
     display: grid; /* or inline-flex */
     grid-columns: 2;
     grid-gap: 2rem;
     grid-template-columns: 50% 50%;
-
   }
-  </style>
+</style>

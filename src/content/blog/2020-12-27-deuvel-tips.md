@@ -6,6 +6,7 @@ permalink: /deuvels/
 categories:
   - Klushoekje
 ---
+
 Bij het maken van het nieuwe keukentje voor onze dochter maakte ik gebruik van deuvels. Een klassieke en bewezen methode om houten onderdelen aan elkaar te maken. Het is geen rocketscience maar er waren toch een aantal dingen om op te letten
 
 ## Deuvels en MDF

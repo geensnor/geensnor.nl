@@ -9,7 +9,7 @@ const StartDisplayTitles = 6;
 const EndDisplayTitles = 20;
 
 const posts = (await getCollection("blog")).sort(
-  (a: any, b: any) => b.data.date.valueOf() - a.data.date.valueOf()
+  (a: any, b: any) => b.data.date.valueOf() - a.data.date.valueOf(),
 );
 
 // remove posts after 10 posts

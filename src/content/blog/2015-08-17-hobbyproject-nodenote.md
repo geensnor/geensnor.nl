@@ -1,6 +1,6 @@
 ---
 id: 746
-title: 'Hobbyproject: NodeNote'
+title: "Hobbyproject: NodeNote"
 date: 2015-08-17
 author: Joris
 layout: post
@@ -9,6 +9,7 @@ permalink: /hobbyproject-nodenote/
 categories:
   - Internet
 ---
+
 [<img class=" size-full wp-image-749 alignleft" src="https://www.geensnor.nl/wp/wp-content/uploads/2015/08/nodenote.png" alt="nodenote" width="461" height="225" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2015/08/nodenote.png 461w, https://www.geensnor.nl/wp/wp-content/uploads/2015/08/nodenote-300x146.png 300w" sizes="(max-width: 461px) 100vw, 461px" />](https://www.geensnor.nl/wp/wp-content/uploads/2015/08/nodenote.png)Bij het maken van notities helpt het om een hiërarchie aan te brengen. Je begint met iets abstracts en vaags en je werkt het steeds verder uit naar concrete onderdelen of acties. Mindmapping werkt ook ongeveer op die manier.
 
 Omdat ik vond dat er geen goede manier was om dit soort dingen vast te leggen, heb ik zelf maar iets gemaakt: **NodeNote.**

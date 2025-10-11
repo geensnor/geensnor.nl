@@ -1,6 +1,6 @@
 ---
 id: 645
-title: 'Woensdagse weetjes&#8230;nu mogelijk op alle dagen!'
+title: "Woensdagse weetjes&#8230;nu mogelijk op alle dagen!"
 date: 2014-12-15
 author: Erik
 layout: post
@@ -9,6 +9,7 @@ permalink: /woensdagse-weetjes-nu-mogelijk-op-alle-dagen/
 categories:
   - Geensnor
 ---
+
 Joris schreef ergens 10 jaar geleden (!!) de volgende openingspost:
 
 <table class="rechts" width="500">

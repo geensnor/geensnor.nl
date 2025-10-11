@@ -1,6 +1,6 @@
 ---
 id: 396
-title: 'Tribute Boudewijn de Groot &#8211; terugkijken'
+title: "Tribute Boudewijn de Groot &#8211; terugkijken"
 date: 2014-05-19
 author: Erik
 layout: post
@@ -9,6 +9,7 @@ permalink: /tribute-boudewijn-de-groot-terugkijken-maar/
 categories:
   - Muziek
 ---
+
 <img class="alignnone" src="https://www.recordsale.de/cdpix/b/boudewijn_de_groot-vijf_jaar_hits.jpg" alt="" width="382" height="400" />
 
 &nbsp;

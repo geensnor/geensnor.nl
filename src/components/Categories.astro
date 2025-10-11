@@ -1,24 +1,25 @@
 ---
 const { categories } = Astro.props;
-
 ---
-<span>
-{Array.isArray(categories) ? 
-    
-      categories.map((category: string) => 
-        <a href={`/categorie#${category}`} class="category">{category}</a>
-      )
-    
-   : 
- 
-      <a href={`/categorie#${categories}`}  class="category">{categories}</a>
-    
-  }
 
+<span>
+  {
+    Array.isArray(categories) ? (
+      categories.map((category: string) => (
+        <a href={`/categorie#${category}`} class="category">
+          {category}
+        </a>
+      ))
+    ) : (
+      <a href={`/categorie#${categories}`} class="category">
+        {categories}
+      </a>
+    )
+  }
 </span>
 
 <style>
-    a.category:link {
+  a.category:link {
     text-decoration: none;
     color: white;
     background-color: black;
@@ -26,14 +27,14 @@ const { categories } = Astro.props;
     color: #fff;
     margin-left: 5px;
     margin-right: 5px;
-}
+  }
 
-a.category:visited {
+  a.category:visited {
     background-color: black;
     color: white;
     padding: 0.2rem;
     color: #fff;
     margin-left: 5px;
     margin-right: 5px;
-}
-    </style>
+  }
+</style>

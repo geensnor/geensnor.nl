@@ -4,9 +4,9 @@ title: Tips met betrekking tot het verwerken van MDF
 author: Erik
 permalink: "/mdf/"
 categories:
-- Klushoekje
-
+  - Klushoekje
 ---
+
 MDF, een soort houtsoort, is super mooi te gebruiken bij het maken van bijv. speelgoed voor kindjes, kleine kastjes, speakers, doosjes of andere dingen. MDF heeft als grote voordeel dat het betaalbaar is, makkelijk te verwerken en recht is. Het is immers gemaakt hout en dus niet gevoelig voor bijv. de werking van hout van vuren. Echter zitten er ook een paar irritante dingen aan MDF.
 
 ## MDF en schilderen

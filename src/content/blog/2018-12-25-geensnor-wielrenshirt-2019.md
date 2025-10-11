@@ -10,8 +10,9 @@ categories:
   - Spullen
   - Wielrennerij
 ---
- Hij komt! Het nieuwe Geensnor Wielrenshirt van2019. Alles wat je moet weten staat [hier](https://www.geensnor.nl/wp/geensnor-wielrenshirt-2019/). Pak deze kans en zorg voor een stijlvol 2019! 
 
-## Update 25 december 2018 Designs zijn er! Check de 
+Hij komt! Het nieuwe Geensnor Wielrenshirt van2019. Alles wat je moet weten staat [hier](https://www.geensnor.nl/wp/geensnor-wielrenshirt-2019/). Pak deze kans en zorg voor een stijlvol 2019!
+
+## Update 25 december 2018 Designs zijn er! Check de
 
 [pagina waarop alles staat](https://www.geensnor.nl/wp/geensnor-wielrenshirt-2019/)

@@ -9,6 +9,7 @@ permalink: /geensnor-voornamen-kiezer/
 categories:
   - Internet
 ---
+
 Soms heb je een goede voornaam nodig. Bijvoorbeeld omdat je je bankstel een naam wilt geven of omdat je een kind krijgt. Op internet zijn wel een paar sites waarop veel voornamen staan, maar daar moet je vaak door bergen lelijke namen heen. Gelukkig is er vanaf nu de **<del>Geensnor Voornamen kiezer!</del> Voornaam generator<img class=" alignright" src="https://www.guesthouses.be/img/Provincie-Namen.gif" alt="" width="395" height="311" />**
 
 Als je naar <a href="https://www.voornaamgenerator.nl" target="_blank">www.voornaamgenerator.nl</a> gaat, krijg je een voornaam te zien. Je moet vervolgens zeggen of je die wel of niet leuk vindt. Het systeem toont dan een nieuwe naam op basis de keuzes die andere eerder hebben gemaakt. Als (als&#8230;) alles goed werkt leert het systeem en krijg je steeds beter suggesties. Er zit verder geen logica of groepering achter dus het werkt pas goed als er veel mensen meedoen. Er zitten bijna 10000 namen in de database dus je kan je lol op. Het is vooral bedoeld voor inspiratie: je kan niet inloggen, verder gaan waar je was gebleven of lijstjes met namen opslaan.

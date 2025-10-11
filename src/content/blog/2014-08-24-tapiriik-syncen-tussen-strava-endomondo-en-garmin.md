@@ -1,6 +1,6 @@
 ---
 id: 574
-title: 'tapiriik &#8211; Syncen tussen strava, endomondo en Garmin'
+title: "tapiriik &#8211; Syncen tussen strava, endomondo en Garmin"
 date: 2014-08-24
 author: Erik
 layout: post
@@ -10,6 +10,7 @@ categories:
   - Wielrennerij
   - Handig
 ---
+
 <img class="alignnone" src="https://www.maartensport.nl/wp-content/uploads/2013/07/Screen-Shot-2013-07-14-at-1.31.20-PM.png" alt="" width="591" height="251" />
 
 Je bent over de 30 en je hebt, ondanks je voornemen om nooit zo te worden, een te dure racefiets en alsnog geld over voor gadgets. Zo gaat het leven, blijkbaar, en dus koop je van gekheid een hippe smartphone waarmee je mooi je ritjes via GPS kan bijhouden. Omdat die accu van je telefoon toch niet helemaal top is, ondanks de 600 euro die je er tegen aan hebt gegooid, koop je ook nog maar een losse garmin. Niet omdat het nodig is, maar het is toch wel verdomde handig en een mooi excuus om weer een tijdje aan te kloten met nog meer software en gps track applicaties. En je weet nu tenminste hoe hoog je cadans is en die hartslag informatie komt ook vast nog wel eens van pas.

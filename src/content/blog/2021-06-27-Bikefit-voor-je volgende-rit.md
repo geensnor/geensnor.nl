@@ -5,6 +5,7 @@ author: Erik
 categories:
   - Wielrennerij
 ---
+
 Ik heb een racefiets vanaf 2001 ongeveer en heb de afgelopen jaren eindeloos veel afgesteld aan mijn fiets. Helaas heb ik een gevoelig lichaam en vaak klachten op de fiets. Ik heb mij inmiddels 2x onderworpen aan een complete bikefitting en dat hielp soms, maar zeker ook niet altijd. Alle lessen en fouten die ik heb geleerd, heb ik in deze post opgeschreven. Ik hoop dat de lezer er iets aan heeft.
 
 **Uiteindelijk stel je de fiets in hoofdlijnen in, maar ben je vervolgens echt nog een tijd bezig om alles extra fijn af te stellen.** Trek daar tijd voor uit, neem imbussleutels mee als je gaat fietsen en ga gewoon voorzichtig kleine dingen aanpassen. Pas niet te veel in 1x aan, anders ben je het overzicht kwijt.
@@ -37,7 +38,7 @@ Uiteindelijk moet je op de zitbotjes zitten. Mannen hebben vaak bredere bekken d
 
 Meestal zie je standaard een 13cm zadel gemonteerd. Als je daar met je brede mannelijke bekken op gaat zitten krijg je snel zadelpijn omdat je zitbotjes er aan de zijkanten overheen schuiven (en zelfs je bekken uit elkaar drukken als een soort wig) en je daardoor dus veel te veel op je perineum komt te zitten. Dooie zak en zadelpijn tot gevolg.
 
-Zelf je zadelbreedte meten kan door op een krukje (voeten op de stang) op een stuk karton te gaan zitten (een tijdje) en dan de deuken te meten. De deuken kun je beter zien als je er met een krijtje overheen gaat, zegt de theorie. Ik vond het een rukmethode en uiteindelijk heb ik mijn breedte gewoon laten meten in de winkel. Die was 13cm. Vervolgens tel je 1 of 2 cm bij op als je zoals ik een 'minder sportieve' rijder bent. Of in andere woorden, gewoon stram en te dik bent. Door de vorm van je bekken is die 13cm alleen 13 als ik super sportief heel diep zit, maar zo zit ik helemaal niet. Ik heb op dit moment een 14.5 cm zadel en dat is perfect.  
+Zelf je zadelbreedte meten kan door op een krukje (voeten op de stang) op een stuk karton te gaan zitten (een tijdje) en dan de deuken te meten. De deuken kun je beter zien als je er met een krijtje overheen gaat, zegt de theorie. Ik vond het een rukmethode en uiteindelijk heb ik mijn breedte gewoon laten meten in de winkel. Die was 13cm. Vervolgens tel je 1 of 2 cm bij op als je zoals ik een 'minder sportieve' rijder bent. Of in andere woorden, gewoon stram en te dik bent. Door de vorm van je bekken is die 13cm alleen 13 als ik super sportief heel diep zit, maar zo zit ik helemaal niet. Ik heb op dit moment een 14.5 cm zadel en dat is perfect.
 
 Sommige zadels zijn heel vlak, andere zijn rond. Dit is persoonlijk en heeft te maken met de bouw van jouw bekken. Ik had een platte gekregen van de bikefitter maar daar kreeg ik zadelpijn van. Mijn huidige zadel is nu weer redelijk rond en zit wel lekker.
 
@@ -49,11 +50,11 @@ En waarom begin je met je zadel bij het fiets afstellen? **Als je niet lekker zi
 
 Van belang is dat de hoogte van je zadel ervoor zorgt dat je de benen goed kan strekken, zonder dat je hoeft te overstrekken. Overstrekken voel je in je knieën, zorgt voor suboptimale krachtoverbrenging en gaat er voor zorgen dat je bekken ook gaan kantelen op je zadel (van links naar rechts schommelen). Daarnaast zal het ook voelbaar zijn in je complete lijf (nek, rug en armen) en geeft spanning in je lichaam. Veel fietsers zitten uiteindelijk op een te hoog zadel of laag zadel (meestal hoog).
 
-1. Zet je zadel horizontaal. Dat kan met een waterpas (leg eerst een plank over je zadel). Zadels horen horizontaal in basis.  
+1. Zet je zadel horizontaal. Dat kan met een waterpas (leg eerst een plank over je zadel). Zadels horen horizontaal in basis.
 2. Zorg dat iemand je vast houd of leun tegen iets aan, anders flikker je om.
 3. Klik je schoentjes in en draai naar ongeveer het onderste punt, zodat de crank in de verlenging staat van je zadelbuis.
 4. Uiteindelijk moet je knie , als je voet horizontaal staat en ingeklikt, licht gebogen zijn. Met de **hiel-methode** kun je goede kijken of het goed staat. Klik je voet uit en plaats je hak op het pedaal. Je been zou ong. gestrekt moeten zijn (maar zeker niet overstrekt).
-Meer informatie en andere methoden:
+   Meer informatie en andere methoden:
 
 - [De hiel methode](https://wielervoordeel.nl/blog/hoe-bepaal-juiste-zadelhoogte/)
 - [de 109% methode (video)](https://www.youtube-nocookie.com/watch?v=sUNgZ_aRRL8)
@@ -94,7 +95,7 @@ Het ideale punt hiervoor vinden vind ik lastig maar het belangrijkste is dat je 
 
 ### Hoek van je zadel
 
-> Wijst de punt van je zadel naar boven, dan kan dat tot rugklachten  leiden. Staat de punt omlaag dan worden je handen, polsen en schouders  (over)belast.
+> Wijst de punt van je zadel naar boven, dan kan dat tot rugklachten leiden. Staat de punt omlaag dan worden je handen, polsen en schouders (over)belast.
 
 Zadels horen in basis gewoon horizontaal. Een **waterpas** is handig om daarvoor te gebruiken. Door de bijzondere vormen van zadels kan dat soms lastig zijn. Leg een snijplank op je zadel en daarop je waterpas. Of gebruik een **digitale waterpas**. Die kost ook maar een paar tientjes.
 

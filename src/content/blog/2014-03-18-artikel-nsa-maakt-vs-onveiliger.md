@@ -1,6 +1,6 @@
 ---
 id: 169
-title: 'Artikel: NSA maakt VS onveiliger'
+title: "Artikel: NSA maakt VS onveiliger"
 date: 2014-03-18
 author: Joris
 layout: post
@@ -9,6 +9,7 @@ permalink: /artikel-nsa-maakt-vs-onveiliger/
 categories:
   - Internet
 ---
+
 In veel berichten over de Snowden onthullingen wordt ingegaan op de manier waarop de NSA de privacy van burger schendt. Dit is alleen niet het enige probleem. Op [The Atlantic](https://www.theatlantic.com/) staat een artikel waarin wordt beschreven hoe de werkwijze van de NSA een gevaar vormt voor de nationale veiligheid van de VS. De grote geldbedragen die erin omgaan zorgen er bijvoorbeeld voor dat er voor betere vormen van terrorismebestrijding geen geld meer over is.
 
 Quoteje:

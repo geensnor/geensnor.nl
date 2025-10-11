@@ -9,6 +9,7 @@ permalink: /brain-implant-restores-control-of-paralyzed-muscles/
 categories:
   - Internet
 ---
+
 &nbsp;
 
 <p style="text-align: left;">

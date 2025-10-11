@@ -1,6 +1,6 @@
 ---
 id: 419
-title: 'Marktplaats &#8211; voor iedereen een voordeel'
+title: "Marktplaats &#8211; voor iedereen een voordeel"
 date: 2014-05-30
 author: Erik
 layout: post
@@ -10,6 +10,7 @@ categories:
   - Spullen
   - Internet
 ---
+
 <p style="text-align: left;">
   Marktplaats neemt het allemaal niet zo nauw, blijkbaar. Zo lees ik vandaag op de corrospondent (sowieso een goede site, check alle artikelen via https://molecule.nl/decorrespondent/) dat Marktplaats netjes allemaal gebruikersgegevens van elkaar aan elkaar geeft, als je er ten minste netjes om vraagt. Dat is inderdaad &#8216;<em>voor iedereen een voordee</em>l&#8217;. De journalist in kwestie vroeg netjes inzicht in de gegevens die marktplaats over de journalist bijhield en kreeg tot zijn verbazing de historie van zichzelf én alle persoongegevens van de mensen waarmee hij zaken had gedaan/contact had gehad. Daaronder vielen onder andere ook mobiele nummers en IP adressen. Foei Marktplaats!
 </p>

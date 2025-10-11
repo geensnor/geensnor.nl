@@ -4,16 +4,16 @@ title: Ode aan e-paper
 author: Joris
 permalink: /ode-aan-epaper/
 categories:
- - Spullen
- - Internet
+  - Spullen
+  - Internet
 ---
 
-Ow e-paper, wat ben je toch een fantastische technologie. Minimalistisch, energiezuinig, subtiel, stijlvol en duidelijk. Iedereen kent e-paper natuurlijk van de e-readers. Maar ook op andere plekken vertoont de bon vivant onder de schermen zijn kunsten. Ik wil jullie graag meenemen op een reis langs de fine fleur van e-reader toepassingen. 
+Ow e-paper, wat ben je toch een fantastische technologie. Minimalistisch, energiezuinig, subtiel, stijlvol en duidelijk. Iedereen kent e-paper natuurlijk van de e-readers. Maar ook op andere plekken vertoont de bon vivant onder de schermen zijn kunsten. Ik wil jullie graag meenemen op een reis langs de fine fleur van e-reader toepassingen.
 
 ## Krant aan de muur
 
 ![voorpagina New York Times](https://miro.medium.com/max/700/0*JYoKeC540vHfobsk)
-Max Braun is ook een fan. Hij heeft een enorm e-paper scherm van E-ink (E-ink is een bedrijf wat e-paper schermen maakt) aan de muur gehangen waarop elke ochtend de voorpagina van de New York Times wordt getoond. Super gaaf idee natuurlijk. Het frame is van beton en daarvoor heeft hij een scherm van 31,2 inch gemaakt. Het geheel wordt aangestuurd door een [speciaal](https://shopkits.eink.com/product/v5-system-board/) bordje van 500 dollar. Het [scherm zelf](https://shopkits.eink.com/product/31-2%cb%9d-monochrome-epaper-display-va3200-qaa/) was ook 1500 dollar, dus echt goedkoop was het project niet. Maar Max werkt bij Google dus we hoeven geen medelijden met hem te hebben. 
+Max Braun is ook een fan. Hij heeft een enorm e-paper scherm van E-ink (E-ink is een bedrijf wat e-paper schermen maakt) aan de muur gehangen waarop elke ochtend de voorpagina van de New York Times wordt getoond. Super gaaf idee natuurlijk. Het frame is van beton en daarvoor heeft hij een scherm van 31,2 inch gemaakt. Het geheel wordt aangestuurd door een [speciaal](https://shopkits.eink.com/product/v5-system-board/) bordje van 500 dollar. Het [scherm zelf](https://shopkits.eink.com/product/31-2%cb%9d-monochrome-epaper-display-va3200-qaa/) was ook 1500 dollar, dus echt goedkoop was het project niet. Maar Max werkt bij Google dus we hoeven geen medelijden met hem te hebben.
 
 Voor de rest doet het scherm niets en zitten er ook geen knoppen aan. Maar zoals Max zelf altijd zegt:
 
@@ -44,4 +44,3 @@ Sinds kort heb ik het bovenstaande horloge. De [Fossil Hybrid HR](https://partne
 Tot zover mijn tour langs deze mooie toepassingen. Ben je enthousiast geworden en wil je meer horen over e-paper, dan raad ik je de onderstaande aflevering van Een Podcast over Media. In deze aflevering leuteren Alexander Klopping en Ernst-Jan Pfauth hier nog een tijdje over door.
 
 <iframe src="https://art19.com/shows/een-podcast-over-media/episodes/195d9231-6ac3-461e-987e-f8340964a60a/embed?theme=light-custom" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
-

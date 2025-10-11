@@ -1,6 +1,6 @@
 ---
 id: 618
-title: 'NCSC&#8230;daar maak je vrienden mee!'
+title: "NCSC&#8230;daar maak je vrienden mee!"
 date: 2014-10-15
 author: Erik
 layout: post
@@ -9,6 +9,7 @@ permalink: /ncsc-daar-maak-je-vrienden-mee/
 categories:
   - Internet
 ---
+
 <img class="alignnone" src="https://www.linuxpro.nl/site/wp-content/uploads/2013/12/ncsc.png" alt="" width="230" height="173" />
 
 En toen hadden we de NCSC (Nationaal cyber security centrum) in de mail van de redactie alhier. Commotie&#8230;er gebeurd weer eens wat 🙂
@@ -16,19 +17,19 @@ En toen hadden we de NCSC (Nationaal cyber security centrum) in de mail van de r
 > <p style="padding-left: 30px;">
 >   <em>Op verzoek van het Nationaal Cyber Security Centrum (NCSC) van de Nederlandse Overheid en SIDN, de beheerder van .nl-domein, informeren wij u over het volgende: uw website &#8211; geensnor.nl &#8211; is slachtoffer geworden van een zogenaamde SQL-injectie. Het NCSC adviseert u om direct maatregelen te nemen en SIDN ondersteunt dit van harte.</em>
 > </p>
-> 
+>
 > <p style="padding-left: 30px;">
 >   <em>Wat is een SQL-injectie?</em><br /> <em>&#8230;..(uitlegje . red.)</em>
 > </p>
-> 
+>
 > <p style="padding-left: 30px;">
 >   <em>Wat kunt u doen?</em><br /> <em>(handige factsheets mede mogelijk gemaakt door  de overheid. red. )</em>
 > </p>
-> 
+>
 > <p style="padding-left: 30px;">
 >   <em>Het gaat om de onderstaande link(s):</em>
 > </p>
-> 
+>
 > <p style="padding-left: 30px;">
 >   <em>02.06.2014 &#8211; &#8220;https://www.geensnor.nl/geensnor/index.php?page=bericht&iid=11718&quote=-1%27&#8221;</em>
 > </p>

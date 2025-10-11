@@ -9,6 +9,7 @@ permalink: /fred-perry-wiggins-collectie/
 categories:
   - Wielrennerij
 ---
+
 Fredje perry heeft samen met onze enfant terrible van de tour (wiggins) een kekke kledingcollectie uitgebracht met gerse polo&#8217;s, jersey&#8217;s en meer van deze. Voor een beetje stijl op de fiets.
 
 Check de <a style="line-height: 1.5em;" href="https://www.fredperry.com/eu/?opt-in=eu">Fred Perry </a>website voor de wiggins collectie

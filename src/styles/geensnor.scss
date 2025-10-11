@@ -1,7 +1,7 @@
 /*@import url("https://www.geensnor.nl/test/colors.css");*/
 
 :root {
-/* Primary tokens */
+  /* Primary tokens */
 
   /* Fonts */
   --geensnor-font-family: "Work sans", sans-serif;
@@ -34,90 +34,88 @@
 
   /* Radius */
   --geensnor-border-radius: 3px;
+}
 
+h2 {
+  font-size: var(--geensnor-font-size-xl);
+  color: var(--geensnor-oranje-100);
+  font-family: var(--geensnor-font-family-headings);
+  font-weight: var(--geensnor-font-weight-bold);
+  margin-bottom: var(--geensnor-spacing-m);
+}
 
-  }
+h3 {
+  font-size: var(--geensnor-font-size-l);
+  color: var(--geensnor-oranje-100);
+  font-family: var(--geensnor-font-family-headings);
+  font-weight: var(--geensnor-font-weight-bold);
+  margin-bottom: var(--geensnor-spacing-m);
+}
 
-  h2 {
-    font-size: var(--geensnor-font-size-xl);
-    color: var(--geensnor-oranje-100);
-    font-family: var(--geensnor-font-family-headings);
-    font-weight: var(--geensnor-font-weight-bold);
-    margin-bottom: var(--geensnor-spacing-m);
-  }
+a {
+  color: var(--geensnor-blauw-100);
+  font-family: var(--geensnor-font-family);
+}
 
-  h3 {
-    font-size: var(--geensnor-font-size-l);
-    color: var(--geensnor-oranje-100);
-    font-family: var(--geensnor-font-family-headings);
-    font-weight: var(--geensnor-font-weight-bold);
-    margin-bottom: var(--geensnor-spacing-m);
-  }
+p,
+ul,
+ol,
+table {
+  font-family: var(--geensnor-font-family);
+  font-size: var(--geensnor-font-size-m);
+  line-height: var(--geensnor-line-height);
+  color: var(--geensnor-font-color);
+}
 
-  a {
-    color: var(--geensnor-blauw-100);
-    font-family: var(--geensnor-font-family);
-  }
+li {
+  margin-bottom: var(--geensnor-spacing-m);
+}
 
-  p,
-  ul,
-  ol,
-  table {
-    font-family: var(--geensnor-font-family);
-    font-size: var(--geensnor-font-size-m);
-    line-height: var(--geensnor-line-height);
-    color: var(--geensnor-font-color);
-  }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
 
-  li {
-    margin-bottom: var(--geensnor-spacing-m);
-  }
+th,
+td {
+  border: 1px solid var(--geensnor-zwartisch);
+  padding: var(--geensnor-spacing-m);
+}
 
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
+th {
+  text-align: center;
+}
 
-  th,
-  td {
-    border: 1px solid var(--geensnor-zwartisch);
-    padding: var(--geensnor-spacing-m);
-  }
+blockquote {
+  padding: 0 1em;
+  border-left: 0.25em solid var(--geensnor-oranje-100);
+  color: var(--geensnor-grijs-100);
+  font-style: italic;
+}
 
-  th {
-    text-align: center;
-  }
+code:not(pre > code) {
+  padding: 5px;
+  color: var(--geensnor-oranje-100);
+  background-color: var(--geensnor-grijs-10);
+  border: 1px solid var(--geensnor-grijs-50);
+  border-radius: var(--geensnor-border-radius);
+  font-size: var(--geensnor-font-size-xs);
+}
 
-  blockquote {
-    padding: 0 1em;
-    border-left: 0.25em solid var(--geensnor-oranje-100);
-    color: var(--geensnor-grijs-100);
-    font-style: italic;
-  }
+pre {
+  display: block;
+  padding: var(--geensnor-spacing-m);
 
-  code:not(pre > code) {
-    padding: 5px;
-    color: var(--geensnor-oranje-100);
-    background-color: var(--geensnor-grijs-10);
-    border: 1px solid var(--geensnor-grijs-50);
-    border-radius: var(--geensnor-border-radius);
-    font-size: var(--geensnor-font-size-xs);
-  }
-
-  pre {
-    display: block;
-    padding: var(--geensnor-spacing-m);
-
-    font-size: var(--geensnor-font-size-xs);
-    line-height: var(--geensnor-line-height);
-    word-break: break-all;
-    word-wrap: break-word;
-    white-space: pre;
-    white-space: pre-wrap;
-    background-color: var(--geensnor-grijs-10);
-    border: 1px solid var(--geensnor-grijs-50);
-    border-radius: var(--geensnor-border-radius);
-  }
+  font-size: var(--geensnor-font-size-xs);
+  line-height: var(--geensnor-line-height);
+  word-break: break-all;
+  word-wrap: break-word;
+  white-space: pre;
+  white-space: pre-wrap;
+  background-color: var(--geensnor-grijs-10);
+  border: 1px solid var(--geensnor-grijs-50);
+  border-radius: var(--geensnor-border-radius);
+}
 
 /* Layout */
 .container {
@@ -136,9 +134,7 @@ main {
 
 footer {
   grid-row: 3;
-
 }
-
 
 img {
   max-width: 100%;

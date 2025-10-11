@@ -20,7 +20,7 @@ Ik weet niet zeker of [Tom Critchlow's](https://tomcritchlow.com) tuin de eerste
 
 Wat een Digitale Tuin precies is, weet ik ook niet. Het is in elk geval belangrijk dat je een website hebt waaraan je kennis en ervaringen toevoegd. Een soort Wiki dus. Actualiteit (blogs...) en interactie zijn minder belangrijk. Of zoals digitale tuinman [Joel Hooks](https://joelhooks.com/digital-garden) het zo mooi zegt:
 
->The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
+> The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
 
 en
 

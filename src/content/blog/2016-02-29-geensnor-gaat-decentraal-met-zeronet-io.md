@@ -1,6 +1,6 @@
 ---
 id: 807
-title: '[update] Geensnor gaat decentraal met zeronet.io'
+title: "[update] Geensnor gaat decentraal met zeronet.io"
 date: 2016-02-29
 author: Joris
 layout: post
@@ -9,6 +9,7 @@ permalink: /geensnor-gaat-decentraal-met-zeronet-io/
 categories:
   - Internet
 ---
+
 <a href="https://www.geensnor.nl/wp/wp-content/uploads/2016/02/zeronet.png" rel="attachment wp-att-806"><img class="alignright size-full wp-image-806" src="https://www.geensnor.nl/wp/wp-content/uploads/2016/02/zeronet.png" alt="zeronet" width="411" height="174" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2016/02/zeronet.png 411w, https://www.geensnor.nl/wp/wp-content/uploads/2016/02/zeronet-300x127.png 300w" sizes="(max-width: 411px) 100vw, 411px" /></a>
 
 **Update 7-3**

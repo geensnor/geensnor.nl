@@ -1,6 +1,6 @@
 ---
 id: 932
-title: 'Geensnor legt uit: Mastodon en Activitypub'
+title: "Geensnor legt uit: Mastodon en Activitypub"
 date: 2018-11-15
 author: Joris
 layout: post
@@ -10,6 +10,7 @@ image: /wp-content/uploads/2018/11/1_th31TZyv3o_G_Q1UVv4JeQ-339x372.png
 categories:
   - Internet
 ---
+
 [<img class="alignright size-full wp-image-938" src="https://www.geensnor.nl/wp/wp-content/uploads/2018/11/1_th31TZyv3o_G_Q1UVv4JeQ-e1542312614178.png" alt="" width="150" height="193" />](https://www.geensnor.nl/wp/wp-content/uploads/2018/11/1_th31TZyv3o_G_Q1UVv4JeQ-e1542312614178.png)Het internet staat vol met alternatieven voor Twitter en Facebook. Telkens wanneer er [#ophef](https://www.bright.nl/nieuws/artikel/4485866/facebook-nepnieuws-soros-apple-rusland-desinformatie) is, dreigt iedereen massaal te vertrekken van beide netwerken. Mastodon is ook weer zo&#8217;n nieuw sociaal netwerk, maar wel eentje die werkt met Activitypub waardoor er wat meer achter zit dan de zoveelste Facebook-maar-dan-niet-Facebook.
 
 # Mastodon

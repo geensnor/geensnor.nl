@@ -9,7 +9,8 @@ permalink: /man-maakt-grootste-toeter-ter-wereld/
 categories:
   - Vertier
 ---
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"> 
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 
 <div class="wp-block-embed__wrapper">
   <span class="embed-youtube" style="text-align:center; display: block;"></span>

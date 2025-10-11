@@ -9,6 +9,7 @@ permalink: /terrible-real-estate-agent-photographs/
 categories:
   - Internet
 ---
+
 &nbsp;
 
 <p style="text-align: center;">

@@ -1,6 +1,6 @@
 ---
 id: 605
-title: 'Review: Garmin Vivosmart &#8211; UPDATE 2016'
+title: "Review: Garmin Vivosmart &#8211; UPDATE 2016"
 date: 2016-01-09
 author: Joris
 layout: post
@@ -9,6 +9,7 @@ permalink: /review-garmin-vivosmart/
 categories:
   - Spullen
 ---
+
 <img class="alignright" src="https://sites.garmin.com/vivo/m/g/vivosmart-choose-blue-1x.png" alt="" width="514" height="283" />**Update januari 2016**
 
 In de 1,5 jaar dat ik hem gehad heb, is hij twee keer kapot gegaan. Het schermpje blijkt niet zo lang mee te gaan. Het was een mooi licht dingetje, maar niet erg duurzaam dus.

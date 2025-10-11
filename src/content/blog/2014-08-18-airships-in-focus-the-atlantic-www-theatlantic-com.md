@@ -1,6 +1,6 @@
 ---
 id: 566
-title: 'Airships &#8211; In Focus &#8211; The Atlantic [www.theatlantic.com]'
+title: "Airships &#8211; In Focus &#8211; The Atlantic [www.theatlantic.com]"
 date: 2014-08-18
 author: Erik
 layout: post
@@ -9,6 +9,7 @@ permalink: /airships-in-focus-the-atlantic-www-theatlantic-com/
 categories:
   - Internet
 ---
+
 Zeppelins. Zeppelins zijn tof. Je kan bijna niet geloven dat ze hebben bestaan maar deze fotoserie bewijst het tegendeel. Een hele toffe collectie plaatjes kijken dus.
 
 <p style="text-align: center;">

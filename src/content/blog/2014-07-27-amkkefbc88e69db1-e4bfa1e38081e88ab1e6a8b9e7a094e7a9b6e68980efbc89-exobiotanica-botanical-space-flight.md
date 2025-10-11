@@ -5,10 +5,11 @@ date: 2014-07-27
 author: Erik
 layout: post
 guid: https://www.geensnor.nl/wp/?p=543
-permalink: '/amkk%ef%bc%88%e6%9d%b1-%e4%bf%a1%e3%80%81%e8%8a%b1%e6%a8%b9%e7%a0%94%e7%a9%b6%e6%89%80%ef%bc%89-exobiotanica-botanical-space-flight/'
+permalink: "/amkk%ef%bc%88%e6%9d%b1-%e4%bf%a1%e3%80%81%e8%8a%b1%e6%a8%b9%e7%a0%94%e7%a9%b6%e6%89%80%ef%bc%89-exobiotanica-botanical-space-flight/"
 categories:
   - Kunst
 ---
+
 &nbsp;
 
 <p style="text-align: center;">

@@ -9,6 +9,7 @@ permalink: /achja-metallica/
 categories:
   - Muziek
 ---
+
 Man man wat een hoop commotie weer zo op een zondag avondje ergens in juni. Pinkpop ging ten onder aan de horror onweerwolk des doods waar superlatieven te kort schoten en waar het enige wat een beetje belangrijk was of Metallica nog zou spelûh&#8230;.
 
 Metallica, dat is waar ook. Daar luisterden wij bij Geensnor vroeger altijd naar. Metal yeah! W00t. Later zijn we via een elektronisch omweg uiteindelijk zover dat we alleen maar weëige zeikmuziek luisteren en naar de Dijk gaan. We worden ook een jaartje ouder zullen we maar zeggen.

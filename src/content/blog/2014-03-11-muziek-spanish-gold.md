@@ -1,6 +1,6 @@
 ---
 id: 182
-title: 'Muziek: Spanish Gold'
+title: "Muziek: Spanish Gold"
 date: 2014-03-11
 author: Joris
 layout: post
@@ -9,4 +9,5 @@ permalink: /muziek-spanish-gold/
 categories:
   - Muziek
 ---
+
 Deuntje lijkt een beetje op Rockwell &#8211; Somebody&#8217;s watching me. Maar het is wel cool.

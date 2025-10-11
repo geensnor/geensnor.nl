@@ -1,6 +1,6 @@
 ---
 id: 563
-title: 'The Gyroscope In Your Smartphone Can Be Easily Used To Spy On You [gizmodo.com]'
+title: "The Gyroscope In Your Smartphone Can Be Easily Used To Spy On You [gizmodo.com]"
 date: 2014-08-15
 author: Erik
 layout: post
@@ -9,6 +9,7 @@ permalink: /the-gyroscope-in-your-smartphone-can-be-easily-used-to-spy-on-you-gi
 categories:
   - Internet
 ---
+
 Blijk je de hele boel lekker op orde te hebben op je telefoon. Je mail achter encryptie, alles two factor authenticeren, alle apps expliciet toegang geven tot je camera of microphone..blijkt de gyroscope opeens te gebruiken te zijn als microphone..
 
 Wetenschappers zijn er in geslaagd (zo begint elk stuk) om de gyroscope, waar geen expliciete toegang voor nodig is in IOS of Android, te misbruiken als mic. Dat blijkt trouwens niet de eerste keer te zjin dat daar dingen mis mee zijn:

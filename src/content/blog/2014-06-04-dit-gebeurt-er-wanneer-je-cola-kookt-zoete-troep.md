@@ -1,6 +1,6 @@
 ---
 id: 441
-title: 'Dit gebeurt er wanneer je cola kookt &#8211; zoete troep'
+title: "Dit gebeurt er wanneer je cola kookt &#8211; zoete troep"
 date: 2014-06-04
 author: Erik
 layout: post
@@ -9,9 +9,8 @@ permalink: /dit-gebeurt-er-wanneer-je-cola-kookt-zoete-troep/
 categories:
   - Internet
 ---
+
 Eigenlijk is cola maar troep. Iedereen weet dat natuurlijk maar dit filmpje maakt het eigenlijk maar eng duidelijk. Want man man man wat een hoop suiker zit daar in. Russian hacker kookt pannetje cola (0.5 l) en toont het resultaat.
-
-
 
 Melk in je cola is trouwens ook niet aan te raden blijkt.
 
