@@ -7,5 +7,9 @@
     "yaml": false,
     "plaintext": false,
     "markdown": false
-  }
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": ["astro", "html", "markdown", "javascript", "typescript"]
 }
