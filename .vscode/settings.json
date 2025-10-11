@@ -11,5 +11,12 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
   },
-  "eslint.validate": ["astro", "html", "markdown", "javascript", "typescript"]
+  "eslint.validate": [
+    "astro",
+    "html",
+    "markdown",
+    "javascript",
+    "typescript",
+    "css"
+  ]
 }

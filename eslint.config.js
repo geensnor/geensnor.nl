@@ -29,6 +29,9 @@ export default defineConfig([
     plugins: { markdown },
     language: "markdown/commonmark",
     extends: ["markdown/recommended"],
+    rules: {
+      "markdown/no-missing-label-refs": "off",
+    },
   },
   {
     files: ["**/*.css"],
