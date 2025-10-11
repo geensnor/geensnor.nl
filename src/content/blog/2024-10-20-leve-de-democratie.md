@@ -2,7 +2,8 @@
 date: 2024-10-20
 title: Leve de democratie
 author: Joris
-categories: Politiek
+categories:
+  - Politiek
 ---
 
 Een polemiek....

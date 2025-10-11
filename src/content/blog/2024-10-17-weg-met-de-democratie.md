@@ -2,9 +2,10 @@
 date: 2024-10-17
 title: Weg met de democratie
 author: Erik
-categories: Politiek
-
+categories:
+  - Politiek
 ---
+
 Update 20 oktober: Onderstaande is herschreven met chatgpt maar eigenlijk bevalt mij dat helemaal niet. Alleen het orgineel is foetsie, dus we doen het er toch maar mee :)
 
 Een overpeinzing...
