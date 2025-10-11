@@ -2,7 +2,7 @@ import Parser from "rss-parser";
 
 // 2. Mastodon feed ophalen
 const feedUrl = "https://mastodon.xyz/@geensnor.rss";
-let mastodonItems = [];
+const mastodonItems = [];
 
 const parser = new Parser({
   customFields: {
