@@ -29,6 +29,9 @@ export default defineConfig([
     plugins: { markdown },
     language: "markdown/commonmark",
     extends: ["markdown/recommended"],
+    languageOptions: {
+      frontmatter: "yaml",
+    },
     rules: {
       "markdown/no-missing-label-refs": "off",
     },
