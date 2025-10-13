@@ -27,8 +27,7 @@ export default defineConfig([
   {
     files: ["**/*.md"],
     plugins: { markdown },
-    language: "markdown/commonmark",
-    extends: ["markdown/recommended"],
+    language: "markdown/gfm",
     languageOptions: {
       frontmatter: "yaml",
     },
