@@ -46,7 +46,7 @@ export default defineConfig([
     plugins: {
       astro,
     },
-    extends: ["astro/recommended"],
+    extends: ["astro/all"],
     rules: {
       "@typescript-eslint/no-explicit-any": "off",
     },
