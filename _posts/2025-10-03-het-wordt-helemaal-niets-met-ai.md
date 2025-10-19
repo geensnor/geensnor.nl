@@ -16,3 +16,5 @@ Als we [het laatste artikel](https://www.wheresyoured.at/the-case-against-genera
 4. Van de 440 miljoen mensen die Microsoft producten gebruiken, betalen er maar 8 miljoen voor de AI producten van Microsoft. Dat levert maar 3 miljard omzet op terwijl Microsoft per kwartaal 27 miljard winst maakt!
 
 Waarschijnlijk dus een enorme bubbel die ergens de komende tijd gaat knappen. We gaan het meemaken...
+
+Edit 19 oktober: Artikel op NRC: [AI: de zeepbel die te groot wordt om te knappen](https://www.nrc.nl/nieuws/2025/10/17/ai-de-zeepbel-die-te-groot-wordt-om-te-knappen-a4909794)
