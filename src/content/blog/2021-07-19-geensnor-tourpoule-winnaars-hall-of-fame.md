@@ -12,7 +12,7 @@ Update: Uitslagen staan [hier](https://www.dedigitaletuin.nl/uitslagen-wielren-p
 
 De Tour is afgelopen en de winnaar van 2021 is:
 
-### Klaas!
+## Klaas!
 
 Gefeliciteerd Klaas! Dit jaar is niet de eerste keer dat Klaas het hoogste podium beklimt. Sterker nog, Klaas heeft al drie keer eerder gewonnen. Een absolute alleenheerser in Tour voorspellingen op Geensnor dus!
 

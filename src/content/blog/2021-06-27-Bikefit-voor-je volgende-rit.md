@@ -10,7 +10,7 @@ Ik heb een racefiets vanaf 2001 ongeveer en heb de afgelopen jaren eindeloos vee
 
 **Uiteindelijk stel je de fiets in hoofdlijnen in, maar ben je vervolgens echt nog een tijd bezig om alles extra fijn af te stellen.** Trek daar tijd voor uit, neem imbussleutels mee als je gaat fietsen en ga gewoon voorzichtig kleine dingen aanpassen. Pas niet te veel in 1x aan, anders ben je het overzicht kwijt.
 
-# Fiets Afstellen
+## Fiets Afstellen
 
 ## De volgorde van het afstellen van je fiets
 

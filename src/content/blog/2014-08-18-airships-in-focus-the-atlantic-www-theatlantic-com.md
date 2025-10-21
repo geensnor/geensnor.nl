@@ -16,4 +16,4 @@ Zeppelins. Zeppelins zijn tof. Je kan bijna niet geloven dat ze hebben bestaan m
   <a href="https://www.theatlantic.com/infocus/2013/10/airships/100607/"><img src='https://www.geensnor.nl/wp/wp-content/uploads/2014/08/s_a01_60808075.jpg' alt='' /></a>
 </p>
 
-[Airships &#8211; In Focus &#8211; The Atlantic [www.theatlantic.com]](https://www.theatlantic.com/infocus/2013/10/airships/100607/).
+Airships &#8211; In Focus &#8211; The Atlantic [www.theatlantic.com](https://www.theatlantic.com/infocus/2013/10/airships/100607/).

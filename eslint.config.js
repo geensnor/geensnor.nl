@@ -27,8 +27,13 @@ export default defineConfig([
   {
     files: ["**/*.md"],
     plugins: { markdown },
-    language: "markdown/commonmark",
-    extends: ["markdown/recommended"],
+    language: "markdown/gfm",
+    languageOptions: {
+      frontmatter: "yaml",
+    },
+    rules: {
+      "markdown/no-missing-label-refs": "off",
+    },
   },
   {
     files: ["**/*.css"],
@@ -41,7 +46,7 @@ export default defineConfig([
     plugins: {
       astro,
     },
-    extends: ["astro/recommended"],
+    extends: ["astro/all"],
     rules: {
       "@typescript-eslint/no-explicit-any": "off",
     },

@@ -1,6 +1,6 @@
 ---
 import { getCollection } from "astro:content";
-import { Kop } from "@geensnor/astro-componenten";
+import { Kop, Lijstitem } from "@geensnor/astro-componenten";
 
 const { categorie, maxBerichten } = Astro.props;
 
@@ -17,15 +17,15 @@ const posts = (await getCollection("blog"))
 ---
 
 <div>
-  <Kop Type="h2" id={categorie}>{categorie}</Kop>
+  <Kop id={categorie} Type="h2">{categorie}</Kop>
   <ul>
     {
       posts.slice(0, maxBerichten).map((post: any) => (
-        <li>
-          <a href={post.id} class="categorie-link">
+        <Lijstitem>
+          <a class="categorie-link" href={post.id}>
             {post.data.title}
           </a>
-        </li>
+        </Lijstitem>
       ))
     }
   </ul>

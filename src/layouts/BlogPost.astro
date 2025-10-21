@@ -6,9 +6,6 @@ import { Kop } from "@geensnor/astro-componenten";
 
 const { post } = Astro.props;
 const { Content } = await render(post);
-const categories = Array.isArray(post.rendered.metadata.frontmatter.categories)
-  ? post.rendered.metadata.frontmatter.categories
-  : [post.rendered.metadata.frontmatter.categories];
 ---
 
 <article>

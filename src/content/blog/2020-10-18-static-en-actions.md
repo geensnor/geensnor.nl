@@ -18,11 +18,11 @@ Nou, dat kan dus met [GitHub Actions](https://github.com/features/actions). Met 
 
 De onvolprezen ontwikkelafdeling van geensnor.nl heeft het onderstaande scriptje in de [repository](https://github.com/geensnor/geensnor.nl/blob/master/.github/workflows/main.yml) gezet. Hierdoor wordt elke nacht om 12:01 een Webhook van Netlify aangeroepen die de hele handel van GitHub afhaalt en opnieuw op [Netlify](https://geensnor.netlify.app/) zet. Op die manier wordt de site opnieuw in elkaar gezet en worden nieuwe berichten gepubliceerd. Je zou hier bijvoorbeeld ook nog wat voor Slack, Telegram, Twitter ofzo aan toe kunnen voegen.
 
-```
+```yaml
 name: Trigger Netlify Build
 on:
   schedule:
-    - cron: '1 0 * * *' # Elke nacht om 0:01
+    - cron: "1 0 * * *" # Elke nacht om 0:01
 jobs:
   build:
     name: Request Netlify Webhook
