@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths:
-      - 'src/**'
+      - "src/**"
 name: Publish Geensnor
 permissions:
   contents: read
@@ -19,12 +19,11 @@ jobs:
       - name: Install, build, and upload your site
         uses: withastro/action@v2
       - name: FTP-Deploy-Action
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
           server: ${{ secrets.ftpserver }}
           username: ${{ secrets.ftpusername }}
           password: ${{ secrets.ftppassword }}
           dangerous-clean-slate: false
           local-dir: ./dist/
-          concurrency: 1
           timeout: 60000
