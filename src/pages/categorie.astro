@@ -30,9 +30,14 @@ const categorieen = [
 </Main>
 <style>
   .container {
-    display: grid; /* or inline-flex */
-    grid-columns: 2;
-    grid-gap: 2rem;
-    grid-template-columns: 50% 50%;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 720px) {
+    .container {
+      grid-template-columns: 1fr;
+    }
   }
 </style>
