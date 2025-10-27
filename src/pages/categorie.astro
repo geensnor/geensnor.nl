@@ -2,6 +2,7 @@
 import Main from "../layouts/Main.astro";
 import CategorieEnBerichten from "../components/CategorieEnBerichten.astro";
 import { getCollection } from "astro:content";
+import Categorieen from "../components/Categorieen.astro";
 
 const categorieen = [
   ...new Set(
@@ -20,6 +21,7 @@ const categorieen = [
 ---
 
 <Main>
+  <Categorieen />
   <div class="container">
     {
       categorieen.map((categorie: unknown) => (

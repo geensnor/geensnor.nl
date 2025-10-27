@@ -1,0 +1,45 @@
+---
+import { getCollection } from "astro:content";
+import { Kop } from "@geensnor/astro-componenten";
+
+// Get all unique categories from blog posts
+const categories = [
+  ...new Set(
+    (await getCollection("blog"))
+      .map((post) => {
+        const categories = post.data.categories;
+        if (Array.isArray(categories)) {
+          return categories;
+        }
+        return categories ? [categories] : [];
+      })
+      .flat()
+      .sort(),
+  ),
+];
+console.log(categories);
+---
+
+<Kop Type="h1">Categorieën</Kop>
+<div class="categorie-container">
+  {
+    categories.map((category: string) => (
+      <a class="category" href={`/categorie#${category}`}>
+        {category}
+      </a>
+    ))
+  }
+</div>
+
+<style>
+  .categorie-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+  }
+  a.category:link {
+    margin: 0.25rem;
+  }
+</style>
