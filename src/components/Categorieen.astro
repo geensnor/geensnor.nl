@@ -2,7 +2,6 @@
 import { getCollection } from "astro:content";
 import { Kop } from "@geensnor/astro-componenten";
 
-// Get all unique categories from blog posts
 const categories = [
   ...new Set(
     (await getCollection("blog"))
@@ -14,17 +13,16 @@ const categories = [
         return categories ? [categories] : [];
       })
       .flat()
-      .sort(),
+      .sort()
   ),
 ];
-console.log(categories);
 ---
 
 <Kop Type="h1">Categorieën</Kop>
 <div class="categorie-container">
   {
     categories.map((category: string) => (
-      <a class="category" href={`/categorie#${category}`}>
+      <a class="category" href={`/categorie/#${category}`}>
         {category}
       </a>
     ))
