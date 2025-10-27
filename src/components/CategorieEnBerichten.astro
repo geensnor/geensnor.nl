@@ -22,7 +22,7 @@ const posts = (await getCollection("blog"))
     {
       posts.slice(0, maxBerichten).map((post: any) => (
         <Lijstitem>
-          <a class="categorie-link" href={post.id}>
+          <a href={`./${post.id}`} class="categorie-link">
             {post.data.title}
           </a>
         </Lijstitem>
