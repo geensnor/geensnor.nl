@@ -26,7 +26,7 @@ export default defineConfig({
         "astro:build:start": () => {
           // Even De Snor op z'n plek zetten zodat hij als favicon gebruikt kan worden
           const sourcePath = path.resolve(
-            "node_modules/@geensnor/astro-componenten/assets/de-snor.svg"
+            "node_modules/@geensnor/astro-componenten/assets/de-snor.svg",
           );
           const destPath = path.resolve("public/favicon.svg");
           copyFileSync(sourcePath, destPath);
