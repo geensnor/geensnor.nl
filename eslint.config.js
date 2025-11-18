@@ -30,6 +30,9 @@ export default defineConfig([
       markdownPlugin,
     },
     extends: ["markdownPlugin/recommended"],
+    rules: {
+      "markdown/no-missing-label-refs": "off",
+    },
   },
   {
     files: ["**/*.css"],
