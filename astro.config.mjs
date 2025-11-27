@@ -8,6 +8,11 @@ import path from "path";
 
 // https://astro.build/config
 export default defineConfig({
+  vite: {
+    ssr: {
+      noExternal: ["@geensnor/tokens", "@fontsource-variable/work-sans"],
+    },
+  },
   base: "",
   site: "https://www.geensnor.nl",
   markdown: {
