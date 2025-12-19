@@ -2,7 +2,6 @@ import js from "@eslint/js";
 import globals from "globals";
 import tseslint from "typescript-eslint";
 import json from "@eslint/json";
-import markdownPlugin from "@eslint/markdown";
 import css from "@eslint/css";
 import { defineConfig } from "eslint/config";
 import astro from "eslint-plugin-astro";
@@ -24,16 +23,7 @@ export default defineConfig([
     language: "json/json",
     extends: ["json/recommended"],
   },
-  {
-    files: ["**/*.md"],
-    plugins: {
-      markdownPlugin,
-    },
-    extends: ["markdownPlugin/recommended"],
-    rules: {
-      "markdown/no-missing-label-refs": "off",
-    },
-  },
+ 
   {
     files: ["**/*.css"],
     plugins: { css },
