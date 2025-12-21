@@ -3,7 +3,8 @@
     "astro-build.astro-vscode",
     "unifiedjs.vscode-mdx",
     "esbenp.prettier-vscode",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "unifiedjs.vscode-remark"
   ],
   "unwantedRecommendations": []
 }

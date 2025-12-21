@@ -15,7 +15,7 @@ categories:
 
 > Een chatbot kan voor gebruikers veel voordelen opleveren in elke stap van de klantreis.
 
-_Muriel Serrurier Schepper november 2018_
+Muriel Serrurier Schepper november 2018
 
 Volgens mij slaat Muriel daar de spijker op z'n kop (meer daarover trouwens in
 [Erik's klushoekje](pages/klushoekje.html)) en daarom heeft Geensnor vanaf nu ook z'n eigen chatbot! Het is er eentje die op Telegram verblijft en waar iedereen gratis en voor niets tegenaan kan praten. Hij is op dit moment vooral goed in weetjes vertellen. Verder wijst hij ook een beetje de weg in alles Geensnor. Hier kun je hem toevoegen: [https://www.telegram.me/geensnorbot](https://www.telegram.me/geensnorbot)

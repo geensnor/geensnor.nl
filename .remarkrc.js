@@ -5,7 +5,6 @@ import remarkPresetLintMarkdownStyleGuide from "remark-preset-lint-markdown-styl
 // rules imports
 import remarkLintMaximumHeadingLength from "remark-lint-maximum-heading-length";
 import remarkLintUnorderedListMarkerStyle from "remark-lint-unordered-list-marker-style";
-import remarkLintNoUndefinedReferences from "remark-lint-no-undefined-references";
 import remarkLintLinkTitleStyle from "remark-lint-link-title-style";
 import remarkLintMaximumLineLength from "remark-lint-maximum-line-length";
 import remarkLintListItemSpacing from "remark-lint-list-item-spacing";
@@ -14,7 +13,7 @@ import remarkLintNoFileNameMixedCase from "remark-lint-no-file-name-mixed-case";
 import remarkLintNoUtm from "./remark-rules/remark-lint-no-utm.js";
 import remarkLintOrderedListMarkerValue from "remark-lint-ordered-list-marker-value";
 import remarkLintListItemIndent from "remark-lint-list-item-indent";
-
+import remarkLintEmphasisMarker from "remark-lint-emphasis-marker";
 
 const config = {
   plugins: [
@@ -39,6 +38,7 @@ const config = {
     [remarkLintNoFileNameMixedCase, false],
     [remarkLintOrderedListMarkerValue, false],
     [remarkLintListItemIndent, false],
+    [remarkLintEmphasisMarker, false],
   ],
 };
 

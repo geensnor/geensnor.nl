@@ -15,6 +15,6 @@ Whitey is een engelse producer van electro/rock/pop/nog een muziekgenre. Een erg
 
 Daarnaast was hij altijd nogal eigenwijs en vond hij dat Spotify en vergelijkbare diensten artiesten altijd uitknepen. Dat mag wel zo zijn, maar daardoor heb ik de laatste jaren niet zoveel meer naar hem geluisterd.
 
-**Maar alles is gelukkig goed gekomen!**
+## Maar alles is gelukkig goed gekomen!
 
 Sinds mei is hij helemaal om. Hij heeft alles op Spotify gegooid en is zelfs met nieuwe muziek gekomen. Lekker bezig Whitey. Ga dat luisteren mensen want het is erg vet!
