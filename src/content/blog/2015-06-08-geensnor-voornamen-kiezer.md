@@ -22,10 +22,10 @@ Nu kun je ook een geslacht kiezen! Super fijn.
 
 Ik zoek ook nog een goede domeinnaam. Als iemand ideeen heeft kun je die in de reacties kwijt.
 
-**Update 17-2-2015**
+## Update 17-2-2015
 
 Het domein is gevonden. Het is dus <a href="https://www.voornaamgenerator.nl" target="_blank">www.voornaamgenerator.nl</a>. Voor de rest is de site een beetje mooier gemaakt en zie je nu meer dan de laatste 10 namen.
 
-**Update 9-6-2015**
+## Update 9-6-2015
 
 Onder aan de pagina staan nu de meest populaire meisjes- en jongensnamen van de afgelopen 100 dagen. Deze worden uiteraard gegenereerd op basis van de namen waarbij &#8220;leuk&#8221;  wordt gekozen.

@@ -30,48 +30,10 @@ Door het kleine schermpje en de beperkte functionaliteit gaat de batterij relati
 
 Om te kijken hoe nauwkeurig hij is, heb ik een stukje gelopen met de iPhone app Moves aan. Google maps gaf aan dat het stukje 1,4 km was.
 
-<table>
-  <tr>
-    <th>
-    </th>
-    
-    <th>
-      Stappen
-    </th>
-    
-    <th>
-      Afstand
-    </th>
-  </tr>
-  
-  <tr>
-    <td>
-      Vivosmart
-    </td>
-    
-    <td>
-      1941
-    </td>
-    
-    <td>
-      1,59
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      Moves
-    </td>
-    
-    <td>
-      1681
-    </td>
-    
-    <td>
-      1,6
-    </td>
-  </tr>
-</table>
+|           | Stappen | Afstand |
+| --------- | ------- | ------- |
+| Vivosmart | 1941    | 1,59    |
+| Moves     | 1681    | 1,6     |
 
 Eigenlijk zegt dit niets over de nauwkeurigheid want ik weet niet wie er gelijk heeft qua stappen. De afstand wel erg dicht bij elkaar. Zo dicht dat ik denk dat ze beide gewoon naar de GPS van m&#8217;n telefoon kijken. Zou interessanter worden als ik een keer 1,6 km door een parkeergarage (ergens waar geen GPS is) loop en dan kijk wat ze aangeven. Maar daar heb ik geen zin in.
 
