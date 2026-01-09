@@ -74,7 +74,7 @@ import { Desnor } from "@geensnor/astro-componenten";
     height: 30px;
     z-index: 1;
     width: 100%;
-    height: 4rem;
+    min-height: 4rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -83,7 +83,6 @@ import { Desnor } from "@geensnor/astro-componenten";
 
   nav a {
     color: white;
-    text-decoration: none;
     font-size: var(--geensnor-font-size-l);
   }
 
@@ -113,7 +112,6 @@ import { Desnor } from "@geensnor/astro-componenten";
 
   .social-links a {
     color: white;
-
     padding: 1em 0.5em;
   }
 
@@ -123,6 +121,9 @@ import { Desnor } from "@geensnor/astro-componenten";
     }
     #logo {
       display: none;
+    }
+    nav {
+      justify-content: center;
     }
   }
 </style>
