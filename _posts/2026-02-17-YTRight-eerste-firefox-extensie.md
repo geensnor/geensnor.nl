@@ -6,7 +6,7 @@ categories:
   - Internet
 ---
 
-![YTRight](../assets/posts/YTright.jpg)
+![YTRight](../assets/posts/YTright.jpeg)
 
 TL;DR: Nieuwe firefox plugin gemaakt om advertenties te skippen op YT [https://addons.mozilla.org/en-US/firefox/addon/ytright/](https://addons.mozilla.org/en-US/firefox/addon/ytright/)
 
