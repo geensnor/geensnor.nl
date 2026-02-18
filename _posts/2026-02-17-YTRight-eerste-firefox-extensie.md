@@ -6,8 +6,6 @@ categories:
   - Internet
 ---
 
-![YTRight](../assets/posts/YTright.jpeg)
-
 TL;DR: Nieuwe firefox plugin gemaakt om advertenties te skippen op YT [https://addons.mozilla.org/en-US/firefox/addon/ytright/](https://addons.mozilla.org/en-US/firefox/addon/ytright/)
 
 Dus het is 2026 en een beetje normaal video's kijken op youtube zit er eigenlijk al [jaren](https://brisktechsol.com/youtube-ads-are-getting-worse/) [niet](https://www.verdict.co.uk/analyst-comment/youtube-ad-heavy-drives-user-abandonment/) [meer](https://www.youtube-nocookie.com/watch?v=64gvdXFE9P4) [in](https://www.youtube-nocookie.com/watch?v=6R1PRg_8Eqg). Een beetje video heeft al snel 5 tot 7 videos (voorheen 2-3) die je om de minuut in je smoel krijgt gedrukt en uiteraard minimaal tig seconde moet kijken voordat je eindelijk op de skip knop kan klikken. Eigenlijk bestaat video kijken op youtube vooral wachten op het moment dat je dat ene skip knopje ziet, wat een tamelijk treurige constatering is. En als het dan nog een beetje aan te zien was allemaal maar nee hoor. De hele tijd die enorme treurige droeftoeter die zegt dat duizenden andere Nederlanders mij voor gingen en dat grote bedrijven niet willen dat ik iets weet. 1 dikke bak stront dus...dat hele youtube en verschrikkelijk irritant dat je toch bent aangewezen op die poel des verderf als je gewoon geinige [lego filmpjes](https://www.youtube-nocookie.com/embed/6bjLbQCxSQA?playlist=6bjLbQCxSQA&autoplay=1&iv_load_policy=3&loop=1&start=) of [nerd filmpjes](youtube.com/@lgr) wilt kijken. Tijd om dit varkentje te wassen en gewoon weer filmpjes te kunnen kijken. 
