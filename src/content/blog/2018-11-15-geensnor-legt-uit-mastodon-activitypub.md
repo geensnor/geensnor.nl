@@ -1,12 +1,8 @@
 ---
-id: 932
 title: "Geensnor legt uit: Mastodon en Activitypub"
 date: 2018-11-15
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=932
-permalink: /geensnor-legt-uit-mastodon-activitypub/
-image: /wp-content/uploads/2018/11/1_th31TZyv3o_G_Q1UVv4JeQ-339x372.png
+slug: /geensnor-legt-uit-mastodon-activitypub/
 categories:
   - Internet
 ---
@@ -21,7 +17,7 @@ Mastodon heeft ook Android en iOS apps. Dit is de fijnste voor iOS:&nbsp;<https:
 
 ## Activitypub
 
-So far so good. Sociaalnetwerkje, beetje decentraal, instanties, dingetjes, etc.. Maar dan&#8230; Mastodon werkt met [Activitypub](https://en.wikipedia.org/wiki/ActivityPub). Activitypub is een &#8220;sociaal netwerk protocol&#8221; dat bijna goedgekeurd is door de W3C. Activitypub zorgt er niet alleen voor dat de Mastodon instanties met elkaar kunnen praten, maar zorgt ervoor dat alles met elkaar kan praten. Elke blog, sociaal netwerk, wiki, instagram clone, cloud toepassing, notitie appje, whatever, krijgt een &#8220;sociaal sausje&#8221; zodra het Activitypub implementeert. En dat is best wel cool (vind [ik](https://mastodon.social/@reithose) dan&#8230;). Dit betekent dat al die toepassingen likes, retweets, reacties, gebruikers, etc. kunnen uitwisselen. De reacties op een tweet (&#8220;Toot&#8221; in Mastodon trouwens) in Mastodon zijn bijvoorbeeld dezelfde reacties als de reacties onder een video op Peertube (Youtube clone). Alsof je je in Youtube kan abonneren op iemands Instagram! Een van de bekendere Facebook-maar-dan-niet-Facebooks van dit moment, Diaspora, is ook druk bezig met Activitypub.
+So far so good. Sociaalnetwerkje, beetje decentraal, instanties, dingetjes, etc.. Maar dan&#8230; Mastodon werkt met [Activitypub](https://en.wikipedia.org/wiki/ActivityPub). Activitypub is een &#8220;sociaal netwerk protocol&#8221; dat bijna goedgekeurd is door de W3C. Activitypub zorgt er niet alleen voor dat de Mastodon instanties met elkaar kunnen praten, maar zorgt ervoor dat alles met elkaar kan praten. Elke blog, sociaal netwerk, wiki, instagram clone, cloud toepassing, notitie appje, whatever, krijgt een &#8220;sociaal sausje&#8221; zodra het Activitypub implementeert. En dat is best wel cool (vind [ik](https://mastodon.social/@reithose) dan&#8230;). Dit betekent dat al die toepassingen likes, retweets, reacties, gebruikers, etc. kunnen uitwisselen. De reacties op een tweet (&#8220;Toot&#8221; in Mastodon trouwens) in Mastodon zijn bijvoorbeeld dezelfde reacties als de reacties onder een video op PeerTube (YouTube clone). Alsof je je in YouTube kan abonneren op iemands Instagram! Een van de bekendere Facebook-maar-dan-niet-Facebooks van dit moment, Diaspora, is ook druk bezig met Activitypub.
 
 Of dit allemaal zo groot gaat worden als de bekende sociale netwerken valt natuurlijk te betwijfelen. Maar het is in elk geval een nieuwe manier om naar het hele sociale gebeuren op internet te kijken.
 

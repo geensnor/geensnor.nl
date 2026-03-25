@@ -8,7 +8,7 @@ categories:
 
 ![hermie](https://scuttlebutt.nz/images/app-icons/hermiepatchwork.svg)
 
-Wij van Geensnor zijn we fan van decentrale oplossingen. Het is ons niet snel té decentraal. [Mastodon](https://geensnor.netlify.app/geensnor-legt-uit-mastodon-activitypub/) is leuk, maar het mag nog wel een tandje decentraler. Scuttlebutt is een sociaal netwerk die nog een paar stappen verder gaat dan Mastodon.
+Wij van Geensnor zijn we fan van decentrale oplossingen. Het is ons niet snel té decentraal. [Mastodon](https://blog.geensnor.nl/geensnor-legt-uit-mastodon-activitypub/) is leuk, maar het mag nog wel een tandje decentraler. Scuttlebutt is een sociaal netwerk die nog een paar stappen verder gaat dan Mastodon.
 
 Scuttlebutt is niet federated maar echt decentraal. Dit betekent dat alle content van je eigen netwerk op je telefoon (of laptop) staat. Verbinding maken met anderen doe je door keys uit te wisselen. Er zijn verschillende manieren om keys uit te wisselen. Je kan je public key aan iemand geven, je Scuttlebutt client kan op een Wifi netwerk anderen ontdekken of je kan direct een verbinding maken via bluetooth. Ook kun je keys uitwisselen met "vrienden van vrienden". Dit ontdekken is een belangrijke eigenschap van Scuttlebutt. Het idee is dat je netwerk ontstaat door "echte" interacties in plaats van door het toevoegen van mensen vanaf een centrale server. Je kan dus ook informatie binnen je netwerk uitwisselen zonder ooit met het internet verbonden te zijn. Erg vet!
 

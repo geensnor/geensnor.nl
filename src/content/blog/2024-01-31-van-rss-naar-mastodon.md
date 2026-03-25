@@ -15,6 +15,6 @@ Andersom is het lastiger. De RSS feed moet regelmatig worden controleerd op nieu
 
 ## Houtje touwtje
 
-Omdat ik te skeer ben voor een webhoster met Nodejs ondersteuning, heb ik mijn Synology NAS aan het werk gezet. Tussen 10:00 en 22:00 draait hij nu elke twee uur Echo. In Echo heb ik de [RSS feed](https://geensnor.netlify.app/feed.xml)- en [Mastodon account](https://mastodon.xyz/@geensnor) van geensnor.nl geconfigureerd zodat we de Fediverse geautomatiseerd volpompen met berichten van geensnor.nl
+Omdat ik te skeer ben voor een webhoster met Nodejs ondersteuning, heb ik mijn Synology NAS aan het werk gezet. Tussen 10:00 en 22:00 draait hij nu elke twee uur Echo. In Echo heb ik de [RSS feed](https://blog.geensnor.nl/rss.xml)- en [Mastodon account](https://mastodon.xyz/@geensnor) van geensnor.nl geconfigureerd zodat we de Fediverse geautomatiseerd volpompen met berichten van geensnor.nl
 
 En zo hebben we weer wat los spul aan elkaar geknoopt.....
