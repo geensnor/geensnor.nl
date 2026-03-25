@@ -7,7 +7,7 @@ categories:
   - Geensnor
 ---
 
-![Astro, heel vet](/src/assets/posts/astro.png)
+![Astro, heel vet](../../assets/posts/astro.png)
 
 Nadat [De Digitale Tuin](https://www.dedigitaletuin.nl) al jaren over was, hebben we nu ook de blog overgezet naar Astro. Stukje consolidatie van de stack zullen we maar zeggen. Tot voor kort maakte we gebruik van Jekyll, maar daar was geen land meer mee te bezeilen.
 
