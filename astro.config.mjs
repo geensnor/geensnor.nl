@@ -8,6 +8,9 @@ import path from "path";
 
 // https://astro.build/config
 export default defineConfig({
+  redirects: {
+    "/alle-berichten": "/categorie",
+  },
   vite: {
     ssr: {
       noExternal: ["@geensnor/tokens", "@fontsource-variable/work-sans"],
