@@ -2,6 +2,7 @@
 title: Geen AI op Geensnor
 author: Joris
 date: 2025-05-18
+slug: geen-ai-op-geensnor
 categories:
   - Internet
   - Handig
