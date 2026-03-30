@@ -65,7 +65,7 @@ Zonder WiFi verbinding begin je natuurlijk niet zoveel. Volgen deze stappen om v
 2. Maak een bestand aan met de volgende naam: wpa_supplicant.conf
 3. Open het bestand met een texteditor en zet het volgende erin
 
-   ```conf
+   ```plaintext
    update_config=1
    ctrl_interface=/var/run/wpa_supplicant
 
@@ -96,7 +96,7 @@ Hier wordt het allemaal wat lastiger. Je Pi-hole werkt het beste als hij een sta
    In dit bestand kun je een vast IP adres opgegven. Het kan zijn dat je weer het wachtwoord moet opgeven.
 6. Onderaan het bestand moet je het volgende neerzetten
 
-```conf
+```plaintext
 interface wlan0
         static ip_address=192.168.1.1
         static routers=192.168.1.254
