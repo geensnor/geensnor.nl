@@ -7,7 +7,7 @@ categories:
   - Geensnor
 ---
 
-![Daft punk](../../assets/posts/daft-punk.png)
+![Robot speelt piano, of toch niet...?](../../assets/posts/robot-pianist.jpg)
 
 Och och och, AI. In elk gesprek komt het wel even aan bod. En je kunt er ook zoveel mee. En het gaat natuurlijk het werk veranderen. En dan nog de investeringen allemaal. Tjonge jonge, het is me allemaal wat.
 
