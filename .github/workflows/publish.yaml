@@ -14,10 +14,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "lts/*"
       - name: Checkout your repository using git
-        uses: actions/checkout@v4
-      - name: Install, build, and upload your site
-        uses: withastro/action@v2
+        uses: actions/checkout@v6
+      - name: Install, build, and upload your site output
+        uses: withastro/action@v6
       - name: FTP-Deploy-Action
         uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
