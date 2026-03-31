@@ -12,7 +12,7 @@ const { Content } = await render(post);
   <div class="prose">
     <div class="title">
       <Kop Type={"h1"}>
-        <a href={'/' + post.id}>{post.data.title}</a>
+        <a href={"/" + post.id}>{post.data.title}</a>
       </Kop>
       <div class="post-meta">
         {post.data.author} op <FormattedDate date={post.data.date} />
