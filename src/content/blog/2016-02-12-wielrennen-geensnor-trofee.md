@@ -1,16 +1,13 @@
 ---
-id: 115
 title: "[wielrennen] Geensnor Trofee"
 date: 2016-02-12
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=115
 permalink: /wielrennen-geensnor-trofee/
 categories:
   - Wielrennerij
 ---
 
-**Update februari 2016**
+## Update februari 2016
 
 Nog later dan voorgaande jaren. De uitslag van de Geensnor Trofee! **Klaas** is net als in 2013 de winnaar. Ik heb gegrepen dat hij het knikje al heeft ontvangen.
 
@@ -21,11 +18,11 @@ We hebben geen nieuwe Geensnor Trofee omdat 15km hard fietsen meer te maken hee
 De uitslag van alle jaren blijft uiteraard gewoon hier staan:  
 <https://www.geensnor.nl/wp/stand-geensnor-challenge-2014>
 
-**Update januari 2015**
+## Update januari 2015
 
 Een beetje later dan gebruikelijk, maar ook dit jaar heeft iemand weer de Geensnor Trofee gewonen. Niet sneller dan 2013, maar wel de snelste van 2014:
 
-**Hans!**
+> Hans!
 
 Hans jongen, gefeliciteerd! 15 kilometer fietsen in een kleine 20 minuten, de redactie van Geensnor doet het je niet na. Geniet van je prijs en hopelijk doe je in 2015 ook weer mee. De Geensnor Trofee van 2014 had trouwens een curiositeitje. Erik en ik waren precies even snel. Hoe bizar.
 

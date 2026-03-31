@@ -3,8 +3,6 @@ id: 672
 title: De voornaamgenerator
 date: 2015-06-08
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=672
 permalink: /geensnor-voornamen-kiezer/
 categories:
   - Internet
@@ -16,7 +14,7 @@ Als je naar <a href="https://www.voornaamgenerator.nl" target="_blank">www.voor
 
 Je kan geen geslacht kiezen, maar dat wordt er binnenkort misschien nog ingebouwd.
 
-**Update 20-1-2015**
+## Update 20-1-2015
 
 Nu kun je ook een geslacht kiezen! Super fijn.
 

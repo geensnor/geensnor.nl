@@ -1,10 +1,7 @@
 ---
-id: 645
 title: "Woensdagse weetjes&#8230;nu mogelijk op alle dagen!"
 date: 2014-12-15
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=645
 permalink: /woensdagse-weetjes-nu-mogelijk-op-alle-dagen/
 categories:
   - Geensnor
