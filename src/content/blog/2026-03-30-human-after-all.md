@@ -39,4 +39,5 @@ De gedachte achter deze lijst is
 
 - [human.json](https://codeberg.org/robida/human.json)
 - [Wikipedia is ook klaar gegenereerde teksten](https://tweakers.net/nieuws/246214/wikipediaschrijvers-mogen-geen-ai-meer-gebruiken.html)
+- [Don't Let AI Write For You](https://alexhwoods.com/dont-let-ai-write-for-you/)
 - [AI Slop Blocklist uBlock Origin](https://github.com/alvi-se/ai-ublock-blacklist)
