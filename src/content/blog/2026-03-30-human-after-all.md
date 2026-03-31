@@ -33,7 +33,7 @@ De gedachte achter deze lijst is
 
 > The key idea is simple: if I wanted my question to be answered by AI, I would ask AI.
 
-[uBlock Origin](https://ublockorigin.com/) is sowieso een aanrader als je iets om je privacy en advertentievrij browser geeft.
+[uBlock Origin](https://ublockorigin.com/) is sowieso een aanrader als je iets om je privacy en advertentievrij browsen geeft.
 
 ## Links
 
