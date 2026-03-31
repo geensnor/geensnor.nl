@@ -84,7 +84,6 @@ pre {
 /* Layout */
 .container {
   display: grid;
-
   min-height: 100vh;
 }
 
@@ -109,6 +108,19 @@ img {
 
 article img {
   min-width: 50%;
+}
+
+article footer {
+  margin-top: 2em;
+  font-size: var(--geensnor-font-size-l);
+  display: flex;
+  justify-content: center;
+}
+
+article footer a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
 }
 
 h1 a,
