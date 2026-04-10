@@ -5,6 +5,7 @@ import sitemap from "@astrojs/sitemap";
 import { copyFileSync } from "fs";
 import pagefind from "astro-pagefind";
 import path from "path";
+import astroBrokenLinksChecker from "astro-broken-links-checker";
 
 // https://astro.build/config
 export default defineConfig({
@@ -24,6 +25,10 @@ export default defineConfig({
     },
   },
   integrations: [
+    astroBrokenLinksChecker({
+      checkExternalLinks: false,
+      throwError: true
+    }),
     pagefind(),
     mdx(),
     sitemap(),
