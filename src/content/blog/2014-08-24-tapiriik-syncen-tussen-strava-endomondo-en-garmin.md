@@ -21,4 +21,4 @@ Daar liepen meer mensen tegen aan en dus ontwikkelde iemand [tapiriik](https://w
 
 &nbsp;
 
-[dashboard • tapiriik [tapiriik.com]](https://tapiriik.com/).
+[tapiriik.com](https://tapiriik.com/).

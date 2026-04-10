@@ -18,4 +18,4 @@ Wetenschappers zijn er in geslaagd (zo begint elk stuk) om de gyroscope, waar ge
 
 &nbsp;
 
-[The Gyroscope In Your Smartphone Can Be Easily Used To Spy On You [gizmodo.com]](https://gizmodo.com/the-gyroscope-in-your-smartphone-can-be-easily-used-to-1622053612).
+[The Gyroscope In Your Smartphone Can Be Easily Used To Spy On You gizmodo.com](https://gizmodo.com/the-gyroscope-in-your-smartphone-can-be-easily-used-to-1622053612).
