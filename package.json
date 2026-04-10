@@ -8,7 +8,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "lint": "npx eslint ./src --fix",
-    "lint:md": "npx remark ./src/content/blog/",
+    "lint:md": "npx remark ./src/content/blog/ --quiet",
     "format": "npx prettier ./src --write"
   },
   "dependencies": {
