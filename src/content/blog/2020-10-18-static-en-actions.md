@@ -8,7 +8,7 @@ categories:
   - Internet
 ---
 
-Als je zoals geensnor.nl een static site [hebt](/geensnor-gaat-static/), kun je niet zomaar meer dynamische dingen doen. Uitgesteld publiceren of automatisch een berichtje plaatsen op [Twitter](https://twitter.com/geensnor) werken niet meer omdat je site gewoon een beetje static staat te staan de hele tijd. Hoe zorg je er dan voor dat de boel af en toe toch nog een beetje in beweging komt? Een beetje "action" zo je wilt.....
+Als je zoals geensnor.nl een static site [hebt](/2020-09-25-geensnor-gaat-static), kun je niet zomaar meer dynamische dingen doen. Uitgesteld publiceren of automatisch een berichtje plaatsen op [Twitter](https://twitter.com/geensnor) werken niet meer omdat je site gewoon een beetje static staat te staan de hele tijd. Hoe zorg je er dan voor dat de boel af en toe toch nog een beetje in beweging komt? Een beetje "action" zo je wilt.....
 
 ## GitHub Actions
 

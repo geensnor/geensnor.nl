@@ -27,7 +27,7 @@ Dus met andere woorden: na een jaar heb je hem terugverdiend. Aanschaffen dus! E
 
 ## Jaja, de makers
 
-Ja, de makers ja. De makers zijn dezelfde stevelingen die onlangs nog de [site van Omloop De Snor](https://www.omloopdensnor) naar het pantheon der moderniteit hebben verheven, door hem om te bouwen in Astro, opgeleukt met een krokantje van TailwindCSS. Als je hier meer van wilt weten, kun je [het bericht hieronder](/omloop-opgefrist) lezen.
+Ja, de makers ja. De makers zijn dezelfde stevelingen die onlangs nog de [site van Omloop De Snor](https://www.omloopdensnor.nl) naar het pantheon der moderniteit hebben verheven, door hem om te bouwen in Astro, opgeleukt met een krokantje van TailwindCSS. Als je hier meer van wilt weten, kun je [het bericht hieronder](/2022-09-30-omloop-opgefrist) lezen.
 
 Voor de [stroomkosten besparing berekenen tool](https://stroomkosten-besparing-berekenen.vercel.app/) (hmm, misschien nog een goede naam verzinnen), hebben ze iets vergelijkbaars gedaan. Behalve Astro en TailwindCSS, hebben ze in dit geval ook nog wat [Svelte](https://svelte.dev/) gebruikt. Svelte biedt net wat meer mogelijkheden en werkt verder heel prima. Als je ook geinig webdingen wilt maken, zou ik er zeker eens naar kijken.
 

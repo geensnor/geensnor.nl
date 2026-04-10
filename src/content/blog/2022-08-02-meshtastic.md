@@ -9,7 +9,7 @@ categories:
 
 ![Meshtastic ding](../../assets/posts/mashtastic-ding.jpg)
 
-Zoals [eerder gezegd](/Scuttlebutt) houden wij wel van een beetje DIY en decentrale toestanden. [Mashtastic](https://meshtastic.org) past in dat straatje. Want zoals ze zelf zeggen:
+Zoals [eerder gezegd](/2021-09-25-scuttlebutt) houden wij wel van een beetje DIY en decentrale toestanden. [Mashtastic](https://meshtastic.org) past in dat straatje. Want zoals ze zelf zeggen:
 
 > Meshtastic is an off-grid, encrypted communication platform that runs open source software on affordable radios. These radios rebroadcast messages they receive in order to create a mesh network.
 

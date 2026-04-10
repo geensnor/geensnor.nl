@@ -18,7 +18,7 @@ categories:
 Muriel Serrurier Schepper november 2018
 
 Volgens mij slaat Muriel daar de spijker op z'n kop (meer daarover trouwens in
-[Erik's klushoekje](pages/klushoekje.html)) en daarom heeft Geensnor vanaf nu ook z'n eigen chatbot! Het is er eentje die op Telegram verblijft en waar iedereen gratis en voor niets tegenaan kan praten. Hij is op dit moment vooral goed in weetjes vertellen. Verder wijst hij ook een beetje de weg in alles Geensnor. Hier kun je hem toevoegen: [https://www.telegram.me/geensnorbot](https://www.telegram.me/geensnorbot)
+[Erik's klushoekje](/categorie/#Klushoekje)) en daarom heeft Geensnor vanaf nu ook z'n eigen chatbot! Het is er eentje die op Telegram verblijft en waar iedereen gratis en voor niets tegenaan kan praten. Hij is op dit moment vooral goed in weetjes vertellen. Verder wijst hij ook een beetje de weg in alles Geensnor. Hier kun je hem toevoegen: [https://www.telegram.me/geensnorbot](https://www.telegram.me/geensnorbot)
 
 eel succes ermee en misschien gaan we ervoor zorgen dat hij in de toekomst nog veel meer kan!
 

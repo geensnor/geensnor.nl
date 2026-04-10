@@ -7,7 +7,7 @@ categories:
   - Geensnor
 ---
 
-Soms lijkt het wel alsof een statische website meer problemen oplevert, dan het oplost. Zo hebben we eerder al problemen met [zoeken](/zoeken-met-pagefind) en reageren moeten omzeilen. In deze aflevering van de serie "Waarom kan dit _ook_ al niet met met mijn statische site?":
+Soms lijkt het wel alsof een statische website meer problemen oplevert, dan het oplost. Zo hebben we eerder al problemen met [zoeken](/2023-05-01-zoeken-met-pagefind) en reageren moeten omzeilen. In deze aflevering van de serie "Waarom kan dit _ook_ al niet met met mijn statische site?":
 
 Eenvoudig een link delen
 
@@ -23,7 +23,7 @@ Kortom, ellende.
 
 ## De oplossing
 
-De oplossing hangt [weer](/van-rss-naar-mastodon) van hacks en amateurisme aan elkaar, maar is daardoor niet minder charmant:
+De oplossing hangt [weer](/2024-01-31-van-rss-naar-mastodon) van hacks en amateurisme aan elkaar, maar is daardoor niet minder charmant:
 
 1. Via een [Apple Opdracht](https://www.icloud.com/shortcuts/ece60ec4630d4592a1c3bf26f3ba5b43) haal je de link op van de pagina die je wilt delen. Omdat je de opdracht in het "deelmenu" van iOS kan zetten, kun je eigenlijk alles wat je tegenkomt, in elke app, via de opdracht versturen.
 2. De Apple Opdracht stuurt je link via de url door naar [een formulier](https://next.geensnor.nl/snelbericht/). Dit formulier is eigenlijk een soort mini CMS die alles om zet naar een Markdown bestand met de juiste inhoud. In het formulier kun je de titel en omschrijving nog aanpassen.
@@ -34,7 +34,7 @@ Elk bericht krijgt nu standaard de tag "Internet" mee, maar dat kan ook nog getw
 
 ### Extra bonus
 
-Soms is de link die je wilt delen, een YouTube video. Deze wil je natuurlijk het liefst mooi embedden in je site, maar zoals we al [eerder hebben uitgelegd](/privacy-action), gaat dat niet zonder de hele AVG op je nek te krijgen. Maar gelukkig hebben we daarvoor ook een oplossing gevonden! Niet alleen wordt een YouTube link gedetecteerd en automatisch geëmbed. Hij wordt ook automatisch omgezet naar het [youtube-nocookie.com](youtube-nocookie.com) domein, zodat er niet zomaar cookies worden geplaatst. Helemaal makkelijk, helemaal super!
+Soms is de link die je wilt delen, een YouTube video. Deze wil je natuurlijk het liefst mooi embedden in je site, maar zoals we al [eerder hebben uitgelegd](/2023-03-27-privacy-action), gaat dat niet zonder de hele AVG op je nek te krijgen. Maar gelukkig hebben we daarvoor ook een oplossing gevonden! Niet alleen wordt een YouTube link gedetecteerd en automatisch geëmbed. Hij wordt ook automatisch omgezet naar het [youtube-nocookie.com](https://www.youtube-nocookie.com) domein, zodat er niet zomaar cookies worden geplaatst. Helemaal makkelijk, helemaal super!
 
 ## Meer lezen
 

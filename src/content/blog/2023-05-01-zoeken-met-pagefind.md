@@ -7,7 +7,7 @@ categories:
   - Handig
 ---
 
-Sinds kort heeft geensnor.nl ook een [zoekfunctie](pages/alle_berichten.html). Omdat de boel al weer drie jaar statisch is, kunnen we niet eenvoudig een query loslaten op de database. Toch is het ons gelukt om een fraaie zoekfunctie neer te zetten. Hoe? Lees snel verder!
+Sinds kort heeft geensnor.nl ook een [zoekfunctie](/zoeken). Omdat de boel al weer drie jaar statisch is, kunnen we niet eenvoudig een query loslaten op de database. Toch is het ons gelukt om een fraaie zoekfunctie neer te zetten. Hoe? Lees snel verder!
 
 Om een zoekfunctie op een statische website te maken, zijn er eigenlijk twee opties.
 
@@ -41,4 +41,4 @@ Omdat geensnor.nl een Jekyll site is, krijg je dit als build command bij Netlify
 
 `jekyll build && npm install && npm run postbuild`
 
-Het eindresultaat staat op de [alle berichten](pages/alle_berichten.html) pagina. Zoekze!
+Het eindresultaat staat op de [zoeken](/zoeken) pagina. Zoekze!

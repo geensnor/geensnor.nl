@@ -9,7 +9,7 @@ categories:
 
 ![bubble zoals misschien AI een bubbel is...](../../assets/posts/braedon-mcleod-zjq0I3XupiI-unsplash.jpg)
 
-Als we [het laatste artikel](https://www.wheresyoured.at/the-case-against-generative-ai/) van [Ed Zitron](https://www.wheresyoured.at/) moeten geloven, wordt het helemaal niets met AI. In elk geval bedrijfseconomisch niet. In dit [lijvige artikel](<(https://www.wheresyoured.at/the-case-against-generative-ai/)>) (leestijd 71 minuten...oef...) beschrijft hij een aantal problemen met generatieve AI:
+Als we [het laatste artikel](https://www.wheresyoured.at/the-case-against-generative-ai/) van [Ed Zitron](https://www.wheresyoured.at/) moeten geloven, wordt het helemaal niets met AI. In elk geval bedrijfseconomisch niet. In dit [lijvige artikel](https://www.wheresyoured.at/the-case-against-generative-ai/) (leestijd 71 minuten...oef...) beschrijft hij een aantal problemen met generatieve AI:
 
 1. Eigenlijk zit alleen NVIDIA er warmpjes bij. Bij de rest vliegt het geld met bakken tegelijk het raam uit.
 2. De zeven belangrijkste AI bedrijven verwachten dit jaar ongeveer net zoveel omzet te maken als de smartwatch markt. Met iets meer dan 30 miljard een mooi bedrag, maar veel te weinig om alle investeringen te rechtvaardigen.
