@@ -1,4 +1,3 @@
-// @ts-check
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
@@ -27,12 +26,11 @@ export default defineConfig({
   integrations: [
     astroBrokenLinksChecker({
       checkExternalLinks: false,
-      throwError: true
+      throwError: true,
     }),
     pagefind(),
     mdx(),
     sitemap(),
-
     {
       name: "copy-favicon",
       hooks: {
