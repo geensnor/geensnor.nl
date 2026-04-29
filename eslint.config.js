@@ -8,22 +8,20 @@ import astro from "eslint-plugin-astro";
 
 export default defineConfig([
   {
-    files: ["**/*.{js,mjs,cjs,ts,mts,cts}"],
+    files: ["**/*.{js,mjs,cjs,ts,mts,cts,astro}"],
     plugins: { js },
-    extends: ["js/recommended"],
+    extends: ["js/recommended", ...tseslint.configs.recommended],
     languageOptions: { globals: globals.browser },
     rules: {
       "@typescript-eslint/no-explicit-any": "off",
     },
   },
-  tseslint.configs.recommended,
   {
     files: ["**/*.json"],
     plugins: { json },
     language: "json/json",
     extends: ["json/recommended"],
   },
- 
   {
     files: ["**/*.css"],
     plugins: { css },
@@ -32,9 +30,7 @@ export default defineConfig([
   },
   {
     files: ["**/*.astro"],
-    plugins: {
-      astro,
-    },
+    plugins: { astro },
     extends: ["astro/all"],
     rules: {
       "@typescript-eslint/no-explicit-any": "off",
