@@ -14,11 +14,10 @@ export async function GET(context) {
       .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
       .map(async (post) => {
         return {
-          ...post.data,
+          title: post.data.title,
           link: `/blog/${post.id}/`,
-          content: sanitizeHtml(parser.render(post.body || ""), {
-            allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
-          }),
+          pubDate: post.data.date,
+          description: `<![CDATA[${sanitizeHtml(parser.render(post.body || ""))}]]>`,
         };
       }),
   );
@@ -26,6 +25,7 @@ export async function GET(context) {
   return rss({
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
+    customData: "<language>nl-NL</language>",
     xmlns: {
       content: "http://purl.org/rss/1.0/modules/content/",
     },
