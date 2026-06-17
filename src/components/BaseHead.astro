@@ -23,7 +23,7 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 <link href="/sitemap-index.xml" rel="sitemap" />
 <link href="/human.json" rel="human-json" />
 <link
-  href={new URL("rss.xml", Astro.site)}
+  href="/rss.xml"
   rel="alternate"
   title={SITE_TITLE}
   type="application/rss+xml"
