@@ -23,7 +23,7 @@
     "astro": "^6.1.10",
     "astro-broken-links-checker": "^1.1.0",
     "astro-pagefind": "^1.8.6",
-    "markdown-it": "^14.1.1",
+    "markdown-it": "^14.2.0",
     "remark-cli": "^12.0.1",
     "remark-frontmatter": "^5.0.0",
     "remark-lint": "^10.0.1",
