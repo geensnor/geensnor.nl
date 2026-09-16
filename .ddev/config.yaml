@@ -20,6 +20,8 @@ use_dns_when_possible: true
 
 web_environment:
   - __VITE_ADDITIONAL_SERVER_ALLOWED_HOSTS=geensnor.ddev.site
+  - CHOKIDAR_USEPOLLING=true
+  - CHOKIDAR_INTERVAL=300
 
 web_extra_daemons:
   - name: astro
