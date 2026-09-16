@@ -1,0 +1,34 @@
+name: geensnor
+
+type: generic
+docroot: .
+webserver_type: generic
+
+php_version: "8.4"
+nodejs_version: "22"
+corepack_enable: false
+
+omit_containers:
+  - db
+
+xdebug_enabled: false
+
+additional_hostnames: []
+additional_fqdns: []
+
+use_dns_when_possible: true
+
+web_environment:
+  - __VITE_ADDITIONAL_SERVER_ALLOWED_HOSTS=geensnor.ddev.site
+
+web_extra_daemons:
+  - name: astro
+    command: npm run dev -- --host 0.0.0.0
+    directory: /var/www/html
+    http_port: 4321
+
+web_extra_exposed_ports:
+  - name: astro
+    container_port: 4321
+    http_port: 4321
+    https_port: 4322
