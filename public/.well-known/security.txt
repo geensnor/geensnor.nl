@@ -1,0 +1,4 @@
+Contact: https://blog.geensnor.nl/meer/
+Preferred-Languages: nl, en
+Canonical: https://geensnor.nl/.well-known/security.txt
+Expires: 2027-09-16T00:00:00.000Z
