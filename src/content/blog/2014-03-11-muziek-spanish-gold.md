@@ -10,4 +10,4 @@ categories:
   - Muziek
 ---
 
-Deuntje lijkt een beetje op Rockwell &#8211; Somebody&#8217;s watching me. Maar het is wel cool.
+Deuntje lijkt een beetje op Rockwell - Somebody's watching me. Maar het is wel cool.

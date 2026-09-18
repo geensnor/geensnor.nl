@@ -1,6 +1,6 @@
 ---
 id: 630
-title: "Too Many Cooks | Adult Swim &#8211; YouTube"
+title: "Too Many Cooks | Adult Swim - YouTube"
 date: 2014-11-12
 author: Erik
 layout: post
@@ -14,4 +14,4 @@ Ik weet het niet precies&#8230;maar hebben opeens 2 miljoen mensen naar gekeken 
 
 &nbsp;
 
-[Too Many Cooks | Adult Swim &#8211; YouTube](https://www.youtube-nocookie.com/watch?v=QrGrOK8oZG8).
+[Too Many Cooks | Adult Swim - YouTube](https://www.youtube-nocookie.com/watch?v=QrGrOK8oZG8).

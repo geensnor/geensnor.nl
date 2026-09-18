@@ -14,7 +14,7 @@ categories:
   <img class="aligncenter" alt="" src="https://www.bloovi.be/frontend/files/userfiles/images/Schermafbeelding%202014-03-18%20om%2012_48_16(1).png" width="753" height="500" />
 </p>
 
-Kennen we joost of joox nog? Toptijden. Beetje makkelijk video&#8217;s streamen en geen gedoe met downloaden. Nu is daar Popcorn time.  Torrents direct streamen vanuit de fraaie app.
+Kennen we joost of joox nog? Toptijden. Beetje makkelijk video's streamen en geen gedoe met downloaden. Nu is daar Popcorn time.  Torrents direct streamen vanuit de fraaie app.
 
 Dat mocht natuurlijk niet van de mensen. Maar dat bleek toch geen probleem
 

@@ -1,6 +1,6 @@
 ---
 id: 342
-title: "Nog meer live camera&#8217;s. Visjes!"
+title: "Nog meer live camera's. Visjes!"
 date: 2014-05-12
 author: Erik
 layout: post
@@ -13,7 +13,7 @@ categories:
 &nbsp;
 
 <p style="text-align: center;">
-  We hadden al de camera&#8217;s vanaf het ISS. Maar aangezien die de helft van de tijd geen ontvangst heeft en dus grijs is kunnen we in de tussentijd kijken naar de vissies van een of ander rif.
+  We hadden al de camera's vanaf het ISS. Maar aangezien die de helft van de tijd geen ontvangst heeft en dus grijs is kunnen we in de tussentijd kijken naar de vissies van een of ander rif.
 </p>
 
 [Live Cameras](https://reefcam.tv/cameras/).

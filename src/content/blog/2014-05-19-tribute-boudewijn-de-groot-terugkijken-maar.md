@@ -1,6 +1,6 @@
 ---
 id: 396
-title: "Tribute Boudewijn de Groot &#8211; terugkijken"
+title: "Tribute Boudewijn de Groot - terugkijken"
 date: 2014-05-19
 author: Erik
 layout: post

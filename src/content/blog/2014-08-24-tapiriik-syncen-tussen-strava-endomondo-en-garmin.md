@@ -1,6 +1,6 @@
 ---
 id: 574
-title: "tapiriik &#8211; Syncen tussen strava, endomondo en Garmin"
+title: "tapiriik - Syncen tussen strava, endomondo en Garmin"
 date: 2014-08-24
 author: Erik
 layout: post

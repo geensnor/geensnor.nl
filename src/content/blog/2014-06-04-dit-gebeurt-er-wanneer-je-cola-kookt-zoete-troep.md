@@ -1,6 +1,6 @@
 ---
 id: 441
-title: "Dit gebeurt er wanneer je cola kookt &#8211; zoete troep"
+title: "Dit gebeurt er wanneer je cola kookt - zoete troep"
 date: 2014-06-04
 author: Erik
 layout: post

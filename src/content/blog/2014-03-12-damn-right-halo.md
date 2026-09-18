@@ -1,6 +1,6 @@
 ---
 id: 206
-title: "Damn Right! &#8211; Halo"
+title: "Damn Right! - Halo"
 date: 2014-03-12
 author: Erik
 layout: post

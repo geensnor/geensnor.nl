@@ -10,7 +10,7 @@ categories:
   - Wielrennerij
 ---
 
-[Violette Merino Jersey Orange](https://www.cafeducycliste.com/en/product/Violette-jersey-orange). Hele slicke jersey&#8217;s bij cafe du cycliste. Nu ik een mooie fiets heb moet ik er natuurlijk ook een beetje fancypancydandy op komen te zitten. Tijd voor gear!
+[Violette Merino Jersey Orange](https://www.cafeducycliste.com/en/product/Violette-jersey-orange). Hele slicke jersey's bij cafe du cycliste. Nu ik een mooie fiets heb moet ik er natuurlijk ook een beetje fancypancydandy op komen te zitten. Tijd voor gear!
 
 <p style="text-align: center;">
   <a href="https://www.cafeducycliste.com/en/product/Violette-jersey-orange"><img src='https://www.geensnor.nl/wp/wp-content/uploads/2014/04/534261e2-327c-4527-afde-2cde53aa4421.jpg' alt='' /></a>

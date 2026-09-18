@@ -12,7 +12,7 @@ categories:
 
 In het onderstaande filmpje legt een (erg overtuigende) kerel met een snor uit hoe je whisky moet drinken. Het blijkt dat je &#8220;hallo&#8221; moet zeggen tegen de whisky en dat je de eerste slok weg moet gooien. Omdat we op geensnor.nl prat gaan op de verdieping, duiding context, hier nog twee weetjes over whisky en landen:
 
-1. De 11 best verkochte whisky&#8217;s ter wereld komen uit India. India is gek op whisky.
+1. De 11 best verkochte whisky's ter wereld komen uit India. India is gek op whisky.
 2. India is gek op whisky maar de fransen zijn pas echt gek op whisky. In Frankrijk drinken ze het meeste whisky ter wereld.
 
 &nbsp;

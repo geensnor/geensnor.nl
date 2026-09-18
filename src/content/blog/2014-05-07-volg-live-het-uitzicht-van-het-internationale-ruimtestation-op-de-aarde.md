@@ -17,4 +17,4 @@ _<span style="color: #555555; font-family: 'Helvetica Neue', Helvetica, Arial, s
 
 <https://eol.jsc.nasa.gov/HDEV/> (het is nu nacht)
 
-[Volg live het uitzicht van het Internationale Ruimtestation op de aarde &#8211; Wetenschap & Gezondheid &#8211; VK](https://www.volkskrant.nl/vk/nl/2672/Wetenschap-Gezondheid/article/detail/3650774/2014/05/07/Volg-live-het-uitzicht-van-het-Internationale-Ruimtestation-op-de-aarde.dhtml).
+[Volg live het uitzicht van het Internationale Ruimtestation op de aarde - Wetenschap & Gezondheid - VK](https://www.volkskrant.nl/vk/nl/2672/Wetenschap-Gezondheid/article/detail/3650774/2014/05/07/Volg-live-het-uitzicht-van-het-Internationale-Ruimtestation-op-de-aarde.dhtml).

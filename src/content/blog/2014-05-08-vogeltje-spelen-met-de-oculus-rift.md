@@ -12,4 +12,4 @@ categories:
 
 Je kan natuurlijk allemaal oorlogsspelletjes gaan spelen met je VR bril. Maar misschien is het wel eens een keer aardig om te doen alsof je een vogel bent. Mensen op een duitse kunstacademie hebben daarvoor het volgende ding gemaakt
 
-[Birdly &#8211; Teaser](https://vimeo.com/91069214) from [maxR](https://vimeo.com/user25136306) on [Vimeo](https://vimeo.com).
+[Birdly - Teaser](https://vimeo.com/91069214) from [maxR](https://vimeo.com/user25136306) on [Vimeo](https://vimeo.com).

@@ -22,30 +22,30 @@ Tijd voor een opsomtopic
 >
 > AAARGH het nadoen is niet grappig!
 
-> Ow er der is ook altijd iemand die het nodig vind om flauw te doen als je koffie gaat drinken en je vraagt wat hij erin wilt, dat hij dan zegt &#8216; koffie&#8217;
+> Ow er der is ook altijd iemand die het nodig vind om flauw te doen als je koffie gaat drinken en je vraagt wat hij erin wilt, dat hij dan zegt &#8216; koffie'
 
 > Er is ook altijd wel iemand die zegt dat: &#8220;de warmte in het buitenland heel anders is dan in Nederland. In Nederland is het veel vochtiger dan in <insert land>, waardoor het veel warmer aanvoelt.&#8221;
 
 > Ow of iemand die begint over winterbanden en dat die eigenlijk helemaal niet zo veel helpen of dat het vooral ligt aan hoe mensen ermee omgaan
 >
-> maar eigenlijk is rijden/auto in het algemeen wel zo&#8217;n onderwerp wat ik wel een beetje ken inmiddels
+> maar eigenlijk is rijden/auto in het algemeen wel zo'n onderwerp wat ik wel een beetje ken inmiddels
 
 > Ook online kan men er wat van
 >
 > Er is werkelijk echt altijd iemand die in een nieuwsbericht over hackers fijntjes gaan uitleggen dat hackers != crackers zijn en dan een heel betoog gaat houden dat je die vooral niet door elkaar moet halen en dat alleen n00bs dan doen&#8230;&#8230;echt sterf met je gebetweterij!
 >
-> maar eigenlijk is rijden/auto in het algemeen wel zo&#8217;n onderwerp wat ik wel een beetje ken inmiddels
+> maar eigenlijk is rijden/auto in het algemeen wel zo'n onderwerp wat ik wel een beetje ken inmiddels
 
 > Mja, maar dat is niet helemaal waar het hier om gaat natuurlijk. Ik ben ook snel klaar als mensen over paarden, duiken of &#8230; een ander onderwerp wat mij persoonlijk niet boeit beginnen.
 
-> ja maar het verschil is dat iedereen opeens met auto&#8217;s en rijden een mening heeft en dat werkelijk iedereen het  
+> ja maar het verschil is dat iedereen opeens met auto's en rijden een mening heeft en dat werkelijk iedereen het  
 > a. beter weet  
 > b. altijd een situatie heeft meegemaakt die minimaal, maar liever nog erger is dan het gene wat jij verteld  
 > c. met compleet ongevraagde en meestal ook nog overbodige tips aankomt
 
 > oeh oeh
 >
-> In elk gezelschap is er wel iemand die zegt:&#8221;Eigenlijk wil ik gewoon een simpele, degelijke telefoon waarmee je kan bellen en SMS-en en die lang met z&#8217;n batterij doet&#8221;.
+> In elk gezelschap is er wel iemand die zegt:&#8221;Eigenlijk wil ik gewoon een simpele, degelijke telefoon waarmee je kan bellen en SMS-en en die lang met z'n batterij doet&#8221;.
 
 > Nice, en er is trouwens ook altijd wel iemand die lekker snobistisch geen televisie heeft
 
@@ -53,13 +53,13 @@ Tijd voor een opsomtopic
 
 > oeh oeh&#8230;.witte chocola. Ook altijd een bron waarbij er meestal wel een of andere betweter moet roepen dat witte chocola geen chocola is. Ga toch fietsen
 
-> Oeh oeh nog zo&#8217;n mooie. Van die flappies die altijd een heel betoog houden over fransen (of een willekeurige ander \*trots\* volk) en hun probleem met taal. En dat als je maar probeert in het frans dat het dan wel goed komt, maar als je begint in het engels dat je dan echt een lul de behanger bent. MWEH! Mensen&#8230;&#8230;.na de 100 duizendste keer ken ik dat verhaal wel een beetje. Ook heel erg van toepassing op oost europese landen trouwens.
+> Oeh oeh nog zo'n mooie. Van die flappies die altijd een heel betoog houden over fransen (of een willekeurige ander \*trots\* volk) en hun probleem met taal. En dat als je maar probeert in het frans dat het dan wel goed komt, maar als je begint in het engels dat je dan echt een lul de behanger bent. MWEH! Mensen&#8230;&#8230;.na de 100 duizendste keer ken ik dat verhaal wel een beetje. Ook heel erg van toepassing op oost Europese landen trouwens.
 
 > In elk gezelschap is er wel iemand die een keer een zin begint met &#8220;Sorry hoor, maar&#8230;..&#8221;. Alsof ze zich van tevoren al verontschuldigen voor hun uitspraak. Zeg het dan maar helemaal niet.
 
-> Er is altijd wel iemand die het nodig vind iets flauws te zeggen op een &#8216; goedemorgen&#8217; van mijn kant. Dingen als &#8221; dat maak ik zelf wel uit &#8221; , &#8221; dan weet je pas aan het eind van ochtend&#8221; etc. En zeker als je het waagt om goedemorgen te verbasteren naar &#8216;morgen. Dan krijg je altijd dingen terug als &#8216; avond &#8216;
+> Er is altijd wel iemand die het nodig vind iets flauws te zeggen op een &#8216; goedemorgen' van mijn kant. Dingen als &#8221; dat maak ik zelf wel uit &#8221; , &#8221; dan weet je pas aan het eind van ochtend&#8221; etc. En zeker als je het waagt om goedemorgen te verbasteren naar &#8216;morgen. Dan krijg je altijd dingen terug als &#8216; avond &#8216;
 
-> In elk gezelschap is er wel iemand die zegt wel eens &#8216;een heter pepertje&#8217; te hebben gegeten&#8230; zit je met het zweet op je voorhoofd net te doen alsof je de curry best binnen te houden vindt&#8230; is er altijd wel iemand die zegt dat dit dus echt wel meevalt qua pepers&#8230; en toen hij (meestal een hij) in Thailand/India/andere duistere bestemming in ZO-AziÃ« was pas Ã©cht hete pepers gehad heeft&#8230;
+> In elk gezelschap is er wel iemand die zegt wel eens &#8216;een heter pepertje' te hebben gegeten&#8230; zit je met het zweet op je voorhoofd net te doen alsof je de curry best binnen te houden vindt&#8230; is er altijd wel iemand die zegt dat dit dus echt wel meevalt qua pepers&#8230; en toen hij (meestal een hij) in Thailand/India/andere duistere bestemming in ZO-AziÃ« was pas Ã©cht hete pepers gehad heeft&#8230;
 
 > In elk gezelschap is er wel iemand die vindt pedofielen harder gestraft moeten worden dan de straf die iemand anders in datzelfde gezelschap zojuist heeft geopperd.
 
@@ -74,11 +74,11 @@ Tijd voor een opsomtopic
 
 > &#8220;Ik heb laatst ergens gelezen dat er onderzoek is gedaan naar&#8230;&#8230;&#8221;
 
-> Ook een hele erge. Er is echt altijd wel iemand die, als het over camera&#8217;s gaat (ook bij mobiele telefoons trouwens), zegt dat het aantal megapixels er niks toe doet en dat &#8230;&#8230; (vul maar in) veel belangrijker is.
+> Ook een hele erge. Er is echt altijd wel iemand die, als het over camera's gaat (ook bij mobiele telefoons trouwens), zegt dat het aantal megapixels er niks toe doet en dat &#8230;&#8230; (vul maar in) veel belangrijker is.
 >
 > Mijn hemel&#8230;zout toch een eind op met je betweterige gezever
 
-> iemand die weer eens lekker zegt &#8216; dat algemene voorwaarden toch niet rechtsgeldig zijn/boven de wet staan&#8217;
+> iemand die weer eens lekker zegt &#8216; dat algemene voorwaarden toch niet rechtsgeldig zijn/boven de wet staan'
 
 > In elk gezelschap is er wel iemand die begint te zeiken over het verschil tussen de astronomische en meteorologische winter/lente/zomer/herfst. Zovan:  
 > A: Goh het is alweer zomer  
@@ -88,7 +88,7 @@ Tijd voor een opsomtopic
 
 > In elk gezelschap is er wel iemand die gaat uitleggen dan de losse onderdelen van een apparaat of ander ding, samen veel minder kosten dan de prijs waarvoor hij in de winkel ligt.
 
-> of iemand die begint te zeiken dat &#8216; er nu al pepernoten in de winkel liggen!!!!! Het is een schandaal&#8217; !
+> of iemand die begint te zeiken dat &#8216; er nu al pepernoten in de winkel liggen!!!!! Het is een schandaal' !
 
 > Owja, goeie idd. In datzelfde gezelschap is er vervolgens vaak wel iemand die zegt dat ze pas aan kerst beginnen (vaak betekent dat de boom opzetten) als sinterklaas is geweest.
 
@@ -102,9 +102,9 @@ Tijd voor een opsomtopic
 
 > In elk gezelschap is er wel een Opera (Browser) fan.
 
-> Ja of de eskimo&#8217;s die 300 woorden voor sneeuw zouden hebben.
+> Ja of de eskimo's die 300 woorden voor sneeuw zouden hebben.
 >
-> (Wat overigens niet waar is. De eskimo&#8217;s hebben twee woorden voor sneeuw, die zoveel betekenen als &#8220;vallende sneeuw in de lucht&#8221; en &#8220;sneeuw op de grond&#8221;.)
+> (Wat overigens niet waar is. De eskimo's hebben twee woorden voor sneeuw, die zoveel betekenen als &#8220;vallende sneeuw in de lucht&#8221; en &#8220;sneeuw op de grond&#8221;.)
 
 > Nou, daar is het laatste woord ook nog niet over gezegd: https://nl.wikipedia.org/wiki/Sneeuwwoordenverhaal
 

@@ -19,7 +19,7 @@ Als je een partij &#8220;slimme&#8221; lampen en stopcontacten hebt van verschil
 
 ## De oplossing
 
-Domoticz snapt alles. Al het slimme spul (hier tenminte) heeft wel een of ander haakje waar Domoticz mee overweg kan. Doordat Domoticz zelf ook weer API&#8217;s heeft kun je via Domoticz dus best veel regelen. Alle lampen in huis kan ik bijvoorbeeld uitzetten door deze regel aan te roepen:
+Domoticz snapt alles. Al het slimme spul (hier tenminte) heeft wel een of ander haakje waar Domoticz mee overweg kan. Doordat Domoticz zelf ook weer API's heeft kun je via Domoticz dus best veel regelen. Alle lampen in huis kan ik bijvoorbeeld uitzetten door deze regel aan te roepen:
 
 > https://192.168.1.15:8084/json.htm?type=command&param=switchlight&idx=62&switchcmd=Off
 

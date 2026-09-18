@@ -17,7 +17,7 @@ De &#8220;decentraalheid&#8221; van Geensnor kent geen grenzen! We hebben geensn
 
 Als wij bij geensnor.nl ergens een broertje dood aan hebben, is het wel aan censuur. We willen tegen elke prijs voorkomen dat de waardevolle content van geensnor.nl niet overal te zien is. Na uitvoerig onderzoek, een aantal technische meetings, proof-of-concepts en lange discussies zijn we uiteindelijk bij <a href="https://zeronet.io/" target="_blank">zeronet.io</a> uitgekomen. Met behulp van zeronet wordt een website gedistribueerd via een Bittorrent achtige techniek en is er geen centrale server meer. Niet betaalde rekeningen, Chinese ambtenaren, PVV sympathisanten, wielrenhaters, niets of niemand kan ons nog offline krijgen! Geensnor is met deze innovatie van wereldformaat bovendien een van de eerste sites (waarschijnlijk DE eerste) in heel Nederland die van deze geavanceerde technologie gebruik maakt.
 
-Om op zeronet te komen, moet je wel wat dingen doen: <del>ongeveer vijf regels in de terminal van je mac copy-pasten</del>. Gewoon het programma downloaden en tussen je andere programma&#8217;s gooien. Alles staat keurig hier uitgelegd:
+Om op zeronet te komen, moet je wel wat dingen doen: <del>ongeveer vijf regels in de terminal van je mac copy-pasten</del>. Gewoon het programma downloaden en tussen je andere programma's gooien. Alles staat keurig hier uitgelegd:
 
 <a href="https://github.com/HelloZeroNet/ZeroNet#user-content-how-to-join" target="_blank">https://github.com/HelloZeroNet/ZeroNet#user-content-how-to-join</a>
 

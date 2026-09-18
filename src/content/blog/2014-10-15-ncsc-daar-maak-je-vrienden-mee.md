@@ -15,7 +15,7 @@ categories:
 En toen hadden we de NCSC (Nationaal cyber security centrum) in de mail van de redactie alhier. Commotie&#8230;er gebeurd weer eens wat 🙂
 
 > <p style="padding-left: 30px;">
->   <em>Op verzoek van het Nationaal Cyber Security Centrum (NCSC) van de Nederlandse Overheid en SIDN, de beheerder van .nl-domein, informeren wij u over het volgende: uw website &#8211; geensnor.nl &#8211; is slachtoffer geworden van een zogenaamde SQL-injectie. Het NCSC adviseert u om direct maatregelen te nemen en SIDN ondersteunt dit van harte.</em>
+>   <em>Op verzoek van het Nationaal Cyber Security Centrum (NCSC) van de Nederlandse Overheid en SIDN, de beheerder van .nl-domein, informeren wij u over het volgende: uw website - geensnor.nl - is slachtoffer geworden van een zogenaamde SQL-injectie. Het NCSC adviseert u om direct maatregelen te nemen en SIDN ondersteunt dit van harte.</em>
 > </p>
 >
 > <p style="padding-left: 30px;">
@@ -31,7 +31,7 @@ En toen hadden we de NCSC (Nationaal cyber security centrum) in de mail van de r
 > </p>
 >
 > <p style="padding-left: 30px;">
->   <em>02.06.2014 &#8211; &#8220;https://www.geensnor.nl/geensnor/index.php?page=bericht&iid=11718&quote=-1%27&#8221;</em>
+>   <em>02.06.2014 - &#8220;https://www.geensnor.nl/geensnor/index.php?page=bericht&iid=11718&quote=-1%27&#8221;</em>
 > </p>
 
 Wij hebben direct onze beste mensen op de situatie gezet. Dit soort zaken moet je inderdaad niet onderschatten! De hemel geprezen en we hebben echt geluk gehad&#8230;want de situatie is weer onder controle! Pfffff oog van de naald..wat ik je brom.

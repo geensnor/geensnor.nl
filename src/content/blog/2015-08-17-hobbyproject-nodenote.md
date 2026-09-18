@@ -14,7 +14,7 @@ categories:
 
 Omdat ik vond dat er geen goede manier was om dit soort dingen vast te leggen, heb ik zelf maar iets gemaakt: **NodeNote.**
 
-Met NodeNote kun je notities maken en parent/child relaties tussen notities leggen. Op die manier ontstaat er een soort piramide van aantekeningen. Het is ook mogelijk om een notitie &#8220;publiek&#8221; te maken waardoor iedereen met de juiste URL de notitie en de notities eronder kan bekijken. Hieronder staat zo&#8217;n publieke URL waar NodeNote zelf wordt uitgelegd.
+Met NodeNote kun je notities maken en parent/child relaties tussen notities leggen. Op die manier ontstaat er een soort piramide van aantekeningen. Het is ook mogelijk om een notitie &#8220;publiek&#8221; te maken waardoor iedereen met de juiste URL de notitie en de notities eronder kan bekijken. Hieronder staat zo'n publieke URL waar NodeNote zelf wordt uitgelegd.
 
 <a href="https://www.geensnor.nl/nn/public/21745c5b653913afaa54" target="_blank">https://www.geensnor.nl/nn/public/21745c5b653913afaa54</a>
 

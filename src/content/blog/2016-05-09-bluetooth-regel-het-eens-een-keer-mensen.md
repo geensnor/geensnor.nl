@@ -20,7 +20,7 @@ categories:
 
 <img class="alignleft" src="https://www.inktechnologies.com/blog/wp-content/uploads/2012/05/Bluetooth-Logo2.png" alt="" width="217" height="217" />Bluetooth werkt niet goed. Hieronder volgt een lijstje van dingen die ik via Bluetooth op mijn iPhone heb aangesloten in volgorde van hoe goed het werkt. Beste bovenaan.
 
-1. Pebble Time. Werkt kei goed. Nooit problemen mee. Pebble heeft ook 2 verbindingen met m&#8217;n telefoon: Een Bluetooth LE en een gewone Bluetooth verbinding. Dat zou iedereen moeten doen!
+1. Pebble Time. Werkt kei goed. Nooit problemen mee. Pebble heeft ook 2 verbindingen met m'n telefoon: Een Bluetooth LE en een gewone Bluetooth verbinding. Dat zou iedereen moeten doen!
 2. Garmin Edge 520. Werkt ook prima. Maakt (meestal) vanzelf verbinding en eigenlijk nooit grote problemen mee.
 3. Logitech K760 toetsenbord. Gebruik ik vrijwel nooit, maar werkt ook matig. Verbinding maken duurt lang. De zonnecel die dit toetsenbord heeft is wel fantastisch. Draadloos zonder batterijen en dat jaren lang!
 4. Logitech BT Adapter voor audio. Verbinding maken gaat niet altijd goed en als je verbinding hebt hapert het regelmatig. Het is meestal wel bruikbaar maar vaak na flink wat irritatie.
