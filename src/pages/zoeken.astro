@@ -1,7 +1,7 @@
 ---
 import Main from "../layouts/Main.astro";
 import { Kop } from "@geensnor/astro-componenten";
-import Search from "astro-pagefind/components/Search";
+import Search from "astro-pagefind/components/Search.astro";
 ---
 
 <Main>
@@ -9,7 +9,6 @@ import Search from "astro-pagefind/components/Search";
   <p>Zoek door al het moois van geensnor.nl.</p>
   <Search
     className="pagefind-ui"
-    id="search"
-    uiOptions={{ showImages: false }}
+    searchboxOptions={{ placeholder: "Zoeken" }}
   />
 </Main>
