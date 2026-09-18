@@ -1,15 +1,13 @@
 ---
-id: 807
 title: "[update] Geensnor gaat decentraal met zeronet.io"
 date: 2016-02-29
 author: Joris
 layout: post
-permalink: /geensnor-gaat-decentraal-met-zeronet-io/
 categories:
   - Internet
 ---
 
-<a href="https://www.geensnor.nl/wp/wp-content/uploads/2016/02/zeronet.png" rel="attachment wp-att-806"><img class="alignright size-full wp-image-806" src="https://www.geensnor.nl/wp/wp-content/uploads/2016/02/zeronet.png" alt="zeronet" width="411" height="174" srcset="https://www.geensnor.nl/wp/wp-content/uploads/2016/02/zeronet.png 411w, https://www.geensnor.nl/wp/wp-content/uploads/2016/02/zeronet-300x127.png 300w" sizes="(max-width: 411px) 100vw, 411px" /></a>
+![zeronet](../../assets/posts/zeronet.png)
 
 ## Update 7-3
 
@@ -29,4 +27,4 @@ Vanaf dat moment is je favoriete weblog te zien op:
 
 <a href="https://127.0.0.1:43110/geensnor.bit" target="_blank">https://127.0.0.1:43110/geensnor.bit</a>
 
-Je leest het goed, alleen &#8220;te zien&#8221;. Reageren e.d. kan wel via het protocol van zeronet, maar bij onze implementatie nog niet. Telkens wanneer www.geensnor.nl wordt geupdate, moet de webmaster van geensnor ook een aantal eenvoudige stappen uitvoeren om ervoor te zorgen dat de zeronet versie meegaat. Maar dat is natuurlijk een kleine moeite voor het hogere belang: vrijheid van informatie! En als we toch bezig zijn: Leve de Republiek!
+Je leest het goed, alleen &#8220;te zien&#8221;. Reageren e.d. kan wel via het protocol van zeronet, maar bij onze implementatie nog niet. Telkens wanneer www.geensnor.nl wordt geupdate, moet de webmaster van Geensnor ook een aantal eenvoudige stappen uitvoeren om ervoor te zorgen dat de zeronet versie meegaat. Maar dat is natuurlijk een kleine moeite voor het hogere belang: vrijheid van informatie! En als we toch bezig zijn: Leve de Republiek!
