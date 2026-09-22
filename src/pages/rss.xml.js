@@ -15,7 +15,7 @@ export async function GET(context) {
       .map(async (post) => {
         return {
           title: post.data.title,
-          link: `/blog/${post.id}/`,
+          link: `https://blog.geensnor.nl/${post.id}/`,
           pubDate: post.data.date,
           description: `<![CDATA[${sanitizeHtml(parser.render(post.body || ""))}]]>`,
         };
