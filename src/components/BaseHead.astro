@@ -47,4 +47,10 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 <meta content={description} property="og:description" />
 <meta content={new URL(image, Astro.url)} property="og:image" />
 
+<!-- Umami script om bezoekers te meten -->
+<script
+  data-website-id="2e5bd2a9-eb24-40d4-bc1d-703373e3f437"
+  defer
+  src="https://umami-bezoekers.vercel.app/script.js"></script>
+
 <ClientRouter />
