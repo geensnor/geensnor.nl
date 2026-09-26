@@ -127,3 +127,7 @@ h2 a:hover,
 h3 a:hover {
   text-decoration: underline;
 }
+
+astro-embed-mastodon::part(root) {
+  max-width: 450px;
+}
