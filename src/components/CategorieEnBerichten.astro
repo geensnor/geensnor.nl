@@ -7,7 +7,7 @@ const { categorie, maxBerichten } = Astro.props;
 const posts = (await getCollection("blog"))
   .sort((a: any, b: any) => b.data.date.valueOf() - a.data.date.valueOf())
   .filter((post: any) => {
-    const categories = post.rendered.metadata.frontmatter.categories;
+    const categories = post.data.categories;
     if (Array.isArray(categories)) {
       return categories.includes(categorie);
     } else {

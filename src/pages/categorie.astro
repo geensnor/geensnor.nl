@@ -8,7 +8,7 @@ const categorieen = [
   ...new Set(
     (await getCollection("blog"))
       .map((post: any) => {
-        const categories = post.rendered.metadata.frontmatter.categories;
+        const categories = post.data.categories;
         if (Array.isArray(categories)) {
           return categories;
         } else {

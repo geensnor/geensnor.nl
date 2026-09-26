@@ -15,9 +15,9 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 
-const categories = Array.isArray(post.rendered.metadata.frontmatter.categories)
-  ? post.rendered.metadata.frontmatter.categories
-  : [post.rendered.metadata.frontmatter.categories];
+const categories = Array.isArray(post.data.categories)
+  ? post.data.categories
+  : [post.data.categories];
 
 const { Content } = await render(post);
 ---
