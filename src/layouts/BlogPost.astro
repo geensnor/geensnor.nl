@@ -6,6 +6,9 @@ import { Kop } from "@geensnor/astro-componenten";
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const categories = Array.isArray(post.data.categories)
+  ? post.data.categories
+  : [post.data.categories];
 ---
 
 <article>
@@ -16,7 +19,7 @@ const { Content } = await render(post);
       </Kop>
       <div class="post-meta">
         {post.data.author} op <FormattedDate date={post.data.date} /> in <Categorien
-          categories={post.rendered.metadata.frontmatter.categories}
+          categories={categories}
         />
       </div>
       <div class="date"></div>
