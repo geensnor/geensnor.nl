@@ -49,6 +49,11 @@ const mastodonHandle = author
 <meta content={title} property="og:title" />
 <meta content={description} property="og:description" />
 <meta content={OpenGraphImage.src} property="og:image" />
+<meta
+  content="Geensnor banner met vintage wielrenners"
+  property="og:image:alt"
+/>
+<meta content="nl-NL" property="og:locale" />
 
 <!-- Umami script om bezoekers te meten -->
 <script
@@ -59,5 +64,6 @@ const mastodonHandle = author
 <!-- Fediverse  -->
 
 <link href="https://mastodon.xyz/@geensnor" rel="me" />
-<meta content={mastodonHandle} name="fediverse:creator" />;
+<meta content={mastodonHandle} name="fediverse:creator" />
+
 <ClientRouter />
