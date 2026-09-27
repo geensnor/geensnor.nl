@@ -22,7 +22,7 @@ const categories = Array.isArray(post.data.categories)
 const { Content } = await render(post);
 ---
 
-<Main>
+<Main author={post.data.author}>
   <BlogPost {post}>
     <Content />
   </BlogPost>

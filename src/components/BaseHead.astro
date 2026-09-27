@@ -3,17 +3,22 @@
 // all pages through the use of the <BaseHead /> component.
 import "../styles/global.css";
 import "../styles/geensnor.scss";
-import { SITE_TITLE } from "../consts";
+import { SITE_TITLE, MASTODON_HANDLE } from "../consts";
 import { ClientRouter } from "astro:transitions";
+import OpenGraphImage from "../assets/cropped-Vintage-823x400.jpg";
 
 interface Props {
   title: string;
   description: string;
-  image?: string;
+  author?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
+const { title, description, author } = Astro.props;
+
+const mastodonHandle = author
+  ? MASTODON_HANDLE[author]
+  : "@geensnor@mastodon.xyz";
 ---
 
 <!-- Global Metadata -->
@@ -29,8 +34,6 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
   type="application/rss+xml"
 />
 <meta content={Astro.generator} name="generator" />
-<meta content="@mastodon.xyz@geensnor" name="fediverse:creator" />
-<link href="https://mastodon.xyz/@geensnor" rel="me" />
 
 <!-- Canonical URL -->
 <link href={canonicalURL} rel="canonical" />
@@ -40,12 +43,12 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
 <meta content={title} name="title" />
 <meta content={description} name="description" />
 
-<!-- Open Graph / Facebook -->
+<!-- Open Graph -->
 <meta content="website" property="og:type" />
 <meta content={Astro.url} property="og:url" />
 <meta content={title} property="og:title" />
 <meta content={description} property="og:description" />
-<meta content={new URL(image, Astro.url)} property="og:image" />
+<meta content={OpenGraphImage.src} property="og:image" />
 
 <!-- Umami script om bezoekers te meten -->
 <script
@@ -53,4 +56,8 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
   defer
   src="https://umami-bezoekers.vercel.app/script.js"></script>
 
+<!-- Fediverse  -->
+
+<link href="https://mastodon.xyz/@geensnor" rel="me" />
+<meta content={mastodonHandle} name="fediverse:creator" />;
 <ClientRouter />

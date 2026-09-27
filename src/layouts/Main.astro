@@ -2,15 +2,21 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import { Voettekst } from "@geensnor/astro-componenten";
-import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 import "@fontsource-variable/work-sans";
 import "@fontsource/zilla-slab/500.css";
+
+const { author } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="nl">
   <head>
-    <BaseHead description={SITE_DESCRIPTION} title={SITE_TITLE} />
+    <BaseHead
+      author={author}
+      description={SITE_DESCRIPTION}
+      title={SITE_TITLE}
+    />
     <style>
       .container {
         min-height: 100vh;
