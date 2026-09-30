@@ -9,7 +9,7 @@
     "astro": "astro",
     "lint": "npx eslint ./src --fix",
     "lint:md": "npx remark ./src/content/blog/ --quiet",
-    "format": "npx prettier ./src --write"
+    "format": "npx prettier --list-different ./src --write"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.10",
