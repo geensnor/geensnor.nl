@@ -26,4 +26,4 @@ export const DEFAULT_AUTHOR: Author = {
   mastodon_url: "https://mastodon.xyz/@geensnor",
 };
 
-export const MASTODON_INSTANCE_URL = "https://mastodon.nl";
+export const MASTODON_INSTANCE_URL = "https://mastodon.xyz";
