@@ -1,7 +1,7 @@
 ---
 title: Geensnor ❤️ Mastodon
 author: Joris
-date: 2026-09-30
+date: 2026-10-04
 categories:
   - Internet
   - Geensnor
