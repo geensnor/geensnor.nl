@@ -25,12 +25,19 @@ const blog = defineCollection({
   // Load Markdown and MDX files in the `src/content/blog/` directory.
   loader: glob({ base: "./src/content/blog", pattern: "**/*.{md,mdx}" }),
   // Type-check frontmatter using a schema
-  schema: z.object({
-    title: z.string(),
-    author: z.enum(["Joris", "Erik", "ChatGPT"]),
-    date: z.date(),
-    categories: z.array(CategorySchema).min(1),
-  }),
+  schema: z
+    .object({
+      title: z.string(),
+      author: z.enum(["Joris", "Erik", "ChatGPT"]),
+      date: z.date(),
+      slug: z.string().optional(),
+      categories: z.array(CategorySchema).min(1),
+      mastodonStatusId: z.string().optional().meta({
+        description:
+          "Mastodon status id om reacties onder Geensnor bericht te tonen.",
+      }),
+    })
+    .strict(),
 });
 
 export const collections = { blog };

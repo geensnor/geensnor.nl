@@ -1,0 +1,175 @@
+---
+/* eslint-disable astro/no-set-html-directive */
+
+import { getMastodonComments } from "../reacties";
+import { Kop } from "@geensnor/astro-componenten";
+import FormattedDate from "../components/FormattedDate.astro";
+import { MASTODON_INSTANCE_URL } from "../consts";
+
+export interface Props {
+  statusId: string;
+}
+
+const { statusId } = Astro.props;
+const comments = await getMastodonComments(statusId);
+---
+
+<section class="comments-section">
+  {
+    comments.length === 0 ? (
+      <div class="comments-empty">
+        <p>
+          Nog geen reacties. Reageer op het{" "}
+          <a
+            class="comments-count-link"
+            href={`${MASTODON_INSTANCE_URL}/web/statuses/${statusId}`}
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            {" "}
+            bericht op Mastodon
+          </a>{" "}
+          . Die worden dan hier geplaatst.
+        </p>
+      </div>
+    ) : (
+      <div>
+        <p class="comments-count">
+          <Kop Type="h3">
+            {comments.length}{" "}
+            {comments.length === 1 ? "reactie" : "reacties"}{" "}
+          </Kop>
+        </p>
+
+        {comments.map((comment) => (
+          <article class="comment">
+            <header>
+              door{" "}
+              <a
+                class="comment-author-name"
+                href={comment.account.url}
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                @{comment.account.acct}
+              </a>{" "}
+              op{" "}
+              <FormattedDate
+                date={new Date(comment.created_at)}
+                showTime={true}
+              />{" "}
+              -{" "}
+              <a href={comment.url} rel="noopener noreferrer" target="_blank">
+                reactie op Mastodon
+              </a>
+            </header>
+
+            <div class="comment-body" set:html={comment.content} />
+
+            {comment.media_attachments &&
+              comment.media_attachments.length > 0 && (
+                <div class="comment-media">
+                  {comment.media_attachments.map((media) =>
+                    media.type === "image" ? (
+                      <img
+                        alt={media.description || "Attached image"}
+                        class="comment-media-image"
+                        loading="lazy"
+                        src={media.preview_url}
+                      />
+                    ) : media.type === "video" ? (
+                      <video
+                        class="comment-media-video"
+                        controls
+                        poster={media.preview_url}
+                        src={media.url}
+                      >
+                        {media.description && (
+                          <track
+                            kind="descriptions"
+                            label={media.description}
+                          />
+                        )}
+                      </video>
+                    ) : null,
+                  )}
+                </div>
+              )}
+          </article>
+        ))}
+        <div class="comment-link">
+          <a
+            class="comments-count-link"
+            href={`${MASTODON_INSTANCE_URL}/web/statuses/${statusId}`}
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            reageer via Mastodon
+          </a>
+        </div>
+      </div>
+    )
+  }
+</section>
+
+<style>
+  .comments-section {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-family: var(--geensnor-font-family);
+  }
+
+  header {
+    font-family: var(--geensnor-font-family);
+    color: var(--geensnor-grijs-100);
+
+    padding-top: 1.25em;
+  }
+
+  .comments-empty :global(p) {
+    padding: 1.5rem;
+    text-align: center;
+    color: var(--geensnor-grijs-100);
+    font-size: var(--geensnor-font-size-m);
+  }
+
+  .comment {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    margin-top: 2rem;
+    background-color: #f1f1f1;
+  }
+
+  .comment:last-of-type {
+    border-bottom: none;
+  }
+
+  .comment-body {
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+    padding-left: 1em;
+  }
+
+  .comment-body :global(p) {
+    color: var(--geensnor-zwartisch);
+  }
+
+  .comment-media {
+    margin-left: calc(100px + 0.75rem);
+    margin-top: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .comment-media-image,
+  .comment-media-video {
+    max-width: 300px;
+    border-radius: 0.5rem;
+    border: 1px solid #e5e7eb;
+  }
+
+  .comment-link {
+    margin-top: 2em;
+  }
+</style>

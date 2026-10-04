@@ -4,6 +4,7 @@ import FormattedDate from "../components/FormattedDate.astro";
 import Categorien from "../components/CategorieMeta.astro";
 import MastodonDeelKnop from "../components/MastodonDeelKnop.astro";
 import { Kop } from "@geensnor/astro-componenten";
+import Reacties from "../components/Reacties.astro";
 
 const { post } = Astro.props;
 const { Content } = await render(post);
@@ -12,40 +13,57 @@ const categories = Array.isArray(post.data.categories)
   : [post.data.categories];
 ---
 
-<article>
-  <div class="prose">
-    <div class="title">
-      <Kop Type={"h1"}>
-        <a href={"/" + post.id}>{post.data.title}</a>
-      </Kop>
-      <div class="post-meta">
-        {post.data.author} op <FormattedDate date={post.data.date} /> in <Categorien
-          categories={categories}
-        />
+<div class="post-wrapper">
+  <article>
+    <div class="prose">
+      <div class="title">
+        <Kop Type={"h1"}>
+          <a href={"/" + post.id}>{post.data.title}</a>
+        </Kop>
+        <div class="post-meta">
+          {post.data.author} op <FormattedDate date={post.data.date} /> in <Categorien
+            categories={categories}
+          />
+        </div>
       </div>
+      <Content />
     </div>
-    <Content />
-  </div>
-  <footer><MastodonDeelKnop postId={post.id} title={post.data.title} /></footer>
-</article>
+    <footer>
+      <MastodonDeelKnop postId={post.id} title={post.data.title} />
+    </footer>
+  </article>
 
-<style>
-  .post-meta {
-    margin-bottom: 4em;
-    font-family: var(--geensnor-font-family);
-    color: var(--geensnor-grijs-100);
-    margin-top: 1em;
-    margin-bottom: 4em;
+  {
+    post.data.mastodonStatusId && (
+      <Reacties statusId={post.data.mastodonStatusId} />
+    )
   }
 
-  article {
-    margin-top: 60px;
-    margin-bottom: 160px;
-  }
-
-  @media (max-width: 720px) {
-    .post-meta {
-      font-size: var(--geensnor-font-size-xxs);
+  <style>
+    .post-wrapper {
+      margin-bottom: 120px;
     }
-  }
-</style>
+
+    article {
+      margin-top: 60px;
+    }
+
+    .post-meta {
+      margin-bottom: 4em;
+      font-family: var(--geensnor-font-family);
+      color: var(--geensnor-grijs-100);
+      margin-top: 1em;
+      margin-bottom: 4em;
+    }
+
+    footer {
+      display: flex;
+      justify-content: flex-end;
+    }
+    @media (max-width: 720px) {
+      .post-meta {
+        font-size: var(--geensnor-font-size-xxs);
+      }
+    }
+  </style>
+</div>
