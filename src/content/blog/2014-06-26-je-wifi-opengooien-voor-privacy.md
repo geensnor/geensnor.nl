@@ -1,11 +1,8 @@
 ---
-id: 477
 title: Je WiFi opengooien voor privacy
 date: 2014-06-26
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=477
-permalink: /je-wifi-opengooien-voor-privacy/
+slug: /je-wifi-opengooien-voor-privacy/
 categories:
   - Internet
 ---

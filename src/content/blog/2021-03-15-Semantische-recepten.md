@@ -2,7 +2,7 @@
 date: 2021-03-15
 title: Semantische recepten
 author: Joris
-permalink: /semantische-recepten/
+slug: /semantische-recepten/
 categories:
   - Internet
   - Geensnor

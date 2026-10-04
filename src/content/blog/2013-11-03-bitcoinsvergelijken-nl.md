@@ -1,11 +1,8 @@
 ---
-id: 118
 title: bitcoinsvergelijken.nl
 date: 2013-11-03
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=118
-permalink: /bitcoinsvergelijken-nl/
+slug: /bitcoinsvergelijken-nl/
 categories:
   - Bitcoins
 ---

@@ -2,7 +2,7 @@
 date: 2020-12-27
 title: Tips met betrekking tot het verwerken van MDF
 author: Erik
-permalink: "/mdf/"
+slug: "/mdf/"
 categories:
   - Klushoekje
 ---

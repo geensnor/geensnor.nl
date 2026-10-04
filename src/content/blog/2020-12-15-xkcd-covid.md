@@ -2,7 +2,7 @@
 date: 2020-12-15
 title: XKCD over Covid maatregelen
 author: Joris
-permalink: /xkcd-covid/
+slug: /xkcd-covid/
 categories:
   - Vertier
   - Internet

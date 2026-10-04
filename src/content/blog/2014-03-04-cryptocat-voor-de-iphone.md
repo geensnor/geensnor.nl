@@ -1,11 +1,8 @@
 ---
-id: 163
 title: Cryptocat voor de iPhone
 date: 2014-03-04
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=163
-permalink: /cryptocat-voor-de-iphone/
+slug: /cryptocat-voor-de-iphone/
 categories:
   - Internet
 ---

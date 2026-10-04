@@ -1,11 +1,8 @@
 ---
-id: 307
 title: "Geensnor adviseert&#8230;mijlpaal 150 entries!"
 date: 2014-05-06
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=307
-permalink: /geensnor-adviseert-mijlpaal-150-entries/
+slug: /geensnor-adviseert-mijlpaal-150-entries/
 categories:
   - Geensnor
   - Tips

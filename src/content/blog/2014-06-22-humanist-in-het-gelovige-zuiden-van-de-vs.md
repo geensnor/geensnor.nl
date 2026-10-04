@@ -1,11 +1,8 @@
 ---
-id: 482
 title: Humanist in het gelovige zuiden van de VS
 date: 2014-06-22
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=482
-permalink: /humanist-in-het-gelovige-zuiden-van-de-vs/
+slug: /humanist-in-het-gelovige-zuiden-van-de-vs/
 categories:
   - Politiek
 ---

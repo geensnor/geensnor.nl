@@ -1,11 +1,8 @@
 ---
-id: 601
 title: "KONGOS - Come With Me Now - YouTube [www.youtube-nocookie.com]"
 date: 2014-09-29
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=601
-permalink: /kongos-come-with-me-now-youtube-www.youtube-nocookie.com/
+slug: /kongos-come-with-me-now-youtube-www.youtube-nocookie.com/
 categories:
   - Muziek
 ---

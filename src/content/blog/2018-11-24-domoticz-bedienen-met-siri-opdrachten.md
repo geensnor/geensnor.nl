@@ -1,12 +1,8 @@
 ---
-id: 1038
 title: Domoticz bedienen met Siri Opdrachten
 date: 2018-11-24
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1038
-permalink: /domoticz-bedienen-met-siri-opdrachten/
-image: /wp-content/uploads/2018/11/Schermafbeelding-2018-11-24-om-12.38.13.png
+slug: /domoticz-bedienen-met-siri-opdrachten/
 categories:
   - Internet
   - Spullen

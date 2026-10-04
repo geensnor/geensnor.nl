@@ -1,11 +1,8 @@
 ---
-id: 528
 title: The New Pornographers
 date: 2014-07-20
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=528
-permalink: /the-new-pornographers/
+slug: /the-new-pornographers/
 categories:
   - Muziek
 ---

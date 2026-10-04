@@ -1,11 +1,8 @@
 ---
-id: 492
 title: Sehr geile bioprodukten!
 date: 2014-06-23
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=492
-permalink: /sehr-geile-bioprodukten/
+slug: /sehr-geile-bioprodukten/
 categories:
   - Spullen
   - Internet

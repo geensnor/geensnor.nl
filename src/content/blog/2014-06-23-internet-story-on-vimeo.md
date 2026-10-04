@@ -1,11 +1,8 @@
 ---
-id: 486
 title: Internet Story on Vimeo
 date: 2014-06-23
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=486
-permalink: /internet-story-on-vimeo/
+slug: /internet-story-on-vimeo/
 categories:
   - Internet
 ---

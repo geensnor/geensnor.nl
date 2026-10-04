@@ -1,11 +1,8 @@
 ---
-id: 338
 title: "Internet Citizens: Defend Net Neutrality"
 date: 2014-05-09
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=338
-permalink: /internet-citizens-defend-net-neutrality/
+slug: /internet-citizens-defend-net-neutrality/
 categories:
   - Internet
 ---

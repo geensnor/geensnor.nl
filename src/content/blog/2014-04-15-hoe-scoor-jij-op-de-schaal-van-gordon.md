@@ -1,11 +1,8 @@
 ---
-id: 284
 title: Hoe scoor jij op de Schaal van Gordon?
 date: 2014-04-15
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=284
-permalink: /hoe-scoor-jij-op-de-schaal-van-gordon/
+slug: /hoe-scoor-jij-op-de-schaal-van-gordon/
 categories:
   - Internet
 ---

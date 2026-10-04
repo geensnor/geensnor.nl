@@ -1,11 +1,8 @@
 ---
-id: 123
 title: "Nieuw elan: Geensnor verfrist"
 date: 2014-03-03
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=123
-permalink: /nieuw-elan-geensnor-verfrist/
+slug: /nieuw-elan-geensnor-verfrist/
 categories:
   - Geensnor
 ---

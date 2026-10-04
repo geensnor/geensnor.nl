@@ -2,7 +2,7 @@
 date: 2021-01-05
 title: Controleer die MIDI in stijl! - Midique KNTRL9
 author: Erik
-permalink: /KNTRL9/
+slug: /KNTRL9/
 categories:
   - Spullen
   - Tips

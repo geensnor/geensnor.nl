@@ -1,11 +1,8 @@
 ---
-id: 270
 title: Violette Merino Jersey Orange
 date: 2014-04-09
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=270
-permalink: /violette-merino-jersey-orange/
+slug: /violette-merino-jersey-orange/
 categories:
   - Wielrennerij
 ---

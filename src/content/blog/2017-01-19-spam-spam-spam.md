@@ -1,12 +1,8 @@
 ---
-id: 859
 title: Spam spam spam
 date: 2017-01-19
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=859
-permalink: /spam-spam-spam/
-image: /wp-content/uploads/2017/01/spam-fries-672x372.jpg
+slug: /spam-spam-spam/
 categories:
   - Internet
   - Geensnor

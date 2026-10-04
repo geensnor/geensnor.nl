@@ -1,11 +1,8 @@
 ---
-id: 224
 title: Fabergé ei jat muziek
 date: 2014-03-16
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=224
-permalink: /faberge-ei-jat-muziek/
+slug: /faberge-ei-jat-muziek/
 categories:
   - Muziek
 ---

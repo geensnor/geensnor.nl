@@ -1,6 +1,6 @@
 ---
 date: 2020-10-10
-permalink: /draadloze-oordopjes-voor-de-kleine-beurs/
+slug: /draadloze-oordopjes-voor-de-kleine-beurs/
 title: Draadloze oordopjes voor de kleine beurs
 author: Joris
 categories:

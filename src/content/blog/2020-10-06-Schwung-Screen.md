@@ -1,6 +1,5 @@
 ---
 date: 2020-10-06
-layout: post
 title: Schwung Screen 1.0
 author: Erik
 categories:

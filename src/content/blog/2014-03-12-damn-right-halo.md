@@ -1,11 +1,8 @@
 ---
-id: 206
 title: "Damn Right! - Halo"
 date: 2014-03-12
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=206
-permalink: /damn-right-halo/
+slug: /damn-right-halo/
 categories:
   - Muziek
 ---

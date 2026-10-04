@@ -1,11 +1,8 @@
 ---
-id: 1246
 title: "Tooltje: WebDrop"
 date: 2020-09-14
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1246
-permalink: /tooltje-webdrop/
+slug: /tooltje-webdrop/
 categories:
   - Internet
   - Tips

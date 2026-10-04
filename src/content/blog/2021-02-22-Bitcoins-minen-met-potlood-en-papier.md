@@ -2,7 +2,7 @@
 date: 2021-02-22
 title: Bitcoins minen met potlood en papier
 author: Joris
-permalink: /bitcoins-minen-met-potlood-en-papier/
+slug: /bitcoins-minen-met-potlood-en-papier/
 categories:
   - Bitcoins
   - Vertier

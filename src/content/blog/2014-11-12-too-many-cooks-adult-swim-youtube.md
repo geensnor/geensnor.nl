@@ -1,11 +1,8 @@
 ---
-id: 630
 title: "Too Many Cooks | Adult Swim - YouTube"
 date: 2014-11-12
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=630
-permalink: /too-many-cooks-adult-swim-youtube/
+slug: /too-many-cooks-adult-swim-youtube/
 categories:
   - Vertier
 ---

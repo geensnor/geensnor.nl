@@ -1,11 +1,8 @@
 ---
-id: 597
 title: "Peter Broderick - Colours Of The Night Satellite Version by Bella Union"
 date: 2014-09-23
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=597
-permalink: /peter-broderick-colours-of-the-night-satellite-version-by-bella-union/
+slug: /peter-broderick-colours-of-the-night-satellite-version-by-bella-union/
 categories:
   - Muziek
 ---

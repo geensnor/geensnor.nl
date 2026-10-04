@@ -1,11 +1,8 @@
 ---
-id: 919
 title: Zaterdagavondvertier 2
 date: 2018-11-10
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=919
-permalink: /zaterdagavondvertier-2/
+slug: /zaterdagavondvertier-2/
 categories:
   - Vertier
 ---

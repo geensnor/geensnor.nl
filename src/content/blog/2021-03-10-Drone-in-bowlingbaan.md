@@ -2,7 +2,7 @@
 date: 2021-03-10
 title: Met je drone door de bowlingbaan
 author: Joris
-permalink: /drone-blowlingbaan/
+slug: /drone-blowlingbaan/
 categories:
   - Vertier
   - Internet

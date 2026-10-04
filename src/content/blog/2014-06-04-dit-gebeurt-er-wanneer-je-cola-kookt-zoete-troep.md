@@ -1,11 +1,8 @@
 ---
-id: 441
 title: "Dit gebeurt er wanneer je cola kookt - zoete troep"
 date: 2014-06-04
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=441
-permalink: /dit-gebeurt-er-wanneer-je-cola-kookt-zoete-troep/
+slug: /dit-gebeurt-er-wanneer-je-cola-kookt-zoete-troep/
 categories:
   - Internet
 ---

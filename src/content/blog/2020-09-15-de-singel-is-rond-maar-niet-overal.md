@@ -1,11 +1,8 @@
 ---
-id: 1251
 title: "De singel is rond! Maar niet overal"
 date: 2020-09-15
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1251
-permalink: /de-singel-is-rond-maar-niet-overal/
+slug: /de-singel-is-rond-maar-niet-overal/
 categories:
   - Internet
 ---

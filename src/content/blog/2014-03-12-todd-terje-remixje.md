@@ -1,11 +1,8 @@
 ---
-id: 195
 title: Todd Terje remixje.
 date: 2014-03-12
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=195
-permalink: /todd-terje-remixje/
+slug: /todd-terje-remixje/
 categories:
   - Muziek
 ---

@@ -1,11 +1,8 @@
 ---
-id: 169
 title: "Artikel: NSA maakt VS onveiliger"
 date: 2014-03-18
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=169
-permalink: /artikel-nsa-maakt-vs-onveiliger/
+slug: /artikel-nsa-maakt-vs-onveiliger/
 categories:
   - Internet
 ---

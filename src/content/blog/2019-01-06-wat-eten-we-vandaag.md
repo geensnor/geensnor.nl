@@ -1,11 +1,8 @@
 ---
-id: 1115
 title: Wat eten we vandaag?
 date: 2019-01-06
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1115
-permalink: /wat-eten-we-vandaag/
+slug: /wat-eten-we-vandaag/
 categories:
   - Tips
 ---

@@ -1,11 +1,8 @@
 ---
-id: 700
 title: Bittorrent Sync vs. Syncthing
 date: 2015-03-25
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=700
-permalink: /bittorrent-sync-vs-syncthing/
+slug: /bittorrent-sync-vs-syncthing/
 categories:
   - Internet
 ---

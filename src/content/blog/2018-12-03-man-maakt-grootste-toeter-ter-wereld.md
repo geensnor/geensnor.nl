@@ -1,11 +1,8 @@
 ---
-id: 1059
 title: Man maakt grootste toeter ter wereld
 date: 2018-12-03
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1059
-permalink: /man-maakt-grootste-toeter-ter-wereld/
+slug: /man-maakt-grootste-toeter-ter-wereld/
 categories:
   - Vertier
 ---

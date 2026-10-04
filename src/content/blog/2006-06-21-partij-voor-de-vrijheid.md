@@ -1,11 +1,8 @@
 ---
-id: 130
 title: Partij voor de vrijheid
 date: 2006-06-21
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=130
-permalink: /partij-voor-de-vrijheid/
+slug: /partij-voor-de-vrijheid/
 categories:
   - Politiek
 ---

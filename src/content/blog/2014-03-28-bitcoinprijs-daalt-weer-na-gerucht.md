@@ -1,11 +1,8 @@
 ---
-id: 240
 title: Bitcoinprijs daalt weer na gerucht
 date: 2014-03-28
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=240
-permalink: /bitcoinprijs-daalt-weer-na-gerucht/
+slug: /bitcoinprijs-daalt-weer-na-gerucht/
 categories:
   - Internet
   - Bitcoins

@@ -1,11 +1,8 @@
 ---
-id: 188
 title: Efterklang The Ghost of Piramida
 date: 2014-03-12
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=188
-permalink: /efterklang-the-ghost-of-piramida/
+slug: /efterklang-the-ghost-of-piramida/
 categories:
   - Muziek
 ---

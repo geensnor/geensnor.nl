@@ -1,11 +1,8 @@
 ---
-id: 391
 title: 2014 Heineken Regatta filmed by a Drone on Vimeo
 date: 2014-05-17
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=391
-permalink: /2014-heineken-regatta-filmed-by-a-drone-on-vimeo/
+slug: /2014-heineken-regatta-filmed-by-a-drone-on-vimeo/
 categories:
   - Zeilen
   - Internet

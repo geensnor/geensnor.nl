@@ -1,11 +1,8 @@
 ---
-id: 396
 title: "Tribute Boudewijn de Groot - terugkijken"
 date: 2014-05-19
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=396
-permalink: /tribute-boudewijn-de-groot-terugkijken-maar/
+slug: /tribute-boudewijn-de-groot-terugkijken-maar/
 categories:
   - Muziek
 ---

@@ -1,11 +1,8 @@
 ---
-id: 182
 title: "Muziek: Spanish Gold"
 date: 2014-03-11
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=182
-permalink: /muziek-spanish-gold/
+slug: /muziek-spanish-gold/
 categories:
   - Muziek
 ---

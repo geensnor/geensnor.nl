@@ -2,7 +2,7 @@
 title: Geensnor Tourpoule winnaars Hall of Fame
 author: Joris
 date: 2021-07-19
-permalink: /geensnor-tourpoule-winnaars-hall-of-fame/
+slug: /geensnor-tourpoule-winnaars-hall-of-fame/
 categories:
   - Vertier
   - Wielrennerij

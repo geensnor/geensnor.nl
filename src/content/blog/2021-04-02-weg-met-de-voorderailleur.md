@@ -2,7 +2,7 @@
 date: 2021-04-02
 title: Weg met de voorderailleur
 author: Joris
-permalink: /weg-met-voorderailleur/
+slug: /weg-met-voorderailleur/
 categories:
   - Wielrennerij
   - Spullen

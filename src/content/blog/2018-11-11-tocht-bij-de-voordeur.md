@@ -1,11 +1,8 @@
 ---
-id: 924
 title: Tocht bij de voordeur
 date: 2018-11-11
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=924
-permalink: /tocht-bij-de-voordeur/
+slug: /tocht-bij-de-voordeur/
 categories:
   - Klushoekje
 ---

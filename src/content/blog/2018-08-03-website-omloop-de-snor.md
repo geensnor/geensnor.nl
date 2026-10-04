@@ -1,11 +1,8 @@
 ---
-id: 910
 title: Website Omloop De Snor
 date: 2018-08-03
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=910
-permalink: /website-omloop-de-snor/
+slug: /website-omloop-de-snor/
 categories:
   - Wielrennerij
   - Geensnor

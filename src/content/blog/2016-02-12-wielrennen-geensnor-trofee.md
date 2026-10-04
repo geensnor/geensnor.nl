@@ -2,7 +2,7 @@
 title: "[wielrennen] Geensnor Trofee"
 date: 2016-02-12
 author: Joris
-permalink: /wielrennen-geensnor-trofee/
+slug: /wielrennen-geensnor-trofee/
 categories:
   - Wielrennerij
 ---

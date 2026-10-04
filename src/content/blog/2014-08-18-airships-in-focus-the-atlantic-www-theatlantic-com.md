@@ -1,11 +1,8 @@
 ---
-id: 566
 title: "Airships - In Focus - The Atlantic [www.theatlantic.com]"
 date: 2014-08-18
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=566
-permalink: /airships-in-focus-the-atlantic-www-theatlantic-com/
+slug: /airships-in-focus-the-atlantic-www-theatlantic-com/
 categories:
   - Internet
 ---

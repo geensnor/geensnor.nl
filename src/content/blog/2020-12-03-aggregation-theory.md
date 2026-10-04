@@ -2,7 +2,7 @@
 date: 2020-12-03
 title: Aggregation theory
 author: Joris
-permalink: /aggregation-theory/
+slug: /aggregation-theory/
 categories:
   - Internet
 ---

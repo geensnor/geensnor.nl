@@ -1,11 +1,8 @@
 ---
-id: 535
 title: "Spullekes: De Finn"
 date: 2014-07-25
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=535
-permalink: /spullekes-de-finn/
+slug: /spullekes-de-finn/
 categories:
   - Spullen
 ---

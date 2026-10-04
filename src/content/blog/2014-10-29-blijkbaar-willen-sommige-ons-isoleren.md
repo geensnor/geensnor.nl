@@ -1,11 +1,8 @@
 ---
-id: 627
 title: Blijkbaar willen sommige ons isoleren
 date: 2014-10-29
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=627
-permalink: /blijkbaar-willen-sommige-ons-isoleren/
+slug: /blijkbaar-willen-sommige-ons-isoleren/
 categories:
   - Geensnor
   - Internet

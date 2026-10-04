@@ -2,7 +2,7 @@
 date: 2020-11-09
 title: Geensnor tips
 author: Joris
-permalink: /geensnor-tips/
+slug: /geensnor-tips/
 categories:
   - Geensnor
   - Spullen

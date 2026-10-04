@@ -1,11 +1,8 @@
 ---
-id: 331
 title: Terrible real estate agent photographs
 date: 2014-05-09
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=331
-permalink: /terrible-real-estate-agent-photographs/
+slug: /terrible-real-estate-agent-photographs/
 categories:
   - Internet
 ---

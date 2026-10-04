@@ -1,6 +1,5 @@
 ---
 date: 2020-10-02
-layout: post
 title: Thuiswerkplaylist van 3voor12 #juistnu
 author: Joris
 categories:

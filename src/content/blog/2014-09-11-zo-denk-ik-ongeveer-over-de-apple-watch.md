@@ -1,11 +1,8 @@
 ---
-id: 583
 title: Zo denk ik ongeveer over de Apple Watch
 date: 2014-09-11
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=583
-permalink: /zo-denk-ik-ongeveer-over-de-apple-watch/
+slug: /zo-denk-ik-ongeveer-over-de-apple-watch/
 categories:
   - Spullen
 ---

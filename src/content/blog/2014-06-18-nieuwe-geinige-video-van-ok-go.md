@@ -1,11 +1,8 @@
 ---
-id: 458
 title: Nieuwe geinige video van Ok go
 date: 2014-06-18
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=458
-permalink: /nieuwe-geinige-video-van-ok-go/
+slug: /nieuwe-geinige-video-van-ok-go/
 categories:
   - Muziek
   - Internet

@@ -1,12 +1,8 @@
 ---
-id: 999
 title: "Ikea hack: Handig duurzaam lampje voor bij de poort"
 date: 2018-11-19
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=999
-permalink: /ikea-hack-handig-duurzaam-lampje-voor-bij-de-poort/
-image: /wp-content/uploads/2018/11/2018-11-19-17.21.18-e1542646102118.jpg
+slug: /ikea-hack-handig-duurzaam-lampje-voor-bij-de-poort/
 categories:
   - Klushoekje
   - Spullen

@@ -2,7 +2,6 @@
 title: "[update] Geensnor gaat decentraal met zeronet.io"
 date: 2016-02-29
 author: Joris
-layout: post
 categories:
   - Internet
 ---

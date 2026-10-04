@@ -1,11 +1,8 @@
 ---
-id: 642
 title: Reallife Ports of Call
 date: 2014-11-21
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=642
-permalink: /reallife-ports-of-call/
+slug: /reallife-ports-of-call/
 categories:
   - Vertier
 ---

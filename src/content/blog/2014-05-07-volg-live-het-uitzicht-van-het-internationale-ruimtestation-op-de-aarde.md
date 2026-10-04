@@ -1,11 +1,8 @@
 ---
-id: 314
 title: Volg live het uitzicht van het Internationale Ruimtestation op de aarde
 date: 2014-05-07
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=314
-permalink: /volg-live-het-uitzicht-van-het-internationale-ruimtestation-op-de-aarde/
+slug: /volg-live-het-uitzicht-van-het-internationale-ruimtestation-op-de-aarde/
 categories:
   - Internet
   - Tips

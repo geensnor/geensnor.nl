@@ -1,11 +1,8 @@
 ---
-id: 204
 title: Sneller lezen op internet
 date: 2014-03-13
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=204
-permalink: /sneller-lezen-op-internet/
+slug: /sneller-lezen-op-internet/
 categories:
   - Internet
 ---

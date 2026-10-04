@@ -1,11 +1,8 @@
 ---
-id: 574
 title: "tapiriik - Syncen tussen strava, endomondo en Garmin"
 date: 2014-08-24
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=574
-permalink: /tapiriik-syncen-tussen-strava-endomondo-en-garmin/
+slug: /tapiriik-syncen-tussen-strava-endomondo-en-garmin/
 categories:
   - Wielrennerij
   - Handig

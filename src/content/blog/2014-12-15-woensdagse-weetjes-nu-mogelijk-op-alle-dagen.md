@@ -2,7 +2,7 @@
 title: "Woensdagse weetjes&#8230;nu mogelijk op alle dagen!"
 date: 2014-12-15
 author: Erik
-permalink: /woensdagse-weetjes-nu-mogelijk-op-alle-dagen/
+slug: /woensdagse-weetjes-nu-mogelijk-op-alle-dagen/
 categories:
   - Geensnor
 ---

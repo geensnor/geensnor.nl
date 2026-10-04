@@ -1,11 +1,8 @@
 ---
-id: 134
 title: "In ieder gezelschap is er altijd wel iemand&#8230;"
 date: 2013-03-03
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=134
-permalink: /in-ieder-gezelschap-is-er-altijd-wel-iemand/
+slug: /in-ieder-gezelschap-is-er-altijd-wel-iemand/
 categories:
   - Vertier
 ---

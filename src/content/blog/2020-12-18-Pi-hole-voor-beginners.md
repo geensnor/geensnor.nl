@@ -2,7 +2,7 @@
 date: 2020-12-18
 title: Pi-hole voor beginners
 author: Joris
-permalink: /pi-hole-voor-beginners/
+slug: /pi-hole-voor-beginners/
 categories:
   - Internet
   - Tips

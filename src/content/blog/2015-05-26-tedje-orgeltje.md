@@ -1,11 +1,8 @@
 ---
-id: 721
 title: Tedje, orgeltje!
 date: 2015-05-26
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=721
-permalink: /tedje-orgeltje/
+slug: /tedje-orgeltje/
 categories:
   - Muziek
 ---

@@ -1,11 +1,8 @@
 ---
-id: 499
 title: Ondertussen op het Viva Forum
 date: 2014-06-24
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=499
-permalink: /ondertussen-op-het-viva-forum/
+slug: /ondertussen-op-het-viva-forum/
 categories:
   - Internet
 ---

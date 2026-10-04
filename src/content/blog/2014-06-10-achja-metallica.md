@@ -1,11 +1,8 @@
 ---
-id: 446
 title: Achja metallica
 date: 2014-06-10
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=446
-permalink: /achja-metallica/
+slug: /achja-metallica/
 categories:
   - Muziek
 ---

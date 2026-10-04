@@ -1,11 +1,8 @@
 ---
-id: 618
 title: "NCSC&#8230;daar maak je vrienden mee!"
 date: 2014-10-15
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=618
-permalink: /ncsc-daar-maak-je-vrienden-mee/
+slug: /ncsc-daar-maak-je-vrienden-mee/
 categories:
   - Internet
 ---

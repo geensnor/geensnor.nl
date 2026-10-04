@@ -2,7 +2,7 @@
 date: 2020-12-27
 title: Tips met betrekking tot deuvels
 author: Erik
-permalink: /deuvels/
+slug: /deuvels/
 categories:
   - Klushoekje
 ---

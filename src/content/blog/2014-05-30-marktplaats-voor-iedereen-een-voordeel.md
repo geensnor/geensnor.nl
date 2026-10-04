@@ -1,11 +1,8 @@
 ---
-id: 419
 title: "Marktplaats - voor iedereen een voordeel"
 date: 2014-05-30
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=419
-permalink: /marktplaats-voor-iedereen-een-voordeel/
+slug: /marktplaats-voor-iedereen-een-voordeel/
 categories:
   - Spullen
   - Internet

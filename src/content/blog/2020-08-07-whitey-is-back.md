@@ -2,8 +2,7 @@
 title: Whitey is back!
 date: 2020-08-07
 author: Joris
-layout: post
-permalink: /whitey-is-back/
+slug: /whitey-is-back/
 categories:
   - Tips
   - Vertier

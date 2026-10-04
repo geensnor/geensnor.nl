@@ -1,11 +1,8 @@
 ---
-id: 456
 title: "John Olivers Last Week Tonight"
 date: 2014-06-10
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=456
-permalink: /john-olivers-last-week-tonight/
+slug: /john-olivers-last-week-tonight/
 categories:
   - Vertier
 ---

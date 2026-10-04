@@ -1,11 +1,8 @@
 ---
-id: 553
 title: Makkelijke encryptie met Minilock
 date: 2014-08-04
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=553
-permalink: /makkelijke-encryptie-met-minilock/
+slug: /makkelijke-encryptie-met-minilock/
 categories:
   - Internet
 ---

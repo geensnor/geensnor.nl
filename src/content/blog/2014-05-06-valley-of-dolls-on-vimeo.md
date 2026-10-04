@@ -1,11 +1,8 @@
 ---
-id: 311
 title: Valley of Dolls on Vimeo
 date: 2014-05-06
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=311
-permalink: /valley-of-dolls-on-vimeo/
+slug: /valley-of-dolls-on-vimeo/
 categories:
   - Internet
 ---

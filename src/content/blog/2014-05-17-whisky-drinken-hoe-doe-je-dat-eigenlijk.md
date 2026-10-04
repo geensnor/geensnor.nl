@@ -1,11 +1,8 @@
 ---
-id: 388
 title: Whisky drinken, hoe doe je dat eigenlijk?
 date: 2014-05-17
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=388
-permalink: /whisky-drinken-hoe-doe-je-dat-eigenlijk/
+slug: /whisky-drinken-hoe-doe-je-dat-eigenlijk/
 categories:
   - Whisky
 ---

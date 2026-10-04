@@ -1,11 +1,8 @@
 ---
-id: 296
 title: Where are you papa?
 date: 2014-04-17
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=296
-permalink: /where-are-you-papa/
+slug: /where-are-you-papa/
 categories:
   - Muziek
 ---

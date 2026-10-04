@@ -1,11 +1,8 @@
 ---
-id: 633
 title: Tiny apartment in Paris 8sqm only on Vimeo
 date: 2014-11-13
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=633
-permalink: /tiny-apartment-in-paris-8sqm-only-on-vimeo/
+slug: /tiny-apartment-in-paris-8sqm-only-on-vimeo/
 categories:
   - Internet
 ---

@@ -1,9 +1,8 @@
 ---
 date: 2020-10-15
-layout: post
 title: Verslavend fabriekspel in je browser
 author: Joris
-permalink: /fabriek-spel/
+slug: /fabriek-spel/
 categories:
   - Vertier
   - Internet

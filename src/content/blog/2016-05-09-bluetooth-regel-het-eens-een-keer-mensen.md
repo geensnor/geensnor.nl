@@ -1,19 +1,8 @@
 ---
-id: 825
 title: "Bluetooth, regel het eens een keer mensen&#8230;."
 date: 2016-05-09
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=825
-permalink: /bluetooth-regel-het-eens-een-keer-mensen/
-vortex_system_user_2:
-  - 'a:2:{s:5:"liked";s:7:"noliked";s:8:"disliked";s:8:"disliked";}'
-vortex_system_dislikes:
-  - "0"
-vortex_system_likes:
-  - "2"
-vortex_system_user_1:
-  - 'a:2:{s:5:"liked";s:7:"noliked";s:8:"disliked";s:8:"disliked";}'
+slug: /bluetooth-regel-het-eens-een-keer-mensen/
 categories:
   - Spullen
 ---

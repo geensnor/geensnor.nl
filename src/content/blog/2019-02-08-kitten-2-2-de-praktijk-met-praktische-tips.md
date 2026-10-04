@@ -1,11 +1,8 @@
 ---
-id: 1139
 title: "Kitten (2/2) : De praktijk met praktische tips"
 date: 2019-02-08
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1139
-permalink: /kitten-2-2-de-praktijk-met-praktische-tips/
+slug: /kitten-2-2-de-praktijk-met-praktische-tips/
 categories:
   - Klushoekje
 ---

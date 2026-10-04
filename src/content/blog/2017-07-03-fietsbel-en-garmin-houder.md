@@ -1,11 +1,8 @@
 ---
-id: 887
 title: Fietsbel en garmin houder
 date: 2017-07-03
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=887
-permalink: /fietsbel-en-garmin-houder/
+slug: /fietsbel-en-garmin-houder/
 categories:
   - Wielrennerij
   - Spullen

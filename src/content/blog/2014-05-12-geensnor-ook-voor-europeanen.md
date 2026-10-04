@@ -1,11 +1,8 @@
 ---
-id: 353
 title: Geensnor, ook voor europeanen
 date: 2014-05-12
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=353
-permalink: /geensnor-ook-voor-europeanen/
+slug: /geensnor-ook-voor-europeanen/
 categories:
   - Geensnor
 ---

@@ -1,11 +1,8 @@
 ---
-id: 413
 title: Coloring Book Corruptions | Gast gaat los op kleurplaten
 date: 2014-05-27
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=413
-permalink: /coloring-book-corruptions-gast-gaat-los-op-kleurplaten/
+slug: /coloring-book-corruptions-gast-gaat-los-op-kleurplaten/
 categories:
   - Internet
 ---

@@ -1,11 +1,8 @@
 ---
-id: 1066
 title: Omloop De Snor 2018 Aftermovie
 date: 2018-12-10
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1066
-permalink: /omloop-de-snor-2018-aftermovie/
+slug: /omloop-de-snor-2018-aftermovie/
 categories:
   - Vertier
   - Wielrennerij

@@ -1,11 +1,8 @@
 ---
-id: 232
 title: Popcorn Time! Dat is een soort netflix met torrents
 date: 2014-03-20
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=232
-permalink: /popcorn-time-dat-is-een-soort-netflix-met-torrents/
+slug: /popcorn-time-dat-is-een-soort-netflix-met-torrents/
 categories:
   - Internet
 ---

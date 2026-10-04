@@ -1,11 +1,8 @@
 ---
-id: 342
 title: "Nog meer live camera's. Visjes!"
 date: 2014-05-12
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=342
-permalink: /nog-meer-live-cameras-visjes/
+slug: /nog-meer-live-cameras-visjes/
 categories:
   - Internet
 ---

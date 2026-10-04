@@ -1,11 +1,8 @@
 ---
-id: 249
 title: Nieuw type wielrenzadel
 date: 2014-04-04
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=249
-permalink: /nieuw-type-wielrenzadel/
+slug: /nieuw-type-wielrenzadel/
 categories:
   - Wielrennerij
 ---

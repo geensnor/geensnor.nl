@@ -1,9 +1,8 @@
 ---
-id: 672
 title: De voornaamgenerator
 date: 2015-06-08
 author: Joris
-permalink: /geensnor-voornamen-kiezer/
+slug: /geensnor-voornamen-kiezer/
 categories:
   - Internet
 ---

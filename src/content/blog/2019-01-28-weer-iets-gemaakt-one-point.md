@@ -1,11 +1,8 @@
 ---
-id: 1123
 title: "Weer iets gemaakt: One point"
 date: 2019-01-28
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1123
-permalink: /weer-iets-gemaakt-one-point/
+slug: /weer-iets-gemaakt-one-point/
 categories:
   - Internet
   - Tips

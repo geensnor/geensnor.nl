@@ -1,11 +1,8 @@
 ---
-id: 321
 title: Vogeltje spelen met de Oculus Rift
 date: 2014-05-08
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=321
-permalink: /vogeltje-spelen-met-de-oculus-rift/
+slug: /vogeltje-spelen-met-de-oculus-rift/
 categories:
   - Spullen
 ---

@@ -1,11 +1,8 @@
 ---
-id: 401
 title: Amai, amai, ik heb een Raspberry Pi
 date: 2014-05-21
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=401
-permalink: /amai-amai-ik-heb-een-raspberry-pi/
+slug: /amai-amai-ik-heb-een-raspberry-pi/
 categories:
   - Spullen
   - Internet

@@ -2,7 +2,7 @@
 date: 2020-10-31
 title: Ode aan e-paper
 author: Joris
-permalink: /ode-aan-epaper/
+slug: /ode-aan-epaper/
 categories:
   - Spullen
   - Internet

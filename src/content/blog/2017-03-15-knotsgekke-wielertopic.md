@@ -1,12 +1,8 @@
 ---
-id: 873
 title: Knotsgekke wielertopic
 date: 2017-03-15
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=873
-permalink: /knotsgekke-wielertopic/
-image: /wp-content/uploads/2017/03/Fotografías-antiguas-del-Tour-de-Francia-3-640x372.jpg
+slug: /knotsgekke-wielertopic/
 categories:
   - Wielrennerij
 ---

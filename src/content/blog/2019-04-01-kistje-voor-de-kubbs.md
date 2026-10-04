@@ -1,11 +1,8 @@
 ---
-id: 1179
 title: "Kistje voor de kubbs"
 date: 2019-04-01
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1179
-permalink: /kistje-voor-de-kubbs/
+slug: /kistje-voor-de-kubbs/
 categories:
   - Klushoekje
 ---

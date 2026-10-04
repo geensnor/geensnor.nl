@@ -1,11 +1,8 @@
 ---
-id: 327
 title: Geensnor Voetbalpoule WK 2014
 date: 2014-05-09
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=327
-permalink: /geensnor-voetbalpoule-wk-2014/
+slug: /geensnor-voetbalpoule-wk-2014/
 categories:
   - Geensnor
 ---

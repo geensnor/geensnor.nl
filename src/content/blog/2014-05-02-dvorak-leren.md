@@ -1,14 +1,9 @@
 ---
-id: 302
 title: Dvorak leren
 date: 2014-05-02
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=302
-permalink: /dvorak-leren/
+slug: /dvorak-leren/
 categories:
-  - Internet
-tags:
   - Internet
 ---
 

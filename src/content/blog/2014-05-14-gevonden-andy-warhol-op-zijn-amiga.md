@@ -1,11 +1,8 @@
 ---
-id: 358
 title: Gevonden! Andy Warhol op zijn Amiga
 date: 2014-05-14
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=358
-permalink: /gevonden-andy-warhol-op-zijn-amiga/
+slug: /gevonden-andy-warhol-op-zijn-amiga/
 categories:
   - Kunst
 ---

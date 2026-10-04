@@ -1,11 +1,8 @@
 ---
-id: 1047
 title: Geensnor Wielrenshirt 2019
 date: 2018-12-25
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1047
-permalink: /geensnor-wielrenshirt-2019/
+slug: /geensnor-wielrenshirt-2019/
 categories:
   - Spullen
   - Wielrennerij

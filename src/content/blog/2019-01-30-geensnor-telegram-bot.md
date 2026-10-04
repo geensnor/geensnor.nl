@@ -1,11 +1,8 @@
 ---
-id: 1092
 title: "Geensnor Telegram Bot: Update"
 date: 2019-01-30
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1092
-permalink: /geensnor-telegram-bot/
+slug: /geensnor-telegram-bot/
 categories:
   - Internet
   - Vertier

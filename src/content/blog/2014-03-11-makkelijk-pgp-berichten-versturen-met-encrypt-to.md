@@ -1,11 +1,8 @@
 ---
-id: 97
 title: Makkelijk PGP berichten versturen met encrypt.to
 date: 2014-03-11
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=97
-permalink: /makkelijk-pgp-berichten-versturen-met-encrypt-to/
+slug: /makkelijk-pgp-berichten-versturen-met-encrypt-to/
 categories:
   - Internet
 ---

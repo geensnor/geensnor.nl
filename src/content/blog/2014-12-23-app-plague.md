@@ -1,11 +1,8 @@
 ---
-id: 649
 title: "App: Plague"
 date: 2014-12-23
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=649
-permalink: /app-plague/
+slug: /app-plague/
 categories:
   - Internet
   - Vertier

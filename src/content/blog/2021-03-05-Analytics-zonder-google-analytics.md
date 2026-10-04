@@ -2,7 +2,7 @@
 date: 2021-03-05
 title: Analytics zonder Google Analytics
 author: Joris
-permalink: /analytics-umami/
+slug: /analytics-umami/
 categories:
   - Internet
   - Geensnor

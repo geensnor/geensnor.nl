@@ -1,11 +1,8 @@
 ---
-id: 369
 title: Nietszeggende correlaties
 date: 2014-05-16
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=369
-permalink: /nietszeggende-correlaties/
+slug: /nietszeggende-correlaties/
 categories:
   - Internet
 ---

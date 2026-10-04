@@ -1,11 +1,8 @@
 ---
-id: 277
 title: Fred Perry / wiggins collectie
 date: 2014-04-15
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=277
-permalink: /fred-perry-wiggins-collectie/
+slug: /fred-perry-wiggins-collectie/
 categories:
   - Wielrennerij
 ---

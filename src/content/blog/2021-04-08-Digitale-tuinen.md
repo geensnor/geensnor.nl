@@ -2,7 +2,7 @@
 date: 2021-04-08
 title: Digitale tuinen
 author: Joris
-permalink: /digitale-tuinen/
+slug: /digitale-tuinen/
 categories:
   - Internet
   - Vertier

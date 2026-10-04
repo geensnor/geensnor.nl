@@ -1,11 +1,8 @@
 ---
-id: 761
 title: HTTPS voor geensnor.nl
 date: 2015-10-03
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=761
-permalink: /https-voor-geensnor-nl/
+slug: /https-voor-geensnor-nl/
 categories:
   - Internet
 ---

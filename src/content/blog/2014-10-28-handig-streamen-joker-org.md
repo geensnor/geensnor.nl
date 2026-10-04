@@ -1,11 +1,8 @@
 ---
-id: 625
 title: "Handig streamen: joker.org"
 date: 2014-10-28
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=625
-permalink: /handig-streamen-joker-org/
+slug: /handig-streamen-joker-org/
 categories:
   - Internet
 ---

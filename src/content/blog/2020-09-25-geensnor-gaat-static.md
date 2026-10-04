@@ -2,8 +2,7 @@
 date: 2020-09-25
 title: "Geensnor gaat static"
 author: Joris
-layout: post
-permalink: /geensnor-gaat-static/
+slug: /geensnor-gaat-static/
 categories:
   - Internet
   - Geensnor

@@ -1,11 +1,8 @@
 ---
-id: 893
 title: "Als je tasje niet genoeg ruimte heeft&#8230;"
 date: 2017-07-10
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=893
-permalink: /als-je-tasje-niet-genoeg-ruimte-heeft/
+slug: /als-je-tasje-niet-genoeg-ruimte-heeft/
 categories:
   - Spullen
   - Wielrennerij

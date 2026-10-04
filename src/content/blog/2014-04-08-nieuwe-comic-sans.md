@@ -1,11 +1,8 @@
 ---
-id: 256
 title: "Nieuwe Comic Sans: Comic Neue"
 date: 2014-04-08
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=256
-permalink: /nieuwe-comic-sans/
+slug: /nieuwe-comic-sans/
 categories:
   - Internet
 ---

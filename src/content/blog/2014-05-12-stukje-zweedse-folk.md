@@ -1,11 +1,8 @@
 ---
-id: 350
 title: Stukje Zweedse følk
 date: 2014-05-12
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=350
-permalink: /stukje-zweedse-folk/
+slug: /stukje-zweedse-folk/
 categories:
   - Muziek
 ---

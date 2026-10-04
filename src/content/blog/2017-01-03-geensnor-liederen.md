@@ -1,16 +1,11 @@
 ---
-id: 835
 title: Geensnor liederen
 date: 2017-01-03
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=835
-permalink: /geensnor-liederen/
-image: /wp-content/uploads/2017/01/Musical_Genius-462x372.jpg
+slug: /geensnor-liederen/
 categories:
   - Vertier
   - Muziek
-format: image
 ---
 
 Als toonaangevend internet platform is geensnor.nl een baken van verfijnde smaak in een zee van middelmatigheid, commercie en kitch. Door de jaren heen hebben we tal van [initiatieven](https://advies.geensnor.nl) ontplooid om deze visie vorm te geven. Deze boom der culturele verheffing kent sinds vandaag weer een nieuwe loot: Geensnor liederen.

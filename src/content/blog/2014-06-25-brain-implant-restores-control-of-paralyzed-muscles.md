@@ -1,11 +1,8 @@
 ---
-id: 501
 title: Brain implant restores control of paralyzed muscles
 date: 2014-06-25
 author: Erik
-layout: post
-guid: https://www.geensnor.nl/wp/?p=501
-permalink: /brain-implant-restores-control-of-paralyzed-muscles/
+slug: /brain-implant-restores-control-of-paralyzed-muscles/
 categories:
   - Internet
 ---

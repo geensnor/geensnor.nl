@@ -1,11 +1,8 @@
 ---
-id: 1230
 title: Tour de France schema
 date: 2020-08-18
 author: Joris
-layout: post
-guid: https://www.geensnor.nl/wp/?p=1230
-permalink: /tour-de-france-schema/
+slug: /tour-de-france-schema/
 categories:
   - Wielrennerij
   - Internet
