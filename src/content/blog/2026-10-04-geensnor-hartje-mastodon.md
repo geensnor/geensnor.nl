@@ -2,7 +2,7 @@
 title: Geensnor ❤️ Mastodon
 author: Joris
 date: 2026-10-04
-mastodonCommentId: "117382672659450253"
+mastodonStatusId: "117382672659450253"
 categories:
   - Internet
   - Geensnor
