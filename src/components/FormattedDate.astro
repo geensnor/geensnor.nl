@@ -13,6 +13,7 @@ const { date, showTime = false } = Astro.props;
       year: "numeric",
       month: "long",
       day: "numeric",
+      timeZone: "Europe/Amsterdam",
     })
   }
   {
@@ -23,6 +24,7 @@ const { date, showTime = false } = Astro.props;
           hour: "2-digit",
           minute: "2-digit",
           hour12: false,
+          timeZone: "Europe/Amsterdam",
         })}
       </>
     )
