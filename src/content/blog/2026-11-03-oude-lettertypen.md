@@ -2,6 +2,7 @@
 title: Oude lettertypen door Richard
 author: Joris
 date: 2026-11-03
+mastodonStatusId: "117553775616705280"
 categories:
   - Internet
   - Kunst
