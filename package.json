@@ -20,7 +20,7 @@
     "@fontsource/zilla-slab": "^5.2.7",
     "@geensnor/astro-componenten": "^2.1.10",
     "@geensnor/tokens": "^1.0.0",
-    "astro": "^7.3.2",
+    "astro": "^7.4.12",
     "astro-broken-links-checker": "^1.1.0",
     "astro-embed": "^0.14.0",
     "astro-pagefind": "^2.0.1",
